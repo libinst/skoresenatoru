@@ -29,6 +29,22 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+plugins_dir: _plugins
+whitelist:
+#   - jekyll-feed
+  - jekyll_get
+
+jekyll_get:
+  - data: sheet
+    json: 'https://spreadsheets.google.com/feeds/list/12iqXog6LLXJq8LbKVlK4pcJq8--CtvLAtlvr_uktPs0/ouoc7tm/public/values?alt=json'
+    cache: true
+
+page_gen:
+  - data: sheet
+    template: sheet
+    name: nazev
+    dir: items
+    extension: html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
