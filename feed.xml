@@ -1,35 +1,421 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="/li/feed.xml" rel="self" type="application/atom+xml" /><link href="/li/" rel="alternate" type="text/html" /><updated>2017-07-03T04:07:29+00:00</updated><id>/li/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/li/jekyll/update/2017/06/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-06-26T23:01:41+00:00</published><updated>2017-06-26T23:01:41+00:00</updated><id>/li/jekyll/update/2017/06/26/welcome-to-jekyll</id><content type="html" xml:base="/li/jekyll/update/2017/06/26/welcome-to-jekyll.html">&lt;p&gt;Billboard ve vašem kraji&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="/li/feed.xml" rel="self" type="application/atom+xml" /><link href="/li/" rel="alternate" type="text/html" /><updated>2017-08-21T15:34:35+00:00</updated><id>/li/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Seznam poslanců</title><link href="/li/poslanci/2017/08/18/seznam-poslancu.html" rel="alternate" type="text/html" title="Seznam poslanců" /><published>2017-08-18T23:01:41+00:00</published><updated>2017-08-18T23:01:41+00:00</updated><id>/li/poslanci/2017/08/18/seznam-poslancu</id><content type="html" xml:base="/li/poslanci/2017/08/18/seznam-poslancu.html">&lt;ul&gt;
 
-&lt;p&gt;Místo pro stážistu&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/frantisekadamek.html&quot;&gt;František Adámek&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Mediální školení kandidátů&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelantonin.html&quot;&gt;Pavel Antonín&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Stan na ulici&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiribehounek.html&quot;&gt;Jiří Běhounek&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Výroba reklamních plachet&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/mariebenesova.html&quot;&gt;Marie Benešová&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;20 placek s logem Svobodných&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janbirke.html&quot;&gt;Jan Birke&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Jídlo pro kontaktní tým&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vlastabohdalova.html&quot;&gt;Vlasta Bohdalová&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Pitný režim pro kontaktní tým&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/robinbohnisch.html&quot;&gt;Robin Böhnisch&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Ubytování pro kontaktní tým&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelcerny.html&quot;&gt;Karel Černý&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Roznos 1000 výtisků novin&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/richarddolejs.html&quot;&gt;Richard Dolejš&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Tisk 1000 kusů novin&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavfoldyna.html&quot;&gt;Jaroslav Foldyna&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Vyžehlení košile pro lídra&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vlastimilgabrhel.html&quot;&gt;Vlastimil Gabrhel&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Reklama na Facebooku&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janhamacek.html&quot;&gt;Jan Hamáček&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Mobilní billboard na den s řidičem&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelhavir.html&quot;&gt;Pavel Havíř&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Reklamní kostka&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelholik.html&quot;&gt;Pavel Holík&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stanislavhuml.html&quot;&gt;Stanislav Huml&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/milanchovanec.html&quot;&gt;Milan Chovanec&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janchvojka.html&quot;&gt;Jan Chvojka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/igorjakubcik.html&quot;&gt;Igor Jakubčík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/barbra-jelonkova.html&quot;&gt;Barbra Jelonková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vitezslavjandak.html&quot;&gt;Vítězslav Jandák&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zuzanakailova.html&quot;&gt;Zuzana Kailová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclavklucka.html&quot;&gt;Václav Klučka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petrkorenek.html&quot;&gt;Petr Kořenek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirikoskuba.html&quot;&gt;Jiří Koskuba&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavkrakora.html&quot;&gt;Jaroslav Krákora&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janmladek.html&quot;&gt;Jan Mládek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefnovotny.html&quot;&gt;Josef Novotný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavlinanytrova.html&quot;&gt;Pavlína Nytrová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiripetru.html&quot;&gt;Jiří Petrů&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/lukaspleticha.html&quot;&gt;Lukáš Pleticha&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelploc.html&quot;&gt;Pavel Ploc&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/adamrykala.html&quot;&gt;Adam Rykala&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/antoninseda.html&quot;&gt;Antonín Seďa&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/romansklenak.html&quot;&gt;Roman Sklenák&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/bohuslavsobotka.html&quot;&gt;Bohuslav Sobotka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miroslavastrnadlova.html&quot;&gt;Miroslava Strnadlová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stepanstupcuk.html&quot;&gt;Štěpán Stupčuk&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zdeneksyblik.html&quot;&gt;Zdeněk Syblík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ladislavsincl.html&quot;&gt;Ladislav Šincl&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jeronymtejc.html&quot;&gt;Jeroným Tejc&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/lubomirtoufar.html&quot;&gt;Lubomír Toufar&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/milanurban.html&quot;&gt;Milan Urban&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/danavahalova.html&quot;&gt;Dana Váhalová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclav-valhoda.html&quot;&gt;Václav Valhoda&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/romanvana.html&quot;&gt;Roman Váňa&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ladislavvelebny.html&quot;&gt;Ladislav Velebný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclavvotava.html&quot;&gt;Václav Votava&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marketawernerova.html&quot;&gt;Markéta Wernerová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/lubomirzaoralek.html&quot;&gt;Lubomír Zaorálek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavzavadil.html&quot;&gt;Jaroslav Zavadil&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirizemanek.html&quot;&gt;Jiří Zemánek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclavzemek.html&quot;&gt;Václav Zemek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/andrejbabis.html&quot;&gt; Andrej Babiš&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/milosbabis.html&quot;&gt;Miloš Babiš&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/margitabalastikova.html&quot;&gt;Margita Balaštíková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinaberdychova.html&quot;&gt;Martina Berdychová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stanislavberkovec.html&quot;&gt;Stanislav Berkovec&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/richardbrabec.html&quot;&gt;Richard Brabec&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/milanbrazdil.html&quot;&gt;Milan Brázdil&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelcihak.html&quot;&gt;Pavel Čihák&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ivanadobesova.html&quot;&gt;Ivana Dobešová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavfaltynek.html&quot;&gt;Jaroslav Faltýnek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/matejfichtner.html&quot;&gt;Matěj Fichtner&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefhajek.html&quot;&gt;Josef Hájek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiriholecek.html&quot;&gt;Jiří Holeček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/bohuslavchalupa.html&quot;&gt;Bohuslav Chalupa&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miloslavjanulik.html&quot;&gt;Miloslav Janulík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vera-jourova.html&quot;&gt;Věra Jourová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/davidkasal.html&quot;&gt;David Kasal&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinkolovratnik.html&quot;&gt;Martin Kolovratník&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinkomarek.html&quot;&gt;Martin Komárek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefkott.html&quot;&gt;Josef Kott&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/romankubicek.html&quot;&gt;Roman Kubíček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janalorencova.html&quot;&gt;Jana Lorencová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/radkamaxova.html&quot;&gt;Radka Maxová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/igornykl.html&quot;&gt;Igor Nykl&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ladislavoklestek.html&quot;&gt;Ladislav Okleštěk&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janapastuchova.html&quot;&gt;Jana Pastuchová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/frantisekpetrtyl.html&quot;&gt;František Petrtýl&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stanislavpfleger.html&quot;&gt;Stanislav Pfléger&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ivanpilny.html&quot;&gt;Ivan Pilný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelplzak.html&quot;&gt;Pavel Plzák&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavapokorna-jermanova.html&quot;&gt;Jaroslava Pokorná Jermanová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/romanprochazka.html&quot;&gt;Roman Procházka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelrais.html&quot;&gt;Karel Rais&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miloslavarutova.html&quot;&gt;Miloslava Rutová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jansedlacek.html&quot;&gt;Jan Sedláček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinsedlar.html&quot;&gt;Martin Sedlář&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/bronislavschwarz.html&quot;&gt;Bronislav Schwarz&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zdeneksoukup.html&quot;&gt;Zdeněk Soukup&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinstropnicky.html&quot;&gt;Martin Stropnický&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zuzanasanova.html&quot;&gt;Zuzana Šánová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelsramek.html&quot;&gt;Pavel Šrámek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/helenavalkova.html&quot;&gt;Helena Válková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelvolcik.html&quot;&gt;Pavel Volčík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janvolny.html&quot;&gt;Jan Volný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/radekvondracek.html&quot;&gt;Radek Vondráček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josef-vozdecky.html&quot;&gt;Josef Vozdecký&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vlastimilvozka.html&quot;&gt;Vlastimil Vozka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/rostislavvyzula.html&quot;&gt;Rostislav Vyzula&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/kristynazelienkova.html&quot;&gt;Kristýna Zelienková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirizlatuska.html&quot;&gt;Jiří Zlatuška&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vojtechadam.html&quot;&gt; Vojtěch Adam&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/hanaaulicka-jirovcova.html&quot;&gt;Hana Aulická Jírovcová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zuzkabebarova-rujbrova.html&quot;&gt;Zuzka Bebarová Rujbrová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavborka.html&quot;&gt;Jaroslav Borka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/alexandercerny.html&quot;&gt;Alexander Černý&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/renecip.html&quot;&gt;René Číp&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiridolejs.html&quot;&gt;Jiří Dolejš&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vojtechfilip.html&quot;&gt;Vojtěch Filip&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miroslavgrebenicek.html&quot;&gt;Miroslav Grebeníček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stanislavgrospic.html&quot;&gt;Stanislav Grospič&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miladahalikova.html&quot;&gt;Milada Halíková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/gabrielahubackova.html&quot;&gt;Gabriela Hubáčková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janklan.html&quot;&gt;Jan Klán&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vladimirkonicek.html&quot;&gt;Vladimír Koníček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelkovacik.html&quot;&gt;Pavel Kováčik&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/leoluzar.html&quot;&gt;Leo Luzar&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/stanislavmackovik.html&quot;&gt;Stanislav Mackovík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/sonamarkova.html&quot;&gt;Soňa Marková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/kvetamatusovska.html&quot;&gt;Květa Matušovská&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefnekl.html&quot;&gt;Josef Nekl&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/alenanohavova.html&quot;&gt;Alena Nohavová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zdenekondracek.html&quot;&gt;Zdeněk Ondráček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miroslavopalka.html&quot;&gt;Miroslav Opálka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/mariepencikova.html&quot;&gt;Marie Pěnčíková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ivopojezny.html&quot;&gt;Ivo Pojezný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martasemelova.html&quot;&gt;Marta Semelová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclavsnopek.html&quot;&gt;Václav Snopek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefsenfeld.html&quot;&gt;Josef Šenfeld&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelsidlo.html&quot;&gt;Karel Šidlo&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirivalenta.html&quot;&gt;Jiří Valenta&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefvondrasek.html&quot;&gt;Josef Vondrášek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miloslavavostra.html&quot;&gt;Miloslava Vostrá&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefzahradnicek.html&quot;&gt;Josef Zahradníček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zdenekbezecny.html&quot;&gt;Zdeněk Bezecný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janfarsky.html&quot;&gt;Jan Farský&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petrgazdik.html&quot;&gt;Petr Gazdík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/leosheger.html&quot;&gt;Leoš Heger&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vaclavhoracek.html&quot;&gt;Václav Horáček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jitkachalankova.html&quot;&gt;Jitka Chalánková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miroslavkalousek.html&quot;&gt;Miroslav Kalousek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/danielkorte.html&quot;&gt;Daniel Korte&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/romkostrica.html&quot;&gt;Rom Kostřica&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirikoubek.html&quot;&gt;Jiří Koubek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/verakovarova.html&quot;&gt;Věra Kovářová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/michalkucera.html&quot;&gt;Michal Kučera&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/helenalangsadlova.html&quot;&gt;Helena Langšádlová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/frantiseklaudat.html&quot;&gt;František Laudát&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavlobkowicz.html&quot;&gt;Jaroslav Lobkowicz&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ninanovakova.html&quot;&gt;Nina Nováková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/herbertpavera.html&quot;&gt;Herbert Pavera&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/gabrielapeckova.html&quot;&gt;Gabriela Pecková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marketapekarova-adamova.html&quot;&gt;Markéta Pekarová Adamová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinplisek.html&quot;&gt;Martin Plíšek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/annaputnova.html&quot;&gt;Anna Putnová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelschwarzenberg.html&quot;&gt;Karel Schwarzenberg&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiriskalicky.html&quot;&gt;Jiří Skalický&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelturecek.html&quot;&gt;Karel Tureček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/frantisekvacha.html&quot;&gt;František Vácha&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marekzenisek.html&quot;&gt;Marek Ženíšek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ivanadamec.html&quot;&gt; Ivan Adamec&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marekbenda.html&quot;&gt;Marek Benda&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petrbendl.html&quot;&gt;Petr Bendl&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/adolfbeznoska.html&quot;&gt;Adolf Beznoska&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelblazek.html&quot;&gt;Pavel Blažek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janacernochova.html&quot;&gt;Jana Černochová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petrfiala.html&quot;&gt;Petr Fiala&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janafischerova.html&quot;&gt;Jana Fischerová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/radimholecek.html&quot;&gt;Radim Holeček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/simeonkaramazov.html&quot;&gt;Simeon Karamazov&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/miroslavanemcova.html&quot;&gt;Miroslava Němcová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinnovotny.html&quot;&gt;Martin Novotný&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jan-skopecek.html&quot;&gt;Jan Skopeček&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/zbynekstanjura.html&quot;&gt;Zbyněk Stanjura&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/bohuslavsvoboda.html&quot;&gt;Bohuslav Svoboda&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vladislavvilimec.html&quot;&gt;Vladislav Vilímec&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janzahradnik.html&quot;&gt;Jan Zahradník&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janbartosek.html&quot;&gt;Jan Bartošek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavelbelobradek.html&quot;&gt;Pavel Bělobrádek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ondrejbenesik.html&quot;&gt;Ondřej Benešík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ivangabal.html&quot;&gt;Ivan Gabal&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/pavlagolasowska.html&quot;&gt;Pavla Golasowská&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/danielherman.html&quot;&gt;Daniel Herman&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/ludvikhovorka.html&quot;&gt;Ludvík Hovorka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirijunek.html&quot;&gt;Jiří Junek&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marianjurecka.html&quot;&gt;Marian Jurečka&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/vitkankovsky.html&quot;&gt;Vít Kaňkovský&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavklaska.html&quot;&gt;Jaroslav Klaška&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petrkudela.html&quot;&gt;Petr Kudela&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jirimihola.html&quot;&gt;Jiří Mihola&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/tomas-janpodivinsky.html&quot;&gt;Tomáš Jan Podivínský&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/josefuhlik.html&quot;&gt;Josef Uhlík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/augustin-karelandrle-sylor.html&quot;&gt;Augustin Karel Andrle Sylor&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/marekcernoch.html&quot;&gt;Marek Černoch&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelfiedler.html&quot;&gt;Karel Fiedler&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/olgahavlova.html&quot;&gt;Olga Havlová&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/janahnykova.html&quot;&gt;Jana Hnyková&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/davidkadner.html&quot;&gt;David Kádner&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/martinlank.html&quot;&gt;Martin Lank&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jiristetina.html&quot;&gt;Jiří Štětina&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/petradam.html&quot;&gt;Petr Adam&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/radimfiala.html&quot;&gt;Radim Fiala&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/jaroslavholik.html&quot;&gt;Jaroslav Holík&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/tomiookamura.html&quot;&gt;Tomio Okamura&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/karelprazak.html&quot;&gt;Karel Pražák&lt;/a&gt;&lt;/li&gt;
+
+  &lt;li&gt;&lt;a class=&quot;page-link&quot; href=&quot;/li/poslanci/milansarapatka.html&quot;&gt;Milan Šarapatka&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">František Adámek Pavel Antonín Jiří Běhounek Marie Benešová Jan Birke Vlasta Bohdalová Robin Böhnisch Karel Černý Richard Dolejš Jaroslav Foldyna Vlastimil Gabrhel Jan Hamáček Pavel Havíř Pavel Holík Stanislav Huml Milan Chovanec Jan Chvojka Igor Jakubčík Barbra Jelonková Vítězslav Jandák Zuzana Kailová Václav Klučka Petr Kořenek Jiří Koskuba Jaroslav Krákora Jan Mládek Josef Novotný Pavlína Nytrová Jiří Petrů Lukáš Pleticha Pavel Ploc Adam Rykala Antonín Seďa Roman Sklenák Bohuslav Sobotka Miroslava Strnadlová Štěpán Stupčuk Zdeněk Syblík Ladislav Šincl Jeroným Tejc Lubomír Toufar Milan Urban Dana Váhalová Václav Valhoda Roman Váňa Ladislav Velebný Václav Votava Markéta Wernerová Lubomír Zaorálek Jaroslav Zavadil Jiří Zemánek Václav Zemek  Andrej Babiš Miloš Babiš Margita Balaštíková Martina Berdychová Stanislav Berkovec Richard Brabec Milan Brázdil Pavel Čihák Ivana Dobešová Jaroslav Faltýnek Matěj Fichtner Josef Hájek Jiří Holeček Bohuslav Chalupa Miloslav Janulík Věra Jourová David Kasal Martin Kolovratník Martin Komárek Josef Kott Roman Kubíček Jana Lorencová Radka Maxová Igor Nykl Ladislav Okleštěk Jana Pastuchová František Petrtýl Stanislav Pfléger Ivan Pilný Pavel Plzák Jaroslava Pokorná Jermanová Roman Procházka Karel Rais Miloslava Rutová Jan Sedláček Martin Sedlář Bronislav Schwarz Zdeněk Soukup Martin Stropnický Zuzana Šánová Pavel Šrámek Helena Válková Pavel Volčík Jan Volný Radek Vondráček Josef Vozdecký Vlastimil Vozka Rostislav Vyzula Kristýna Zelienková Jiří Zlatuška  Vojtěch Adam Hana Aulická Jírovcová Zuzka Bebarová Rujbrová Jaroslav Borka Alexander Černý René Číp Jiří Dolejš Vojtěch Filip Miroslav Grebeníček Stanislav Grospič Milada Halíková Gabriela Hubáčková Jan Klán Vladimír Koníček Pavel Kováčik Leo Luzar Stanislav Mackovík Soňa Marková Květa Matušovská Josef Nekl Alena Nohavová Zdeněk Ondráček Miroslav Opálka Marie Pěnčíková Ivo Pojezný Marta Semelová Václav Snopek Josef Šenfeld Karel Šidlo Jiří Valenta Josef Vondrášek Miloslava Vostrá Josef Zahradníček Zdeněk Bezecný Jan Farský Petr Gazdík Leoš Heger Václav Horáček Jitka Chalánková Miroslav Kalousek Daniel Korte Rom Kostřica Jiří Koubek Věra Kovářová Michal Kučera Helena Langšádlová František Laudát Jaroslav Lobkowicz Nina Nováková Herbert Pavera Gabriela Pecková Markéta Pekarová Adamová Martin Plíšek Anna Putnová Karel Schwarzenberg Jiří Skalický Karel Tureček František Vácha Marek Ženíšek  Ivan Adamec Marek Benda Petr Bendl Adolf Beznoska Pavel Blažek Jana Černochová Petr Fiala Jana Fischerová Radim Holeček Simeon Karamazov Miroslava Němcová Martin Novotný Jan Skopeček Zbyněk Stanjura Bohuslav Svoboda Vladislav Vilímec Jan Zahradník Jan Bartošek Pavel Bělobrádek Ondřej Benešík Ivan Gabal Pavla Golasowská Daniel Herman Ludvík Hovorka Jiří Junek Marian Jurečka Vít Kaňkovský Jaroslav Klaška Petr Kudela Jiří Mihola Tomáš Jan Podivínský Josef Uhlík Augustin Karel Andrle Sylor Marek Černoch Karel Fiedler Olga Havlová Jana Hnyková David Kádner Martin Lank Jiří Štětina Petr Adam Radim Fiala Jaroslav Holík Tomio Okamura Karel Pražák Milan Šarapatka</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/li/jekyll/update/2017/06/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-06-26T23:01:41+00:00</published><updated>2017-06-26T23:01:41+00:00</updated><id>/li/jekyll/update/2017/06/26/welcome-to-jekyll</id><content type="html" xml:base="/li/jekyll/update/2017/06/26/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -41,4 +427,4 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Billboard ve vašem kraji Místo pro stážistu Mediální školení kandidátů Stan na ulici Výroba reklamních plachet 20 placek s logem Svobodných Jídlo pro kontaktní tým Pitný režim pro kontaktní tým Ubytování pro kontaktní tým Roznos 1000 výtisků novin Tisk 1000 kusů novin Vyžehlení košile pro lídra Reklama na Facebooku Mobilní billboard na den s řidičem Reklamní kostka</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
