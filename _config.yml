@@ -36,14 +36,15 @@ whitelist:
 
 jekyll_get:
   - data: sheet
-    json: 'https://spreadsheets.google.com/feeds/list/12iqXog6LLXJq8LbKVlK4pcJq8--CtvLAtlvr_uktPs0/ouoc7tm/public/values?alt=json'
+    #json: 'https://spreadsheets.google.com/feeds/list/1YDZIwST7gOMCCEl3ssqP42Ih4O-_3gQ2jUHdJ7o4f0c/1/public/values?alt=json'
+    json: 'https://spreadsheets.google.com/feeds/list/1DT-h78iNM0vMOiZrprhxlmdVAiL3MTwkmzLjmm-pGbo/1/public/values?alt=json'
     cache: true
 
 page_gen:
   - data: sheet
     template: sheet
-    name: nazev
-    dir: items
+    name: jmeno
+    dir: poslanci
     extension: html
 
 # Exclude from processing.
