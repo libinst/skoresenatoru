@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1>{{page.jmeno}}</h1>
+<h2>{{page.strana}}</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Zákon</th>
+      <th>Hlasoval</th>
+      <th>Pozice LI</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for hlasovani in site.data.hlasovani %}
+    <tr><td><a class="page-link" href="/li/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td><td>{{ page[hlasovani.slug] }}</td><td>{{ hlasovani.poziceli }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>{{page.nazev}}</h1>
+<h2><a href="{{page.psp_url}}">Odkaz</a></h2>
+<h2>{{page.schuze}}</h2>
+<h2>Pozice LI: {{page.poziceli}}</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Poslanec</th>
+      <th>Strana</th>
+      <th>Hlasoval</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for poslanec in site.data.poslanci %}
+    <tr><td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/li/poslanci' }}">{{ poslanec.jmeno }}</a></td><td>{{ poslanec.strana }}</td><td>{{ poslanec[page.slug] }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>

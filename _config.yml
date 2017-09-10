@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Skóre poslanců
+email: info@skoreposlancu.cz
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -35,16 +35,26 @@ whitelist:
   - jekyll_get
 
 jekyll_get:
-  - data: sheet
-    #json: 'https://spreadsheets.google.com/feeds/list/1YDZIwST7gOMCCEl3ssqP42Ih4O-_3gQ2jUHdJ7o4f0c/1/public/values?alt=json'
-    json: 'https://spreadsheets.google.com/feeds/list/1DT-h78iNM0vMOiZrprhxlmdVAiL3MTwkmzLjmm-pGbo/1/public/values?alt=json'
+  - data: hlasovani
+    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/5/public/values?alt=json'
+    cache: true
+  - data: ranking
+    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/2/public/values?alt=json'
+    cache: true
+  - data: poslanci
+    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/6/public/values?alt=json'
     cache: true
 
 page_gen:
-  - data: sheet
-    template: sheet
+  - data: poslanci
+    template: poslanec
     name: jmeno
     dir: poslanci
+    extension: html
+  - data: hlasovani
+    template: hlasovani
+    name: slug
+    dir: hlasovani
     extension: html
 
 # Exclude from processing.
