@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Seznam hlasování</title>
+
+  <meta name="author" content="Some Person" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" href="/li/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/li/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/li/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/li/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Seznam hlasování" />
+  
+
+   
+  <meta property="og:description" content="
+  
+  {% for hlasovani in site.data.hlasovani %}
+    {{ hlasovani.nazev }}
+  {% endfor %}
+  
+
+
+
+">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="/hlasovani" />
+  <link rel="canonical" href="/hlasovani" />
+  
+
+  
+  <meta property="og:image" content="/img/avatar-icon.png" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+
+  
+  <meta name="twitter:title" content="Seznam hlasování" />
+  
+
+  
+  <meta name="twitter:description" content="
+  
+  {% for hlasovani in site.data.hlasovani %}
+    {{ hlasovani.nazev }}
+  {% endfor %}
+  
+
+
+
+">
+  
+
+  
+  <meta name="twitter:image" content="/img/avatar-icon.png" />
+  
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="">Skóre poslanců</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//ranking.html">TOP10</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//hlasovani.html">Hlasování</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href=" ">
+	      <img class="avatar-img" src="/li/img/avatar-icon.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Seznam hlasování</h1>
+		  
+		  
+		  
+		  <span class="post-meta">Posted on August 19, 2017</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <article role="main" class="blog-post">
+        <table class="table">
+  <tbody>
+  
+    <tr><td><a href="/li/hlasovani/eet.html">EET</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/kontolni-hlaseni.html">Kontrolní hlášení</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zakaz-vodnich-dymek.html">zákaz vodních dýmek a rozhodnutí majitelů o kouření na zahrádkách (část protikuřáckého zákona, neprošlo)</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zakaz-koureni-v-aute.html">zákaz kouření v autě s dítětem (neprošlo)</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zakaz-koureni-v-restauracich.html">Zákaz kouření v restauracích</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/politicke-strany.html">Novela zákona o politických stranách</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/prokazovani-majetku.html">Zákon o prokazování původu majetku</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zakaz-kozesinovych-farem.html">Zákaz kožešinových farem</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zneuziti-vyznamne-trzni-sily.html">Novela zákona o zneužití významné tržní síly</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/pohrebnictvi.html">Novela zákona o pohřebnictví (zákaz papírových rakví,…)</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/statni-sluzba.html">Zákon o státní službě</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/prace-na-dohodu.html">Zákaz pracovat na dohodu pokud je člověk vedený na úřadu práce</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/predskolni-vzdelavani.html">Povinné předškolní vzdělávání </a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/prodej-o-svatcich.html">Zákaz prodeje o svátcích</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/treti-sazba-dph.html">Třetí sazba DPH</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/uber.html">Taxíky proti Uberu</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/stavebni-zakon.html">Novela stavebního zákona, asi dobrej zákon</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/prestupky.html">Novela zákona o přestupcích</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/bezpecnost-cr.html">Novela ústav. z. o bezpečnosti České republiky</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/registr-smluv.html">Registr smluv</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/registr-smluv.html">Novela zákona o registru smluv (vyjmutí veřejných podniků)</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/danovy-balicek-2014.html">Daňový balíček 2014</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/danovy-balicek-2017.html">Daňový balíček 2017</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/rozpoctova-odpovednost.html">Návrh zákona o rozpočtové odpovědnosti (zamítací návrh)</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/lesni-skolky.html">Zákaz lesních školek</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/umele-oplodneni-svobodnych.html">Umělé oplodnění pro svobodné ženy</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/kontrola-kotlu.html">Ne kontrole kotlů</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/podpora-biopaliv.html">Omezení podpory biopaliv</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/recyklace-odpadu.html">Omezení povinnosti recyklace obalů</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zdrazeni-cigaret.html">Zdražení cigaret</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/blokovani-webu-soudy.html">Blokování webů jen soudy</a></td></tr>
+  
+    <tr><td><a href="/li/hlasovani/zpravodajske-sluzby.html">Zprvodajské služby</a></td></tr>
+  
+  </tbody>
+</table>
+
+<!-- | datapage_url: "/li/poslanci" -->
+
+      </article>
+
+      
+
+      
+
+      <ul class="pager blog-pager">
+        
+        
+      </ul>
+
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/yourname" title="Facebook">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Facebook</span>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://github.com/yourname" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/yourname" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:youremail@domain.com" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Some Person
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="">skoreposlancu.cz</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/li/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

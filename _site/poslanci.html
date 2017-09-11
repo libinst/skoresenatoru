@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Seznam poslanců</title>
+
+  <meta name="author" content="Some Person" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" href="/li/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/li/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/li/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/li/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Seznam poslanců" />
+  
+
+   
+  <meta property="og:description" content="
+{% for poslanec in site.data.poslanci %}
+  {{ poslanec.jmeno }}
+{% endfor %}
+
+
+
+">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="/poslanci" />
+  <link rel="canonical" href="/poslanci" />
+  
+
+  
+  <meta property="og:image" content="/img/avatar-icon.png" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+
+  
+  <meta name="twitter:title" content="Seznam poslanců" />
+  
+
+  
+  <meta name="twitter:description" content="
+{% for poslanec in site.data.poslanci %}
+  {{ poslanec.jmeno }}
+{% endfor %}
+
+
+
+">
+  
+
+  
+  <meta name="twitter:image" content="/img/avatar-icon.png" />
+  
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="">Skóre poslanců</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//ranking.html">TOP10</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//hlasovani.html">Hlasování</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href=" ">
+	      <img class="avatar-img" src="/li/img/avatar-icon.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Seznam poslanců</h1>
+		  
+		  
+		  
+		  <span class="post-meta">Posted on August 19, 2017</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <article role="main" class="blog-post">
+        <ul>
+
+  <li><a class="page-link" href="/li/poslanci/frantisekadamek.html">František Adámek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelantonin.html">Pavel Antonín</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiribehounek.html">Jiří Běhounek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/mariebenesova.html">Marie Benešová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janbirke.html">Jan Birke</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vlastabohdalova.html">Vlasta Bohdalová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/robinbohnisch.html">Robin Böhnisch</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelcerny.html">Karel Černý</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/richarddolejs.html">Richard Dolejš</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavfoldyna.html">Jaroslav Foldyna</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vlastimilgabrhel.html">Vlastimil Gabrhel</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janhamacek.html">Jan Hamáček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelhavir.html">Pavel Havíř</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelholik.html">Pavel Holík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stanislavhuml.html">Stanislav Huml</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/milanchovanec.html">Milan Chovanec</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janchvojka.html">Jan Chvojka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/igorjakubcik.html">Igor Jakubčík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/barbora-jelonkova.html">Barbora Jelonková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vitezslavjandak.html">Vítězslav Jandák</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zuzanakailova.html">Zuzana Kailová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclavklucka.html">Václav Klučka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petrkorenek.html">Petr Kořenek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirikoskuba.html">Jiří Koskuba</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavkrakora.html">Jaroslav Krákora</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janmladek.html">Jan Mládek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefnovotny.html">Josef Novotný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavlinanytrova.html">Pavlína Nytrová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiripetru.html">Jiří Petrů</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/lukaspleticha.html">Lukáš Pleticha</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelploc.html">Pavel Ploc</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/adamrykala.html">Adam Rykala</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/antoninseda.html">Antonín Seďa</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/romansklenak.html">Roman Sklenák</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/bohuslavsobotka.html">Bohuslav Sobotka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miroslavastrnadlova.html">Miroslava Strnadlová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stepanstupcuk.html">Štěpán Stupčuk</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zdeneksyblik.html">Zdeněk Syblík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ladislavsincl.html">Ladislav Šincl</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jeronymtejc.html">Jeroným Tejc</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/lubomirtoufar.html">Lubomír Toufar</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/milanurban.html">Milan Urban</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/danavahalova.html">Dana Váhalová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclav-valhoda.html">Václav Valhoda</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/romanvana.html">Roman Váňa</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ladislavvelebny.html">Ladislav Velebný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclavvotava.html">Václav Votava</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marketawernerova.html">Markéta Wernerová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/lubomirzaoralek.html">Lubomír Zaorálek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavzavadil.html">Jaroslav Zavadil</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirizemanek.html">Jiří Zemánek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclavzemek.html">Václav Zemek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/andrejbabis.html"> Andrej Babiš</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/milosbabis.html">Miloš Babiš</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/margitabalastikova.html">Margita Balaštíková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinaberdychova.html">Martina Berdychová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stanislavberkovec.html">Stanislav Berkovec</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/richardbrabec.html">Richard Brabec</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/milanbrazdil.html">Milan Brázdil</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelcihak.html">Pavel Čihák</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ivanadobesova.html">Ivana Dobešová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavfaltynek.html">Jaroslav Faltýnek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/matejfichtner.html">Matěj Fichtner</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefhajek.html">Josef Hájek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiriholecek.html">Jiří Holeček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/bohuslavchalupa.html">Bohuslav Chalupa</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miloslavjanulik.html">Miloslav Janulík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vera-jourova.html">Věra Jourová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/davidkasal.html">David Kasal</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinkolovratnik.html">Martin Kolovratník</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinkomarek.html">Martin Komárek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefkott.html">Josef Kott</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/romankubicek.html">Roman Kubíček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janalorencova.html">Jana Lorencová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/radkamaxova.html">Radka Maxová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/igornykl.html">Igor Nykl</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ladislavoklestek.html">Ladislav Okleštěk</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janapastuchova.html">Jana Pastuchová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/frantisekpetrtyl.html">František Petrtýl</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stanislavpfleger.html">Stanislav Pfléger</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ivanpilny.html">Ivan Pilný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelplzak.html">Pavel Plzák</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavapokorna-jermanova.html">Jaroslava Pokorná Jermanová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/romanprochazka.html">Roman Procházka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelrais.html">Karel Rais</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miloslavarutova.html">Miloslava Rutová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jansedlacek.html">Jan Sedláček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinsedlar.html">Martin Sedlář</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/bronislavschwarz.html">Bronislav Schwarz</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zdeneksoukup.html">Zdeněk Soukup</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinstropnicky.html">Martin Stropnický</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zuzanasanova.html">Zuzana Šánová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelsramek.html">Pavel Šrámek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/helenavalkova.html">Helena Válková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelvolcik.html">Pavel Volčík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janvolny.html">Jan Volný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/radekvondracek.html">Radek Vondráček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josef-vozdecky.html">Josef Vozdecký</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vlastimilvozka.html">Vlastimil Vozka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/rostislavvyzula.html">Rostislav Vyzula</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/kristynazelienkova.html">Kristýna Zelienková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirizlatuska.html">Jiří Zlatuška</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vojtechadam.html"> Vojtěch Adam</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/hanaaulicka-jirovcova.html">Hana Aulická Jírovcová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zuzkabebarova-rujbrova.html">Zuzka Bebarová Rujbrová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavborka.html">Jaroslav Borka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/alexandercerny.html">Alexander Černý</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/renecip.html">René Číp</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiridolejs.html">Jiří Dolejš</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vojtechfilip.html">Vojtěch Filip</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miroslavgrebenicek.html">Miroslav Grebeníček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stanislavgrospic.html">Stanislav Grospič</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miladahalikova.html">Milada Halíková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/gabrielahubackova.html">Gabriela Hubáčková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janklan.html">Jan Klán</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vladimirkonicek.html">Vladimír Koníček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelkovacik.html">Pavel Kováčik</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/leoluzar.html">Leo Luzar</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/stanislavmackovik.html">Stanislav Mackovík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/sonamarkova.html">Soňa Marková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/kvetamatusovska.html">Květa Matušovská</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefnekl.html">Josef Nekl</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/alenanohavova.html">Alena Nohavová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zdenekondracek.html">Zdeněk Ondráček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miroslavopalka.html">Miroslav Opálka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/mariepencikova.html">Marie Pěnčíková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ivopojezny.html">Ivo Pojezný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martasemelova.html">Marta Semelová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclavsnopek.html">Václav Snopek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefsenfeld.html">Josef Šenfeld</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelsidlo.html">Karel Šidlo</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirivalenta.html">Jiří Valenta</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefvondrasek.html">Josef Vondrášek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miloslavavostra.html">Miloslava Vostrá</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefzahradnicek.html">Josef Zahradníček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zdenekbezecny.html">Zdeněk Bezecný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janfarsky.html">Jan Farský</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petrgazdik.html">Petr Gazdík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/leosheger.html">Leoš Heger</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vaclavhoracek.html">Václav Horáček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jitkachalankova.html">Jitka Chalánková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miroslavkalousek.html">Miroslav Kalousek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/danielkorte.html">Daniel Korte</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/romkostrica.html">Rom Kostřica</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirikoubek.html">Jiří Koubek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/verakovarova.html">Věra Kovářová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/michalkucera.html">Michal Kučera</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/helenalangsadlova.html">Helena Langšádlová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/frantiseklaudat.html">František Laudát</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavlobkowicz.html">Jaroslav Lobkowicz</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ninanovakova.html">Nina Nováková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/herbertpavera.html">Herbert Pavera</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/gabrielapeckova.html">Gabriela Pecková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marketapekarova-adamova.html">Markéta Pekarová Adamová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinplisek.html">Martin Plíšek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/annaputnova.html">Anna Putnová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelschwarzenberg.html">Karel Schwarzenberg</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiriskalicky.html">Jiří Skalický</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelturecek.html">Karel Tureček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/frantisekvacha.html">František Vácha</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marekzenisek.html">Marek Ženíšek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ivanadamec.html"> Ivan Adamec</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marekbenda.html">Marek Benda</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petrbendl.html">Petr Bendl</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/adolfbeznoska.html">Adolf Beznoska</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelblazek.html">Pavel Blažek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janacernochova.html">Jana Černochová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petrfiala.html">Petr Fiala</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janafischerova.html">Jana Fischerová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/radimholecek.html">Radim Holeček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/simeonkaramazov.html">Simeon Karamazov</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/miroslavanemcova.html">Miroslava Němcová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinnovotny.html">Martin Novotný</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jan-skopecek.html">Jan Skopeček</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/zbynekstanjura.html">Zbyněk Stanjura</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/bohuslavsvoboda.html">Bohuslav Svoboda</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vladislavvilimec.html">Vladislav Vilímec</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janzahradnik.html">Jan Zahradník</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janbartosek.html">Jan Bartošek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavelbelobradek.html">Pavel Bělobrádek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ondrejbenesik.html">Ondřej Benešík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ivangabal.html">Ivan Gabal</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/pavlagolasowska.html">Pavla Golasowská</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/danielherman.html">Daniel Herman</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/ludvikhovorka.html">Ludvík Hovorka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirijunek.html">Jiří Junek</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marianjurecka.html">Marian Jurečka</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/vitkankovsky.html">Vít Kaňkovský</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavklaska.html">Jaroslav Klaška</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petrkudela.html">Petr Kudela</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jirimihola.html">Jiří Mihola</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/tomas-janpodivinsky.html">Tomáš Jan Podivínský</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/josefuhlik.html">Josef Uhlík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/augustin-karelandrle-sylor.html">Augustin Karel Andrle Sylor</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/marekcernoch.html">Marek Černoch</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelfiedler.html">Karel Fiedler</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/olgahavlova.html">Olga Havlová</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/janahnykova.html">Jana Hnyková</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/davidkadner.html">David Kádner</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/martinlank.html">Martin Lank</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jiristetina.html">Jiří Štětina</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/petradam.html">Petr Adam</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/radimfiala.html">Radim Fiala</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/jaroslavholik.html">Jaroslav Holík</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/tomiookamura.html">Tomio Okamura</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/karelprazak.html">Karel Pražák</a></li>
+
+  <li><a class="page-link" href="/li/poslanci/milansarapatka.html">Milan Šarapatka</a></li>
+
+</ul>
+
+<!-- | datapage_url: "/li/poslanci" -->
+
+      </article>
+
+      
+
+      
+
+      <ul class="pager blog-pager">
+        
+        
+      </ul>
+
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/yourname" title="Facebook">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Facebook</span>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://github.com/yourname" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/yourname" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:youremail@domain.com" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Some Person
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="">skoreposlancu.cz</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/li/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>
