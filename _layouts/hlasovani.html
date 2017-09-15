@@ -3,9 +3,14 @@ layout: default
 ---
 
 <h1>{{page.nazev}}</h1>
-<h2><a href="{{page.psp_url}}">Odkaz</a></h2>
-<h2>{{page.schuze}}</h2>
 <h2>Pozice LI: {{page.poziceli}}</h2>
+{% if page.pspurl %}
+<a href="{{page.pspurl}}">{{page.schuze}}</a>
+{% else %}
+{{ page.schuze }}
+{% endif %}
+
+<h2>Jak hlasovali?</h2>
 <table class="table">
   <thead>
     <tr>

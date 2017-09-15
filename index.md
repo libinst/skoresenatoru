@@ -1,6 +1,36 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+title:  "Skóre poslanců"
 ---
+
+<div class="row">
+  <div class="col-md-6">
+    <h1>Deset nejlepších</h1>
+    <table class="table">
+    <tbody>
+    {% for poslanec in site.data.ranking_nejlepsi limit:10 %}
+      <tr>
+        <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/li/poslanci' }}">{{ poslanec.jmeno }}</a></td>
+        <td>{{ poslanec.strana }}</td>
+        <td>{{ poslanec.procent }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h1>Deset nejhorších</h1>
+    <table class="table">
+    <tbody>
+    {% for poslanec in site.data.ranking_nejhorsi limit:10 %}
+      <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/li/poslanci' }}">{{ poslanec.jmeno }}</a></td>
+      <td>{{ poslanec.strana }}</td>
+      <td>{{ poslanec.procent }}</td>
+    {% endfor %}
+    </tbody>
+    </table>
+  </div>
+</div>
+
+
+<!-- | datapage_url: "/li/poslanci" -->
