@@ -35,7 +35,7 @@ module Jekyll_Get
             data_source = (site.config['data_source'] || '_data')
             path = "#{data_source}/#{d['data']}.json"
             open(path, 'wb') do |file|
-              file << JSON.generate(site.data[d['data']])
+              file << JSON.pretty_generate(site.data[d['data']])
             end
           end
         rescue
