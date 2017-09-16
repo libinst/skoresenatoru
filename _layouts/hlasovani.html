@@ -3,12 +3,15 @@ layout: default
 ---
 
 <h1>{{page.nazev}}</h1>
-<h2>Pozice LI: {{page.poziceli}}</h2>
 {% if page.pspurl %}
 <a href="{{page.pspurl}}">{{page.schuze}}</a>
 {% else %}
 {{ page.schuze }}
 {% endif %}
+<h2>Pozice LI: {{page.poziceli}}</h2>
+<blockquote>
+<p>{{ page.vysvetleni }}</p>
+</blockquote>
 
 <h2>Jak hlasovali?</h2>
 <table class="table">
@@ -25,3 +28,7 @@ layout: default
   {% endfor %}
   </tbody>
 </table>
+
+{% if page.social-share %}
+  {% include social-share.html %}
+{% endif %}

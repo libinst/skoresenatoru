@@ -34,3 +34,7 @@ layout: default
   {% endfor %}
   </tbody>
 </table>
+
+{% if page.social-share %}
+  {% include social-share.html %}
+{% endif %}
