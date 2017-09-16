@@ -57,7 +57,7 @@
   
 
    
-  <meta property="og:description" content="{% assign id = page.linkurl | replace_first: '&amp;o=7&amp;l=cz', '' | replace_first: 'http://www.psp.cz/sqw/detail.sqw?id=', '' %} {{page.jmeno}} {{page.strana}} Na webu PSP {% assign resource = site.data.ranking | where: &quot;jmeno&quot;, page.jmeno | first %} RANKING: {{resource.rank}} Jak hlasoval? Zákon Hlasoval Pozice LI {% for hlasovani in site.data.hlasovani %} {{ hlasovani.nazev }}{{ page[hlasovani.slug] }}{{...">
+  <meta property="og:description" content="{% assign id = page.linkurl | replace_first: '&amp;o=7&amp;l=cz', '' | replace_first: 'http://www.psp.cz/sqw/detail.sqw?id=', '' %} {{page.jmeno}} {{page.strana}} Na webu PSP {% assign resource = site.data.ranking | where: &quot;jmeno&quot;, page.jmeno | first %} RANKING: {{resource.rank}} {% if page.pohlavi==&quot;F&quot;%} Jak hlasovala? {% else %} Jak hlasoval? {% endif %} Zákon Hlasoval Pozice LI...">
   
 
 
@@ -69,7 +69,7 @@
   
 
   
-  <meta property="og:image" content="/img/avatar-icon.png" />
+  <meta property="og:image" content="/img/libinst.jpg" />
   
 
 
@@ -83,11 +83,11 @@
   
 
   
-  <meta name="twitter:description" content="{% assign id = page.linkurl | replace_first: '&amp;o=7&amp;l=cz', '' | replace_first: 'http://www.psp.cz/sqw/detail.sqw?id=', '' %} {{page.jmeno}} {{page.strana}} Na webu PSP {% assign resource = site.data.ranking | where: &quot;jmeno&quot;, page.jmeno | first %} RANKING: {{resource.rank}} Jak hlasoval? Zákon Hlasoval Pozice LI {% for hlasovani in site.data.hlasovani %} {{ hlasovani.nazev }}{{ page[hlasovani.slug] }}{{...">
+  <meta name="twitter:description" content="{% assign id = page.linkurl | replace_first: '&amp;o=7&amp;l=cz', '' | replace_first: 'http://www.psp.cz/sqw/detail.sqw?id=', '' %} {{page.jmeno}} {{page.strana}} Na webu PSP {% assign resource = site.data.ranking | where: &quot;jmeno&quot;, page.jmeno | first %} RANKING: {{resource.rank}} {% if page.pohlavi==&quot;F&quot;%} Jak hlasovala? {% else %} Jak hlasoval? {% endif %} Zákon Hlasoval Pozice LI...">
   
 
   
-  <meta name="twitter:image" content="/img/avatar-icon.png" />
+  <meta name="twitter:image" content="/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -113,7 +113,34 @@
       
     </div>
 
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    jQuery.getJSON('/li/poslanci.json', function(data) {
+      $("#poslanec-search").autocomplete({
+        source: data,
+        minLength: 2,
+        select: function(event, ui){
+          // console.log(ui.item.url)
+          // redirect to url
+          window.location = ui.item.url
+        }
+      });
+    });
+    </script>
+
     <div class="collapse navbar-collapse" id="main-navbar">
+      <div class="col-sm-3 col-md-3 pull-right">
+        <form class="navbar-form" role="search">
+          <div class="input-group">
+            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+          </div>
+        </form>
+      </div>
       <ul class="nav navbar-nav navbar-right">
       
         
@@ -125,7 +152,7 @@
 
 
 
-<a href="/li//ranking.html">TOP10</a>
+<a href="/li//index.html">TOP10</a>
 
           </li>
         
@@ -151,7 +178,7 @@
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href=" ">
-	      <img class="avatar-img" src="/li/img/avatar-icon.png" />
+	      <img class="avatar-img" src="/li/img/libinst.jpg" />
 		</a>
 	  </div>
 	</div>
@@ -167,18 +194,20 @@
   <div class="row">
   <div class="col-md-4">
     
-    <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/i6424&o=7.jpg" class="img-thumbnail">
+    <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/i6424.jpg" class="img-thumbnail">
   </div>
   <div class="col-md-8">
     <h1>Václav Valhoda</h1>
     <h2>ČSSD</h2>
-    <a href="http://www.psp.cz/sqw/detail.sqw?id=6424&o=7">Na webu PSP</a>
+    <a href="http://www.psp.cz/sqw/detail.sqw?id=6424">Na webu PSP</a>
     
-    <h2>RANKING: 0%</h2>
+    <h2>RANKING: 67%</h2>
   </div>
 </div>
 
+
 <h2>Jak hlasoval?</h2>
+
 <table class="table">
   <thead>
     <tr>
@@ -229,29 +258,25 @@
   
     <tr><td><a class="page-link" href="/li/hlasovani/registr-smluv">Registr smluv</a></td><td></td><td>-1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/registr-smluv">Novela zákona o registru smluv (vyjmutí veřejných podniků)</a></td><td></td><td>1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/registr-smluv-novela">Novela zákona o registru smluv (vyjmutí veřejných podniků)</a></td><td></td><td>1</td></tr>
   
     <tr><td><a class="page-link" href="/li/hlasovani/danovy-balicek-2014">Daňový balíček 2014</a></td><td></td><td>1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/danovy-balicek-2017">Daňový balíček 2017</a></td><td></td><td></td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/rozpoctova-odpovednost">Návrh zákona o rozpočtové odpovědnosti (zamítací návrh)</a></td><td></td><td>1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/lesni-skolky">Zákaz lesních školek</a></td><td></td><td>1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/umele-oplodneni-svobodnych">Umělé oplodnění pro svobodné ženy</a></td><td></td><td>1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>-1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/kontrola-kotlu">Ne kontrole kotlů</a></td><td></td><td>-1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>-1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/podpora-biopaliv">Omezení podpory biopaliv</a></td><td></td><td>-1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>-1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/recyklace-odpadu">Omezení povinnosti recyklace obalů</a></td><td></td><td>-1</td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>1</td></tr>
   
-    <tr><td><a class="page-link" href="/li/hlasovani/zdrazeni-cigaret">Zdražení cigaret</a></td><td></td><td>1</td></tr>
-  
-    <tr><td><a class="page-link" href="/li/hlasovani/blokovani-webu-soudy">Blokování webů jen soudy</a></td><td></td><td>-1</td></tr>
-  
-    <tr><td><a class="page-link" href="/li/hlasovani/zpravodajske-sluzby">Zprvodajské služby</a></td><td></td><td></td></tr>
+    <tr><td><a class="page-link" href="/li/hlasovani/"></a></td><td></td><td>-1</td></tr>
   
   </tbody>
 </table>
