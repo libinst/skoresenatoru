@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>registr-smluv-novela</title>
+
+  <meta name="author" content="Some Person" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" href="/li/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/li/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/li/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/li/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="registr-smluv-novela" />
+  
+
+   
+  <meta property="og:description" content="{{page.nazev}}
+Pozice LI: {{page.poziceli}}
+{% if page.pspurl %}
+{{page.schuze}}
+{% else %}
+{{ page.schuze }}
+{% endif %}
+
+Jak hlasovali?
+
+  
+    
+      Poslanec
+      Strana
+      Hlasoval
+    
+  
+  
+  {% for poslanec in site.data.poslanci %}
+    {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }}
+  {% endfor %}
+  
+
+">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="/hlasovani/registr-smluv-novela" />
+  <link rel="canonical" href="/hlasovani/registr-smluv-novela" />
+  
+
+  
+  <meta property="og:image" content="/img/libinst.jpg" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+
+  
+  <meta name="twitter:title" content="registr-smluv-novela" />
+  
+
+  
+  <meta name="twitter:description" content="{{page.nazev}}
+Pozice LI: {{page.poziceli}}
+{% if page.pspurl %}
+{{page.schuze}}
+{% else %}
+{{ page.schuze }}
+{% endif %}
+
+Jak hlasovali?
+
+  
+    
+      Poslanec
+      Strana
+      Hlasoval
+    
+  
+  
+  {% for poslanec in site.data.poslanci %}
+    {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }}
+  {% endfor %}
+  
+
+">
+  
+
+  
+  <meta name="twitter:image" content="/img/libinst.jpg" />
+  
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="">Skóre poslanců</a>
+      
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    jQuery.getJSON('/li/poslanci.json', function(data) {
+      $("#poslanec-search").autocomplete({
+        source: data,
+        minLength: 2,
+        select: function(event, ui){
+          // console.log(ui.item.url)
+          // redirect to url
+          window.location = ui.item.url
+        }
+      });
+    });
+    </script>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <div class="col-sm-3 col-md-3 pull-right">
+        <form class="navbar-form" role="search">
+          <div class="input-group">
+            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//index.html">TOP10</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/li//hlasovani.html">Hlasování</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href=" ">
+	      <img class="avatar-img" src="/li/img/libinst.jpg" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <div class="intro-header"></div>
+
+<div role="main" class="container">
+  <h1>Novela zákona o registru smluv (vyjmutí veřejných podniků)</h1>
+<h2>Pozice LI: 1</h2>
+
+<a href="http://www.psp.cz/sqw/hlasy.sqw?G=65423">55. schůze, 99. hlasování, 22. února 2017, 13:12</a>
+
+
+<h2>Jak hlasovali?</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Poslanec</th>
+      <th>Strana</th>
+      <th>Hlasoval</th>
+    </tr>
+  </thead>
+  <tbody>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/frantisek-adamek.html">František Adámek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-antonin.html">Pavel Antonín</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-behounek.html">Jiří Běhounek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marie-benesova.html">Marie Benešová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-birke.html">Jan Birke</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vlasta-bohdalova.html">Vlasta Bohdalová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/robin-bohnisch.html">Robin Böhnisch</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-cerny.html">Karel Černý</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/richard-dolejs.html">Richard Dolejš</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-foldyna.html">Jaroslav Foldyna</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vlastimil-gabrhel.html">Vlastimil Gabrhel</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-hamacek.html">Jan Hamáček</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-havir.html">Pavel Havíř</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-holik.html">Pavel Holík</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-huml.html">Stanislav Huml</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milan-chovanec.html">Milan Chovanec</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-chvojka.html">Jan Chvojka</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/igor-jakubcik.html">Igor Jakubčík</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/barbora-jelonkova.html">Barbora Jelonková</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vitezslav-jandak.html">Vítězslav Jandák</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zuzana-kailova.html">Zuzana Kailová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-klucka.html">Václav Klučka</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-korenek.html">Petr Kořenek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-koskuba.html">Jiří Koskuba</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-krakora.html">Jaroslav Krákora</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-mladek.html">Jan Mládek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-novotny.html">Josef Novotný</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavlina-nytrova.html">Pavlína Nytrová</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-petru.html">Jiří Petrů</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/lukas-pleticha.html">Lukáš Pleticha</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-ploc.html">Pavel Ploc</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/adam-rykala.html">Adam Rykala</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/antonin-seda.html">Antonín Seďa</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/roman-sklenak.html">Roman Sklenák</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/bohuslav-sobotka.html">Bohuslav Sobotka</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miroslava-strnadlova.html">Miroslava Strnadlová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stepan-stupcuk.html">Štěpán Stupčuk</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zdenek-syblik.html">Zdeněk Syblík</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ladislav-sincl.html">Ladislav Šincl</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jeronym-tejc.html">Jeroným Tejc</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/lubomir-toufar.html">Lubomír Toufar</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milan-urban.html">Milan Urban</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/dana-vahalova.html">Dana Váhalová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-valhoda.html">Václav Valhoda</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/roman-vana.html">Roman Váňa</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ladislav-velebny.html">Ladislav Velebný</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-votava.html">Václav Votava</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marketa-wernerova.html">Markéta Wernerová</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/lubomir-zaoralek.html">Lubomír Zaorálek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-zavadil.html">Jaroslav Zavadil</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-zemanek.html">Jiří Zemánek</a></td><td>ČSSD</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-zemek.html">Václav Zemek</a></td><td>ČSSD</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/-andrej-babis.html"> Andrej Babiš</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milos-babis.html">Miloš Babiš</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/margita-balastikova.html">Margita Balaštíková</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martina-berdychova.html">Martina Berdychová</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-berkovec.html">Stanislav Berkovec</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/richard-brabec.html">Richard Brabec</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milan-brazdil.html">Milan Brázdil</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-cihak.html">Pavel Čihák</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ivana-dobesova.html">Ivana Dobešová</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-faltynek.html">Jaroslav Faltýnek</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/matej-fichtner.html">Matěj Fichtner</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-hajek.html">Josef Hájek</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-holecek.html">Jiří Holeček</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/bohuslav-chalupa.html">Bohuslav Chalupa</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miloslav-janulik.html">Miloslav Janulík</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vera-jourova.html">Věra Jourová</a></td><td>ANO</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/david-kasal.html">David Kasal</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-kolovratnik.html">Martin Kolovratník</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-komarek.html">Martin Komárek</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-kott.html">Josef Kott</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/roman-kubicek.html">Roman Kubíček</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jana-lorencova.html">Jana Lorencová</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/radka-maxova.html">Radka Maxová</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/igor-nykl.html">Igor Nykl</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ladislav-oklestek.html">Ladislav Okleštěk</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jana-pastuchova.html">Jana Pastuchová</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/frantisek-petrtyl.html">František Petrtýl</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-pfleger.html">Stanislav Pfléger</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ivan-pilny.html">Ivan Pilný</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-plzak.html">Pavel Plzák</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslava-pokorna-jermanova.html">Jaroslava Pokorná Jermanová</a></td><td>ANO</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/roman-prochazka.html">Roman Procházka</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-rais.html">Karel Rais</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miloslava-rutova.html">Miloslava Rutová</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-sedlacek.html">Jan Sedláček</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-sedlar.html">Martin Sedlář</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/bronislav-schwarz.html">Bronislav Schwarz</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zdenek-soukup.html">Zdeněk Soukup</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-stropnicky.html">Martin Stropnický</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zuzana-sanova.html">Zuzana Šánová</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-sramek.html">Pavel Šrámek</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/helena-valkova.html">Helena Válková</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-volcik.html">Pavel Volčík</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-volny.html">Jan Volný</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/radek-vondracek.html">Radek Vondráček</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-vozdecky.html">Josef Vozdecký</a></td><td>ANO</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vlastimil-vozka.html">Vlastimil Vozka</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/rostislav-vyzula.html">Rostislav Vyzula</a></td><td>ANO</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/kristyna-zelienkova.html">Kristýna Zelienková</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-zlatuska.html">Jiří Zlatuška</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vojtech-adam.html">Vojtěch Adam</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/hana-aulicka-jirovcova.html">Hana Aulická Jírovcová</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zuzka-bebarova-rujbrova.html">Zuzka Bebarová Rujbrová</a></td><td>KSČM</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-borka.html">Jaroslav Borka</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/alexander-cerny.html">Alexander Černý</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/rene-cip.html">René Číp</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-dolejs.html">Jiří Dolejš</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vojtech-filip.html">Vojtěch Filip</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miroslav-grebenicek.html">Miroslav Grebeníček</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-grospic.html">Stanislav Grospič</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milada-halikova.html">Milada Halíková</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/gabriela-hubackova.html">Gabriela Hubáčková</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-klan.html">Jan Klán</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vladimir-konicek.html">Vladimír Koníček</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-kovacik.html">Pavel Kováčik</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/leo-luzar.html">Leo Luzar</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-mackovik.html">Stanislav Mackovík</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/sona-markova.html">Soňa Marková</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/kveta-matusovska.html">Květa Matušovská</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-nekl.html">Josef Nekl</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/alena-nohavova.html">Alena Nohavová</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zdenek-ondracek.html">Zdeněk Ondráček</a></td><td>KSČM</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miroslav-opalka.html">Miroslav Opálka</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marie-pencikova.html">Marie Pěnčíková</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ivo-pojezny.html">Ivo Pojezný</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marta-semelova.html">Marta Semelová</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-snopek.html">Václav Snopek</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-senfeld.html">Josef Šenfeld</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-sidlo.html">Karel Šidlo</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-valenta.html">Jiří Valenta</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-vondrasek.html">Josef Vondrášek</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miloslava-vostra.html">Miloslava Vostrá</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-zahradnicek.html">Josef Zahradníček</a></td><td>KSČM</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zdenek-bezecny.html">Zdeněk Bezecný</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-farsky.html">Jan Farský</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-gazdik.html">Petr Gazdík</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/leos-heger.html">Leoš Heger</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vaclav-horacek.html">Václav Horáček</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jitka-chalankova.html">Jitka Chalánková</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miroslav-kalousek.html">Miroslav Kalousek</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/daniel-korte.html">Daniel Korte</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/rom-kostrica.html">Rom Kostřica</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-koubek.html">Jiří Koubek</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vera-kovarova.html">Věra Kovářová</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/michal-kucera.html">Michal Kučera</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/helena-langsadlova.html">Helena Langšádlová</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/frantisek-laudat.html">František Laudát</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-lobkowicz.html">Jaroslav Lobkowicz</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/nina-novakova.html">Nina Nováková</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/herbert-pavera.html">Herbert Pavera</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/gabriela-peckova.html">Gabriela Pecková</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marketa-pekarova-adamova.html">Markéta Pekarová Adamová</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-plisek.html">Martin Plíšek</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/anna-putnova.html">Anna Putnová</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-schwarzenberg.html">Karel Schwarzenberg</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-skalicky.html">Jiří Skalický</a></td><td>TOP 09</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-turecek.html">Karel Tureček</a></td><td>ANO</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/frantisek-vacha.html">František Vácha</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marek-zenisek.html">Marek Ženíšek</a></td><td>TOP 09</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/-ivan-adamec.html"> Ivan Adamec</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marek-benda.html">Marek Benda</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-bendl.html">Petr Bendl</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/adolf-beznoska.html">Adolf Beznoska</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-blazek.html">Pavel Blažek</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jana-cernochova.html">Jana Černochová</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-fiala.html">Petr Fiala</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jana-fischerova.html">Jana Fischerová</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/radim-holecek.html">Radim Holeček</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/simeon-karamazov.html">Simeon Karamazov</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/miroslava-nemcova.html">Miroslava Němcová</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-novotny.html">Martin Novotný</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-skopecek.html">Jan Skopeček</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/zbynek-stanjura.html">Zbyněk Stanjura</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/bohuslav-svoboda.html">Bohuslav Svoboda</a></td><td>ODS</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vladislav-vilimec.html">Vladislav Vilímec</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-zahradnik.html">Jan Zahradník</a></td><td>ODS</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jan-bartosek.html">Jan Bartošek</a></td><td>KDU-ČSL</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavel-belobradek.html">Pavel Bělobrádek</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ondrej-benesik.html">Ondřej Benešík</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ivan-gabal.html">Ivan Gabal</a></td><td>KDU-ČSL</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/pavla-golasowska.html">Pavla Golasowská</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/daniel-herman.html">Daniel Herman</a></td><td>KDU-ČSL</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/ludvik-hovorka.html">Ludvík Hovorka</a></td><td>KDU-ČSL</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-junek.html">Jiří Junek</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marian-jurecka.html">Marian Jurečka</a></td><td>KDU-ČSL</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/vit-kankovsky.html">Vít Kaňkovský</a></td><td>KDU-ČSL</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-klaska.html">Jaroslav Klaška</a></td><td>KDU-ČSL</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-kudela.html">Petr Kudela</a></td><td>KDU-ČSL</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-mihola.html">Jiří Mihola</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/tomas-jan-podivinsky.html">Tomáš Jan Podivínský</a></td><td>KDU-ČSL</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/josef-uhlik.html">Josef Uhlík</a></td><td>KDU-ČSL</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/augustin-karel-andrle-sylor.html">Augustin Karel Andrle Sylor</a></td><td>Úsvit</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/marek-cernoch.html">Marek Černoch</a></td><td>Úsvit</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-fiedler.html">Karel Fiedler</a></td><td>nezařazený</td><td>-1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/olga-havlova.html">Olga Havlová</a></td><td>Úsvit</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jana-hnykova.html">Jana Hnyková</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/david-kadner.html">David Kádner</a></td><td>Úsvit</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/martin-lank.html">Martin Lank</a></td><td>Úsvit</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-stetina.html">Jiří Štětina</a></td><td>Úsvit</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/petr-adam.html">Petr Adam</a></td><td>nezařazený</td><td>1</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/radim-fiala.html">Radim Fiala</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jaroslav-holik.html">Jaroslav Holík</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/tomio-okamura.html">Tomio Okamura</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/karel-prazak.html">Karel Pražák</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milan-sarapatka.html">Milan Šarapatka</a></td><td>nezařazený</td><td>0</td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-pospisil.html">Jiří Pospíšil</a></td><td></td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/michal-hasek.html">Michal Hašek</a></td><td></td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/milos-petera.html">Miloš Petera</a></td><td></td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/jiri-zimola.html">Jiří Zimola</a></td><td></td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/stanislav-polcak.html">Stanislav Polčák</a></td><td></td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/li/poslanci/katerina-konecna.html">Kateřina Konečná</a></td><td></td><td></td></tr>
+  
+  </tbody>
+</table>
+
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/yourname" title="Facebook">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Facebook</span>
+            </a>
+          </li>
+          
+          
+          <li>
+            <a href="https://github.com/yourname" title="GitHub">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+          
+		  
+          <li>
+            <a href="https://twitter.com/yourname" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:youremail@domain.com" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Some Person
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="">skoreposlancu.cz</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/li/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/li/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>
