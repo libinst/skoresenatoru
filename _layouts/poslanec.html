@@ -15,7 +15,11 @@ layout: default
   </div>
 </div>
 
+{% if page.pohlavi=="F"%}
+<h2>Jak hlasovala?</h2>
+{% else %}
 <h2>Jak hlasoval?</h2>
+{% endif %}
 <table class="table">
   <thead>
     <tr>

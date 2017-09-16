@@ -48,6 +48,14 @@ jekyll_get:
   - data: poslanci
     json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/4/public/values?alt=json'
     cache: true
+  - data: ranking_nejlepsi
+    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/6/public/values?alt=json'
+    cache: true
+  - data: ranking_nejhorsi
+    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/7/public/values?alt=json'
+    cache: true
+
+poslanci_json_path: /poslanci.json
 
 page_gen:
   - data: poslanci
@@ -64,9 +72,11 @@ page_gen:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - deploy.sh
+  - README
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -97,7 +107,7 @@ page_gen:
 
 # List of links in the navigation bar
 navbar-links:
-  TOP10: "/ranking.html"
+  TOP10: "/index.html"
   Hlasování: "/hlasovani.html"
 
 #  Resources:
@@ -105,7 +115,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/libinst.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -207,7 +217,7 @@ timezone: "Europe/Prague"
 markdown: kramdown
 highlighter: rouge
 # permalink: /:year-:month-:day-:title/
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:title.html
 paginate: 5
 
 kramdown:
@@ -243,55 +253,3 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
