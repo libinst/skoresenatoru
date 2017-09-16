@@ -8,7 +8,7 @@
 
   <title>prace-na-dohodu</title>
 
-  <meta name="author" content="Some Person" />
+  <meta name="author" content="Liberalni institut" />
 
   
 
@@ -57,30 +57,7 @@
   
 
    
-  <meta property="og:description" content="{{page.nazev}}
-Pozice LI: {{page.poziceli}}
-{% if page.pspurl %}
-{{page.schuze}}
-{% else %}
-{{ page.schuze }}
-{% endif %}
-
-Jak hlasovali?
-
-  
-    
-      Poslanec
-      Strana
-      Hlasoval
-    
-  
-  
-  {% for poslanec in site.data.poslanci %}
-    {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }}
-  {% endfor %}
-  
-
-">
+  <meta property="og:description" content="{{page.nazev}} {% if page.pspurl %} {{page.schuze}} {% else %} {{ page.schuze }} {% endif %} Pozice LI: {{page.poziceli}} {{ page.vysvetleni }} Jak hlasovali? Poslanec Strana Hlasoval {% for poslanec in site.data.poslanci %} {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }} {% endfor %} {% if page.social-share %} {% include social-share.html %}...">
   
 
 
@@ -98,38 +75,15 @@ Jak hlasovali?
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@yourname" />
-  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:site" content="@libinstcz" />
+  <meta name="twitter:creator" content="@libinstcz" />
 
   
   <meta name="twitter:title" content="prace-na-dohodu" />
   
 
   
-  <meta name="twitter:description" content="{{page.nazev}}
-Pozice LI: {{page.poziceli}}
-{% if page.pspurl %}
-{{page.schuze}}
-{% else %}
-{{ page.schuze }}
-{% endif %}
-
-Jak hlasovali?
-
-  
-    
-      Poslanec
-      Strana
-      Hlasoval
-    
-  
-  
-  {% for poslanec in site.data.poslanci %}
-    {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }}
-  {% endfor %}
-  
-
-">
+  <meta name="twitter:description" content="{{page.nazev}} {% if page.pspurl %} {{page.schuze}} {% else %} {{ page.schuze }} {% endif %} Pozice LI: {{page.poziceli}} {{ page.vysvetleni }} Jak hlasovali? Poslanec Strana Hlasoval {% for poslanec in site.data.poslanci %} {{ poslanec.jmeno }}{{ poslanec.strana }}{{ poslanec[page.slug] }} {% endfor %} {% if page.social-share %} {% include social-share.html %}...">
   
 
   
@@ -181,9 +135,6 @@ Jak hlasovali?
         <form class="navbar-form" role="search">
           <div class="input-group">
             <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
-            <div class="input-group-btn">
-              <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-            </div>
           </div>
         </form>
       </div>
@@ -238,10 +189,13 @@ Jak hlasovali?
 
 <div role="main" class="container">
   <h1>Zákaz pracovat na dohodu pokud je člověk vedený na úřadu práce</h1>
-<h2>Pozice LI: 1</h2>
 
 <a href="http://www.psp.cz/sqw/hlasy.sqw?g=65966&l=cz">56. schůze, 347. hlasování, 12. dubna 2017, 11:22 Novela z. o zaměstnanosti - EU</a>
 
+<h2>Pozice LI: 1</h2>
+<blockquote>
+<p>Novela znemožňuje pracovat "na dohodu" lidem vedeným na úřadu práce, čímž přispívá k jejich dlouhodobé nezaměstnanosti, protože nemohou získat pracovní zkušenosti a naučit se nové dovednosti přímo v práci, a znemožňuje jim možnost přivýdělku.</p>
+</blockquote>
 
 <h2>Jak hlasovali?</h2>
 <table class="table">
@@ -683,6 +637,43 @@ Jak hlasovali?
   </tbody>
 </table>
 
+
+  <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=prace-na-dohodu+/hlasovani/prace-na-dohodu"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+  <!--- Share on Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=/hlasovani/prace-na-dohodu"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+
+
 </div>
 
     <footer>
@@ -692,7 +683,7 @@ Jak hlasovali?
         <ul class="list-inline text-center footer-links">
           
           <li>
-            <a href="https://www.facebook.com/yourname" title="Facebook">
+            <a href="https://www.facebook.com/liberalni.institut" title="Facebook">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -702,19 +693,9 @@ Jak hlasovali?
           </li>
           
           
-          <li>
-            <a href="https://github.com/yourname" title="GitHub">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">GitHub</span>
-            </a>
-          </li>
-          
 		  
           <li>
-            <a href="https://twitter.com/yourname" title="Twitter">
+            <a href="https://twitter.com/libinstcz" title="Twitter">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -727,7 +708,7 @@ Jak hlasovali?
       
 		  
           <li>
-            <a href="mailto:youremail@domain.com" title="Email me">
+            <a href="mailto:info@libinst.cz" title="Email me">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -750,7 +731,7 @@ Jak hlasovali?
       
         </ul>
         <p class="copyright text-muted">
-		  Some Person
+		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
 		  2017
 
