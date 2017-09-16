@@ -26,8 +26,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-13",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-20",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Antonín",
@@ -56,8 +65,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Běhounek",
@@ -86,8 +104,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marie Benešová",
@@ -116,8 +143,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Birke",
@@ -146,8 +182,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vlasta Bohdalová",
@@ -176,8 +221,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-17",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Robin Böhnisch",
@@ -206,8 +260,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Černý",
@@ -236,8 +299,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Richard Dolejš",
@@ -266,8 +338,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Foldyna",
@@ -296,8 +377,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vlastimil Gabrhel",
@@ -326,8 +416,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-15",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Jan Hamáček",
@@ -356,8 +455,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Havíř",
@@ -386,8 +494,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Holík",
@@ -416,8 +533,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Stanislav Huml",
@@ -446,8 +572,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Milan Chovanec",
@@ -476,8 +611,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Chvojka",
@@ -506,8 +650,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Igor Jakubčík",
@@ -536,8 +689,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-17",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Barbora Jelonková",
@@ -566,8 +728,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
     "_e0c8p": "-1",
-    "_dqi9q": "2"
+    "_dqi9q": "1"
   },
   {
     "jmeno": "Vítězslav Jandák",
@@ -596,8 +767,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "16"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "28"
   },
   {
     "jmeno": "Zuzana Kailová",
@@ -626,8 +806,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Klučka",
@@ -656,8 +845,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-12",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Kořenek",
@@ -686,8 +884,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Koskuba",
@@ -716,8 +923,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Krákora",
@@ -746,8 +962,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Mládek",
@@ -776,8 +1001,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Novotný",
@@ -806,8 +1040,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavlína Nytrová",
@@ -836,8 +1079,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Petrů",
@@ -866,8 +1118,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Lukáš Pleticha",
@@ -896,8 +1157,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Ploc",
@@ -926,8 +1196,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-17",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Adam Rykala",
@@ -956,8 +1235,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Antonín Seďa",
@@ -986,8 +1274,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-14",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Roman Sklenák",
@@ -1016,8 +1313,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Bohuslav Sobotka",
@@ -1046,8 +1352,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miroslava Strnadlová",
@@ -1076,8 +1391,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Štěpán Stupčuk",
@@ -1106,8 +1430,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zdeněk Syblík",
@@ -1136,8 +1469,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-12",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-20",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Ladislav Šincl",
@@ -1166,8 +1508,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "17"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-12",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Jeroným Tejc",
@@ -1196,8 +1547,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Lubomír Toufar",
@@ -1226,8 +1586,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Milan Urban",
@@ -1256,8 +1625,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "-7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Dana Váhalová",
@@ -1286,8 +1664,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-12",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Valhoda",
@@ -1316,8 +1703,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "",
-    "_e0c8p": "1",
-    "_dqi9q": "2"
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
+    "_e0c8p": "2",
+    "_dqi9q": "3"
   },
   {
     "jmeno": "Roman Váňa",
@@ -1346,8 +1742,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-17",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ladislav Velebný",
@@ -1376,8 +1781,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Votava",
@@ -1406,8 +1820,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Markéta Wernerová",
@@ -1436,8 +1859,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Lubomír Zaorálek",
@@ -1466,8 +1898,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Zavadil",
@@ -1496,8 +1937,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Zemánek",
@@ -1526,8 +1976,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Zemek",
@@ -1556,8 +2015,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": " Andrej Babiš",
@@ -1586,8 +2054,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miloš Babiš",
@@ -1616,8 +2093,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Margita Balaštíková",
@@ -1646,8 +2132,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martina Berdychová",
@@ -1676,8 +2171,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Stanislav Berkovec",
@@ -1706,8 +2210,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Richard Brabec",
@@ -1736,8 +2249,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Milan Brázdil",
@@ -1766,8 +2288,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Čihák",
@@ -1796,8 +2327,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ivana Dobešová",
@@ -1826,8 +2366,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Faltýnek",
@@ -1856,8 +2405,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Matěj Fichtner",
@@ -1886,8 +2444,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Hájek",
@@ -1916,8 +2483,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Holeček",
@@ -1946,8 +2522,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Bohuslav Chalupa",
@@ -1976,8 +2561,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miloslav Janulík",
@@ -2006,8 +2600,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Věra Jourová",
@@ -2036,8 +2639,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "0",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
     "_e0c8p": "0",
-    "_dqi9q": "3"
+    "_dqi9q": "4"
   },
   {
     "jmeno": "David Kasal",
@@ -2066,8 +2678,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Kolovratník",
@@ -2096,8 +2717,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Komárek",
@@ -2126,8 +2756,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Kott",
@@ -2156,8 +2795,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Roman Kubíček",
@@ -2186,8 +2834,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jana Lorencová",
@@ -2216,8 +2873,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Radka Maxová",
@@ -2246,8 +2912,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Igor Nykl",
@@ -2276,8 +2951,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ladislav Okleštěk",
@@ -2306,8 +2990,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jana Pastuchová",
@@ -2336,8 +3029,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-9",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "František Petrtýl",
@@ -2366,8 +3068,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "",
-    "_e0c8p": "-3",
-    "_dqi9q": "5"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
+    "_e0c8p": "-2",
+    "_dqi9q": "9"
   },
   {
     "jmeno": "Stanislav Pfléger",
@@ -2396,8 +3107,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ivan Pilný",
@@ -2426,8 +3146,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Plzák",
@@ -2456,8 +3185,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslava Pokorná Jermanová",
@@ -2486,8 +3224,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-4",
-    "_dqi9q": "14"
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "22"
   },
   {
     "jmeno": "Roman Procházka",
@@ -2516,8 +3263,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Rais",
@@ -2546,8 +3302,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miloslava Rutová",
@@ -2576,8 +3341,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "",
-    "_e0c8p": "-5",
-    "_dqi9q": "14"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "",
+    "_e0c8p": "-6",
+    "_dqi9q": "19"
   },
   {
     "jmeno": "Jan Sedláček",
@@ -2606,8 +3380,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Sedlář",
@@ -2636,8 +3419,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Bronislav Schwarz",
@@ -2666,8 +3458,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zdeněk Soukup",
@@ -2696,8 +3497,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Stropnický",
@@ -2726,8 +3536,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zuzana Šánová",
@@ -2756,8 +3575,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "",
-    "_e0c8p": "-9",
-    "_dqi9q": "17"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "27"
   },
   {
     "jmeno": "Pavel Šrámek",
@@ -2786,8 +3614,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Helena Válková",
@@ -2816,8 +3653,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Volčík",
@@ -2846,8 +3692,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Volný",
@@ -2876,8 +3731,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Radek Vondráček",
@@ -2906,8 +3770,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Vozdecký",
@@ -2936,8 +3809,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-2",
-    "_dqi9q": "5"
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-6",
+    "_dqi9q": "12"
   },
   {
     "jmeno": "Vlastimil Vozka",
@@ -2966,8 +3848,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Rostislav Vyzula",
@@ -2996,8 +3887,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Kristýna Zelienková",
@@ -3026,8 +3926,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-6",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Jiří Zlatuška",
@@ -3056,8 +3965,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vojtěch Adam",
@@ -3086,8 +4004,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Hana Aulická Jírovcová",
@@ -3116,8 +4043,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zuzka Bebarová Rujbrová",
@@ -3146,8 +4082,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-1",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Borka",
@@ -3176,8 +4121,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Alexander Černý",
@@ -3206,8 +4160,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "René Číp",
@@ -3236,8 +4199,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Dolejš",
@@ -3266,8 +4238,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vojtěch Filip",
@@ -3296,8 +4277,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miroslav Grebeníček",
@@ -3326,8 +4316,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Stanislav Grospič",
@@ -3356,8 +4355,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Milada Halíková",
@@ -3386,8 +4394,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Gabriela Hubáčková",
@@ -3416,8 +4433,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Klán",
@@ -3446,8 +4472,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vladimír Koníček",
@@ -3476,8 +4511,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Kováčik",
@@ -3506,8 +4550,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Leo Luzar",
@@ -3536,8 +4589,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-7",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Stanislav Mackovík",
@@ -3566,8 +4628,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Soňa Marková",
@@ -3596,8 +4667,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Květa Matušovská",
@@ -3626,8 +4706,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Nekl",
@@ -3656,8 +4745,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Alena Nohavová",
@@ -3686,8 +4784,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zdeněk Ondráček",
@@ -3716,8 +4823,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miroslav Opálka",
@@ -3746,8 +4862,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-13",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marie Pěnčíková",
@@ -3776,8 +4901,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ivo Pojezný",
@@ -3806,8 +4940,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marta Semelová",
@@ -3836,8 +4979,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Snopek",
@@ -3866,8 +5018,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Šenfeld",
@@ -3896,8 +5057,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Šidlo",
@@ -3926,8 +5096,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Valenta",
@@ -3956,8 +5135,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Vondrášek",
@@ -3986,8 +5174,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miloslava Vostrá",
@@ -4016,8 +5213,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-2",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Josef Zahradníček",
@@ -4046,8 +5252,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-11",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Zdeněk Bezecný",
@@ -4076,8 +5291,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Farský",
@@ -4106,8 +5330,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "-1",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Gazdík",
@@ -4136,8 +5369,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Leoš Heger",
@@ -4166,8 +5408,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "1",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Václav Horáček",
@@ -4196,8 +5447,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jitka Chalánková",
@@ -4226,8 +5486,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "1",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miroslav Kalousek",
@@ -4256,8 +5525,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Daniel Korte",
@@ -4286,8 +5564,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Rom Kostřica",
@@ -4316,8 +5603,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Koubek",
@@ -4346,8 +5642,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Věra Kovářová",
@@ -4376,8 +5681,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "1",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Michal Kučera",
@@ -4406,8 +5720,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Helena Langšádlová",
@@ -4436,8 +5759,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "2",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "František Laudát",
@@ -4466,8 +5798,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Lobkowicz",
@@ -4496,8 +5837,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Nina Nováková",
@@ -4526,8 +5876,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "0",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Herbert Pavera",
@@ -4556,8 +5915,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Gabriela Pecková",
@@ -4586,8 +5954,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "1",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Markéta Pekarová Adamová",
@@ -4616,8 +5993,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "-1",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Plíšek",
@@ -4646,8 +6032,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "9",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Anna Putnová",
@@ -4676,8 +6071,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "3",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Schwarzenberg",
@@ -4706,8 +6110,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Skalický",
@@ -4736,8 +6149,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Tureček",
@@ -4766,8 +6188,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "-5",
-    "_dqi9q": "17"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "1",
+    "_e0c8p": "-4",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "František Vácha",
@@ -4796,8 +6227,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marek Ženíšek",
@@ -4826,8 +6266,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": " Ivan Adamec",
@@ -4856,8 +6305,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marek Benda",
@@ -4886,8 +6344,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Bendl",
@@ -4916,8 +6383,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Adolf Beznoska",
@@ -4946,8 +6422,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "1",
-    "_dqi9q": "13"
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-1",
+    "_dqi9q": "24"
   },
   {
     "jmeno": "Pavel Blažek",
@@ -4976,8 +6461,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "1",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "4",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jana Černochová",
@@ -5006,8 +6500,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "3",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Fiala",
@@ -5036,8 +6539,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
     "_e0c8p": "5",
-    "_dqi9q": "18"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jana Fischerová",
@@ -5066,8 +6578,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "4",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Radim Holeček",
@@ -5096,8 +6617,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Simeon Karamazov",
@@ -5126,8 +6656,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "3",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Miroslava Němcová",
@@ -5156,8 +6695,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "9",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Novotný",
@@ -5186,8 +6734,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "8",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Skopeček",
@@ -5216,8 +6773,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "",
-    "_e0c8p": "1",
-    "_dqi9q": "5"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
+    "_e0c8p": "2",
+    "_dqi9q": "8"
   },
   {
     "jmeno": "Zbyněk Stanjura",
@@ -5246,8 +6812,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "10",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Bohuslav Svoboda",
@@ -5276,8 +6851,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vladislav Vilímec",
@@ -5306,8 +6890,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "1",
-    "_e0c8p": "5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "6",
+    "_dqi9q": "30"
   },
   {
     "jmeno": "Jan Zahradník",
@@ -5336,8 +6929,17 @@
     "registr-smluv": "-1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "1",
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
     "_e0c8p": "5",
-    "_dqi9q": "18"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jan Bartošek",
@@ -5366,8 +6968,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavel Bělobrádek",
@@ -5396,8 +7007,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-8",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-12",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ondřej Benešík",
@@ -5426,8 +7046,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ivan Gabal",
@@ -5456,8 +7085,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Pavla Golasowská",
@@ -5486,8 +7124,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "",
-    "_e0c8p": "-11",
-    "_dqi9q": "17"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-13",
+    "_dqi9q": "26"
   },
   {
     "jmeno": "Daniel Herman",
@@ -5516,8 +7163,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-20",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Ludvík Hovorka",
@@ -5546,8 +7202,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-14",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Junek",
@@ -5576,8 +7241,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-10",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marian Jurečka",
@@ -5606,8 +7280,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "-6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Vít Kaňkovský",
@@ -5636,8 +7319,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-12",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-18",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Klaška",
@@ -5666,8 +7358,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-15",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Kudela",
@@ -5696,8 +7397,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-9",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Mihola",
@@ -5726,8 +7436,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-11",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-19",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Tomáš Jan Podivínský",
@@ -5756,8 +7475,17 @@
     "registr-smluv": "",
     "registr-smluv-novela": "",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "0",
-    "_dqi9q": "2"
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": "",
+    "_e0c8p": "-2",
+    "_dqi9q": "5"
   },
   {
     "jmeno": "Josef Uhlík",
@@ -5786,8 +7514,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "-1",
-    "_e0c8p": "-7",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "-1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-16",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Augustin Karel Andrle Sylor",
@@ -5816,8 +7553,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-6",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-7",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Marek Černoch",
@@ -5846,8 +7592,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "1",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Fiedler",
@@ -5876,8 +7631,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "-1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "0",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Olga Havlová",
@@ -5906,8 +7670,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-3",
-    "_dqi9q": "19"
+    "danovy-balicek-2017": "1",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "2",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jana Hnyková",
@@ -5936,8 +7709,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
     "_e0c8p": "-1",
-    "_dqi9q": "19"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "David Kádner",
@@ -5966,8 +7748,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "0",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "1",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Martin Lank",
@@ -5996,8 +7787,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-1",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "1",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "1",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Štětina",
@@ -6026,8 +7826,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
+    "danovy-balicek-2017": "-1",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
     "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Petr Adam",
@@ -6056,8 +7865,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "1",
     "danovy-balicek-2014": "0",
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "0",
     "_e0c8p": "-3",
-    "_dqi9q": "18"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Radim Fiala",
@@ -6086,8 +7904,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "2",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "1",
+    "zpravodajske-sluzby": "0",
+    "_e0c8p": "5",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jaroslav Holík",
@@ -6116,8 +7943,17 @@
     "registr-smluv": "0",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "1",
+    "zpravodajske-sluzby": "-1",
     "_e0c8p": "-1",
-    "_dqi9q": "18"
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Tomio Okamura",
@@ -6146,8 +7982,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "4",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "1",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "-1",
+    "blokovani-webu": "0",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Karel Pražák",
@@ -6176,8 +8021,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "1",
+    "umele-oplodneni-svobodnych": "-1",
+    "kontrola-kotlu": "-1",
+    "podpora-biopaliv": "-1",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-9",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Milan Šarapatka",
@@ -6206,8 +8060,17 @@
     "registr-smluv": "1",
     "registr-smluv-novela": "0",
     "danovy-balicek-2014": "0",
-    "_e0c8p": "-5",
-    "_dqi9q": "18"
+    "danovy-balicek-2017": "0",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "0",
+    "umele-oplodneni-svobodnych": "0",
+    "kontrola-kotlu": "0",
+    "podpora-biopaliv": "0",
+    "zdrazeni-cigaret": "0",
+    "blokovani-webu": "-1",
+    "zpravodajske-sluzby": "-1",
+    "_e0c8p": "-6",
+    "_dqi9q": "31"
   },
   {
     "jmeno": "Jiří Pospíšil",
@@ -6235,7 +8098,16 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   },
   {
     "jmeno": "Michal Hašek",
@@ -6263,7 +8135,16 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   },
   {
     "jmeno": "Miloš Petera",
@@ -6291,7 +8172,16 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   },
   {
     "jmeno": "Jiří Zimola",
@@ -6319,7 +8209,16 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "-1",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   },
   {
     "jmeno": "Stanislav Polčák",
@@ -6347,7 +8246,16 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "1",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   },
   {
     "jmeno": "Kateřina Konečná",
@@ -6375,6 +8283,15 @@
     "bezpecnost-cr": "",
     "registr-smluv": "",
     "registr-smluv-novela": "",
-    "danovy-balicek-2014": ""
+    "danovy-balicek-2014": "",
+    "danovy-balicek-2017": "",
+    "rozpoctova-odpovednost": "0",
+    "lesni-skolky": "",
+    "umele-oplodneni-svobodnych": "",
+    "kontrola-kotlu": "",
+    "podpora-biopaliv": "",
+    "zdrazeni-cigaret": "",
+    "blokovani-webu": "",
+    "zpravodajske-sluzby": ""
   }
 ]
