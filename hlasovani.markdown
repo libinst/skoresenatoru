@@ -6,9 +6,9 @@ title:  "Seznam hlasování"
 <table class="table">
   <tbody>
   {% for hlasovani in site.data.hlasovani %}
-    <tr><td><a href="{{ hlasovani.slug | datapage_url: '/li/hlasovani' }}">{{ hlasovani.nazev }}</a></td></tr>
+    <tr><td><a href="{{ hlasovani.slug | datapage_url: '/skoreposlancu/hlasovani' }}">{{ hlasovani.nazev }}</a></td></tr>
   {% endfor %}
   </tbody>
 </table>
 
-<!-- | datapage_url: "/li/poslanci" -->
+<!-- | datapage_url: "/skoreposlancu/poslanci" -->

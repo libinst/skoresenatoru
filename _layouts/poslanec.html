@@ -30,7 +30,7 @@ layout: default
   </thead>
   <tbody>
   {% for hlasovani in site.data.hlasovani %}
-    <tr><td><a class="page-link" href="/li/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td><td>{{ page[hlasovani.slug] }}</td><td>{{ hlasovani.poziceli }}</td></tr>
+    <tr><td><a class="page-link" href="/skoreposlancu/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td><td>{{ page[hlasovani.slug] }}</td><td>{{ hlasovani.poziceli }}</td></tr>
   {% endfor %}
   </tbody>
 </table>

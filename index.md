@@ -10,7 +10,7 @@ title:  "Skóre poslanců"
     <tbody>
     {% for poslanec in site.data.ranking_nejlepsi limit:10 %}
       <tr>
-        <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/li/poslanci' }}">{{ poslanec.jmeno }}</a></td>
+        <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></td>
         <td>{{ poslanec.strana }}</td>
         <td>{{ poslanec.procent }}</td>
       </tr>
@@ -24,7 +24,7 @@ title:  "Skóre poslanců"
     <tbody>
     {% for poslanec in site.data.ranking_nejhorsi limit:10 %}
       <tr>
-        <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/li/poslanci' }}">{{ poslanec.jmeno }}</a></td>
+        <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></td>
         <td>{{ poslanec.strana }}</td>
         <td>{{ poslanec.procent }}</td>
       </tr>
@@ -35,4 +35,4 @@ title:  "Skóre poslanců"
 </div>
 
 
-<!-- | datapage_url: "/li/poslanci" -->
+<!-- | datapage_url: "/skoreposlancu/poslanci" -->

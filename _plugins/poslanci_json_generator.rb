@@ -15,7 +15,7 @@ module Jekyll
       poslanci = site.data['poslanci'].collect do |poslanec|
         {
           label: poslanec['jmeno'],
-          url: datapage_url(poslanec['jmeno'], '/li/poslanci')
+          url: datapage_url(poslanec['jmeno'], '/skoreposlancu/poslanci')
         }
       end
 
