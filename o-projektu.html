@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>O projektu</title>
+
+  <meta name="author" content="Liberalni institut" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" href="/skoreposlancu/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/skoreposlancu/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/skoreposlancu/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/skoreposlancu/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="O projektu" />
+  
+
+   
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="/o-projektu" />
+  <link rel="canonical" href="/o-projektu" />
+  
+
+  
+  <meta property="og:image" content="/img/libinst.jpg" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@libinstcz" />
+  <meta name="twitter:creator" content="@libinstcz" />
+
+  
+  <meta name="twitter:title" content="O projektu" />
+  
+
+  
+
+  
+  <meta name="twitter:image" content="/img/libinst.jpg" />
+  
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="">Skóre poslanců</a>
+      
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    jQuery.getJSON('/skoreposlancu/poslanci.json', function(data) {
+      $("#poslanec-search").autocomplete({
+        source: data,
+        minLength: 2,
+        select: function(event, ui){
+          // console.log(ui.item.url)
+          // redirect to url
+          window.location = ui.item.url
+        }
+      });
+    });
+    </script>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <div class="col-sm-3 col-md-3">
+        <form class="navbar-form" role="search">
+          <div class="input-group">
+            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+          </div>
+        </form>
+      </div>
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/skoreposlancu//index.html">TOP10</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/skoreposlancu//hlasovani.html">Hlasování</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/skoreposlancu//o-projektu.html">O projektu</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href=" ">
+	      <img class="avatar-img" src="/skoreposlancu/img/libinst.jpg" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>O projektu</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <p>SkórePoslanců.cz je projekt <a href="http://libinst.cz">Liberálního institutu</a> a je inspirován již řadu let trvajícím projektem americké organizace <a href="http://congress.freedomworks.org">FreedomWorks</a>.</p>
+
+<p>Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod poslanci, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod poslanci, který hlasuje naopak. Skóre 100 % tedy znamená, že poslanec hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že poslanec vždy hlasuje pro méně svobody a více státu.</p>
+
+<p>Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých poslanců sčítají, takže můžeme sestavit žebříček poslanců od nejliberálnějších po nejméně liberální.</p>
+
+<p>Vedoucí projektu: <a href="mailto:martin.panek@libinst.cz">Martin Pánek</a> -  777 157 142</p>
+
+<p>Výzkumný asistent: Šárka Jedličková, Jiří Kubíček</p>
+
+<hr />
+
+<h2 id="finančně-nás-můžete-podpořit">Finančně nás můžete podpořit:</h2>
+
+<h3 id="bankovním-převodem">Bankovním převodem</h3>
+
+<ul>
+<li>číslo účtu: 1113330 / 0100 </li>
+<li>banka: Komerční banka</li>
+ <li>IBAN: CZ06 0100 0000 0000 0111 3330 </li>
+<li>BIC: KOMBCZPP</li>
+</ul>
+
+<p><img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/komer%C4%8Dka.png?resize=300%2C298" /></p>
+
+<h3 id="paypalem">PayPalem</h3>
+<p><a href="PayPal.me/libinst">PayPal.me/libinst</a></p>
+
+<h3 id="bitcoinem">Bitcoinem</h3>
+<p><a href="https://blockchain.info/address/1BxcHs3dWHMgwqQEu5DUtYpCsgrQ6quwm2">1BxcHs3dWHMgwqQEu5DUtYpCsgrQ6quwm2</a></p>
+
+<p><img src="https://i2.wp.com/libinst.cz/wp-content/uploads/2017/07/btcadresa.png?resize=250%2C250" /></p>
+
+<h3 id="litecoinem">Litecoinem</h3>
+<p><a href="https://live.blockcypher.com/ltc/address/LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE/?fref=gc">LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE</a></p>
+
+<p><img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/ltcwallet.png?w=702" /></p>
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=O+projektu+/o-projektu.html"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+  <!--- Share on Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=/o-projektu.html"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/liberalni.institut" title="Facebook">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Facebook</span>
+            </a>
+          </li>
+          
+          
+		  
+          <li>
+            <a href="https://twitter.com/libinstcz" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:info@libinst.cz" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Liberalni institut
+		  &nbsp;&bull;&nbsp;
+		  2017
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="">skoreposlancu.cz</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/skoreposlancu/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/skoreposlancu/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/skoreposlancu/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>
