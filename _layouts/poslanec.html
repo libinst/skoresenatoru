@@ -11,7 +11,7 @@ layout: default
     <h2>{{page.strana}}</h2>
     <a href="{{ page.linkurl }}">Na webu PSP</a>
     {% assign resource = site.data.ranking | where: "jmeno", page.jmeno | first %}
-    <h2>RANKING: {{resource.rank}}</h2>
+    <h2>SKÓRE: {{resource.rank}}</h2>
   </div>
 </div>
 
@@ -30,7 +30,10 @@ layout: default
   </thead>
   <tbody>
   {% for hlasovani in site.data.hlasovani %}
-    <tr><td><a class="page-link" href="/skoreposlancu/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td><td>{{ page[hlasovani.slug] }}</td><td>{{ hlasovani.poziceli }}</td></tr>
+    <tr>
+      <td><a class="page-link" href="/skoreposlancu/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td>
+      <td {% case page[hlasovani.slug]%}{%when "PRO"%}class="success"{%when "PROTI"%}class="danger"{%endcase%}>{{ page[hlasovani.slug] }}</td>
+      <td {% case hlasovani.poziceli%}{%when "PRO"%}class="success"{%when "PROTI"%}class="danger"{%endcase%}>{{ hlasovani.poziceli }}</td></tr>
   {% endfor %}
   </tbody>
 </table>
