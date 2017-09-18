@@ -109,6 +109,7 @@ exclude:
 navbar-links:
   TOP10: "/index.html"
   Hlasování: "/hlasovani.html"
+  O projektu: "/o-projektu.html"
 
 #  Resources:
 #    - GitHub Pages: "https://pages.github.com/"
