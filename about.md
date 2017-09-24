@@ -44,13 +44,6 @@ Našli jste chybu? Dejte nám vědět.
 
 ---
 
-<div class="row">
-<div class="col-md-4">
-  <img src="/img/libinst_logo_big.jpg" style="max-width:70%" class="img img-responsive">
-</div>
-<div class="col-md-8">
-  <img src="/img/4liberty.png" style="max-width:70%" class="img img-responsive">
-</div>
-</div>
-
+<a href="https://www.libinst.cz/"><img src="/img/libinst_logo_big.jpg" style="max-width:150px" class="img-responsive center-block"></a>
+<a href="https://www.freiheit.org/"><img src="/img/4liberty.png" class="img-responsive center-block"></a>
 ---
