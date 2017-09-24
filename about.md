@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O projektu
-permalink: /o-projektu.html
+permalink: /o-projektu/index.html
 ---
 
 SkórePoslanců.cz je projekt [Liberálního institutu](http://libinst.cz) a je inspirován již řadu let trvajícím projektem americké organizace [FreedomWorks](http://congress.freedomworks.org).
@@ -10,9 +10,11 @@ Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnu
 
 Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých poslanců sčítají, takže můžeme sestavit žebříček poslanců od nejliberálnějších po nejméně liberální.
 
-Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) -  777 157 142
+Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) - 777 157 142
 
 Výzkumný asistent: Šárka Jedličková, Jiří Kubíček
+
+Našli jste chybu? Dejte nám vědět.
 
 ---
 
@@ -20,12 +22,10 @@ Výzkumný asistent: Šárka Jedličková, Jiří Kubíček
 
 ### Bankovním převodem
 
-<ul>
-<li>číslo účtu: 1113330 / 0100 </li>
-<li>banka: Komerční banka</li>
- <li>IBAN: CZ06 0100 0000 0000 0111 3330 </li>
-<li>BIC: KOMBCZPP</li>
-</ul>
+* číslo účtu: 1113330 / 0100
+* banka: Komerční banka
+* IBAN : CZ06 0100 0000 0000 0111 3330
+* BIC KOMBCZPP
 
 <img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/komer%C4%8Dka.png?resize=300%2C298">
 
@@ -41,3 +41,16 @@ Výzkumný asistent: Šárka Jedličková, Jiří Kubíček
 [LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE](https://live.blockcypher.com/ltc/address/LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE/?fref=gc)
 
 <img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/ltcwallet.png?w=702">
+
+---
+
+<div class="row">
+<div class="col-md-4">
+  <img src="/img/libinst_logo_big.jpg" style="max-width:70%" class="img img-responsive">
+</div>
+<div class="col-md-8">
+  <img src="/img/4liberty.png" style="max-width:70%" class="img img-responsive">
+</div>
+</div>
+
+---

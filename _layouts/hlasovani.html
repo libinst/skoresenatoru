@@ -24,7 +24,7 @@ layout: default
   </thead>
   <tbody>
   {% for poslanec in site.data.poslanci %}
-    <tr><td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></td><td>{{ poslanec.strana }}</td><td>{{ poslanec[page.slug] }}</td></tr>
+    <tr><td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/poslanci' }}">{{ poslanec.jmeno }}</a></td><td>{{ poslanec.strana }}</td><td>{{ poslanec[page.slug] }}</td></tr>
   {% endfor %}
   </tbody>
 </table>

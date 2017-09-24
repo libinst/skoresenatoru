@@ -8,7 +8,7 @@
     "vysvetleni": "Elektronická evidence tržeb znamená zvýšené náklady na podnikatele, nepřijatelé narušení soukromí podnikatelů a drakonické pokuty, které nejsou v souladu s právním státem."
   },
   {
-    "slug": "kontolni-hlaseni",
+    "slug": "kontrolni-hlaseni",
     "nazev": "Kontrolní hlášení",
     "pspurl": "http://www.psp.cz/sqw/hlasy.sqw?g=60320&l=cz",
     "schuze": "23. schůze, 250. hlasování, 22. prosince 2014, 11:22  Novela z. o dani z přidané hodnoty - EU",
@@ -129,7 +129,7 @@
   },
   {
     "slug": "stavebni-zakon",
-    "nazev": "Novela stavebního zákona, asi dobrej zákon",
+    "nazev": "Novela stavebního zákona",
     "pspurl": "http://www.psp.cz/sqw/hlasy.sqw?g=66599&l=cz",
     "schuze": "59. schůze, 36. hlasování, 27. června 2017, 18:32 Novela z. - stavební zákon - EU",
     "poziceli": "PRO",
@@ -211,8 +211,8 @@
     "slug": "kontrola-kotlu",
     "nazev": "Novela zákona o ochraně ovzduší",
     "pspurl": "http://www.psp.cz/sqw/hlasy.sqw?G=64060",
-    "schuze": "49. schůze, 76. hlasování, 7. září 2016, 11:52",
-    "poziceli": "PRO",
+    "schuze": "49. schůze, 76. hlasování, 7. září 2016, 11:52",
+    "poziceli": "PROTI",
     "vysvetleni": "Novela zákona o ochraně ovzduší jednak umožňuje radám obcí, aby stanovovaly území, do kterých nesmí vjet \"neekologické\" automobily, avšak především zavádí možnost vstoupit lidem do soukromých domů a bytů, pokud existuje podezření – nijak nepodpořené soudním povolením –, že znečištění ovzduší pochází z kotle umístěného v tomto obydlí. Jde o obrovský zásah do soukromí a porušení práva na spravedlivý proces."
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "slug": "zpravodajske-sluzby",
-    "nazev": "Zprvodajské služby",
+    "nazev": "Zpravodajské služby",
     "pspurl": "http://www.psp.cz/sqw/hlasy.sqw?g=61186",
     "schuze": "29. schůze, 197. hlasování, 8. července 2015, 09:38",
     "poziceli": "PROTI",

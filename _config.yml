@@ -15,17 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Skóre poslanců
 email: info@skoreposlancu.cz
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/skoreposlancu" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: > # Skóre poslanců - projekt Liberálního institutu. Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.skoreposlancu.cz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
-header_pages:
-  - about.html
 
 # Build settings
 markdown: kramdown
@@ -68,6 +62,7 @@ page_gen:
     name: slug
     dir: hlasovani
     extension: html
+page_gen-dirs: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -107,9 +102,10 @@ exclude:
 
 # List of links in the navigation bar
 navbar-links:
-  TOP10: "/index.html"
-  Hlasování: "/hlasovani.html"
-  O projektu: "/o-projektu.html"
+  TOP10: ""
+  Celkové pořadí: "celkove-poradi"
+  Hlasování: "hlasovani"
+  O projektu: "o-projektu"
 
 #  Resources:
 #    - GitHub Pages: "https://pages.github.com/"
@@ -218,7 +214,7 @@ timezone: "Europe/Prague"
 markdown: kramdown
 highlighter: rouge
 # permalink: /:year-:month-:day-:title/
-permalink: /:title.html
+permalink: /:title
 paginate: 5
 
 kramdown:

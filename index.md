@@ -15,7 +15,7 @@ title:  "Skóre poslanců"
               <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s{{ id }}.jpg" class="img-thumbnail">
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/poslanci' }}">{{ poslanec.jmeno }}</a></h3>
               {{ poslanec.strana }}
             </div>
           </div>
@@ -37,7 +37,7 @@ title:  "Skóre poslanců"
               <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s{{ id }}.jpg" class="img-thumbnail">
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/poslanci' }}">{{ poslanec.jmeno }}</a></h3>
               {{ poslanec.strana }}
             </div>
           </div>
@@ -51,4 +51,4 @@ title:  "Skóre poslanců"
 </div>
 
 
-<!-- | datapage_url: "/skoreposlancu/poslanci" -->
+<!-- | datapage_url: "/poslanci" -->

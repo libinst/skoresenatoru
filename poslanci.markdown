@@ -1,12 +1,20 @@
 ---
 layout: page
-title:  "Seznam poslanců"
+title:  "Celkové pořadí"
+permalink: "/celkove-poradi/index.html"
 ---
 
-<ul>
-{% for poslanec in site.data.poslanci %}
-  <li><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/skoreposlancu/poslanci' }}">{{ poslanec.jmeno }}</a></skoreposlancu>
+<table class="table table-striped">
+<tbody>
+{% for poslanec in site.data.ranking %}
+  <tr>
+    <td>{{ forloop.index }}.</td>
+    <td><a class="page-link" href="{{ poslanec.jmeno | datapage_url: '/poslanci' }}">{{ poslanec.jmeno }}</a></td>
+    <td>{{ poslanec.strana }}</td>
+    <td>{{ poslanec.rank }}</td>
+  </tr>
 {% endfor %}
-</ul>
+</tbody>
+</table>
 
-<!-- | datapage_url: "/skoreposlancu/poslanci" -->
+<!-- | datapage_url: "/poslanci" -->

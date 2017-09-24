@@ -1,14 +1,15 @@
 ---
 layout: page
 title:  "Seznam hlasování"
+permalink: "/hlasovani/index.html"
 ---
 
 <table class="table">
   <tbody>
   {% for hlasovani in site.data.hlasovani %}
-    <tr><td><a href="{{ hlasovani.slug | datapage_url: '/skoreposlancu/hlasovani' }}">{{ hlasovani.nazev }}</a></td></tr>
+    <tr><td><a href="{{ hlasovani.slug | datapage_url: '/hlasovani' }}">{{ hlasovani.nazev }}</a></td></tr>
   {% endfor %}
   </tbody>
 </table>
 
-<!-- | datapage_url: "/skoreposlancu/poslanci" -->
+<!-- | datapage_url: "/poslanci" -->
