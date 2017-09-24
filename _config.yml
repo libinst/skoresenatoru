@@ -251,3 +251,4 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - deploy.sh

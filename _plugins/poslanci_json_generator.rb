@@ -7,7 +7,6 @@ module Jekyll
     include DataPageLinkGenerator
 
     def generate(site)
-      puts "GENERUJI"*1000
       site.config['poslanci_json_path'] = 'poslanci.json' if !site.config['poslanci_json_path']
 
       json_file = File.new(File.join(site.config['destination'], site.config['poslanci_json_path']), 'w')
