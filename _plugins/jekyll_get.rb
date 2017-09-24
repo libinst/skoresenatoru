@@ -18,7 +18,7 @@ module Jekyll_Get
       config.each do |d|
         begin
           target = site.data[d['data']]
-          source = JSON.load(open(d['json']))
+          source = JSON.load(open(d['json']).read.gsub("\u00A0", " "))
           if d['json'].match(/\Ahttps:\/\/spreadsheets.google.com/)
             source = source["feed"]["entry"].collect{|e|
               Hash[e.keys.select{|k| k.match(/\Agsx\$/)}.collect{|k|
