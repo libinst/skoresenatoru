@@ -12,7 +12,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
 
   
 
@@ -61,12 +61,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoreposlancu.cz/celkove-poradi" />
-  <link rel="canonical" href="http://www.skoreposlancu.cz/celkove-poradi" />
+  <meta property="og:url" content="http://www.skoresenatoru.cz/celkove-poradi" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/celkove-poradi" />
   
 
   
-  <meta property="og:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
 
@@ -82,7 +82,7 @@
   
 
   
-  <meta name="twitter:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -104,7 +104,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoreposlancu.cz">Skóre poslanců</a>
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
       
     </div>
 
@@ -112,8 +112,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -129,7 +129,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
@@ -213,7 +213,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoreposlancu.cz ">
+	    <a href="http://www.skoresenatoru.cz ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -259,1493 +259,863 @@
 
   <tr>
     <td>1.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-polcak/index.html">Stanislav Polčák</a></td>
-    <td>TOP 09</td>
-    <td>100 %</td>
+    <td><a class="page-link" href="/senatori/jaromir-stetina/">Jaromír Štětina</a></td>
+    <td>BEZPP</td>
+    <td>67%</td>
   </tr>
 
   <tr>
     <td>2.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-valhoda/index.html">Václav Valhoda</a></td>
-    <td>ČSSD</td>
-    <td>67 %</td>
+    <td><a class="page-link" href="/senatori/tomio-okamura/">Tomio Okamura</a></td>
+    <td>BEZPP</td>
+    <td>50%</td>
   </tr>
 
   <tr>
     <td>3.</td>
-    <td><a class="page-link" href="/poslanci/frantisek-laudat/index.html">František Laudát</a></td>
-    <td>TOP 09</td>
-    <td>45 %</td>
+    <td><a class="page-link" href="/senatori/marta-bayerova/">Marta Bayerová</a></td>
+    <td>KSČM</td>
+    <td>40%</td>
   </tr>
 
   <tr>
     <td>4.</td>
-    <td><a class="page-link" href="/poslanci/michal-kucera/index.html">Michal Kučera</a></td>
-    <td>TOP 09</td>
-    <td>39 %</td>
+    <td><a class="page-link" href="/senatori/pavel-eybert/">Pavel Eybert</a></td>
+    <td>ODS</td>
+    <td>30%</td>
   </tr>
 
   <tr>
     <td>5.</td>
-    <td><a class="page-link" href="/poslanci/miroslava-nemcova/index.html">Miroslava Němcová</a></td>
-    <td>ODS</td>
-    <td>39 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-schwarz/">Zdeněk Schwarz</a></td>
+    <td>BEZPP</td>
+    <td>30%</td>
   </tr>
 
   <tr>
     <td>6.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-horacek/index.html">Václav Horáček</a></td>
-    <td>TOP 09</td>
-    <td>32 %</td>
+    <td><a class="page-link" href="/senatori/vladimir-dryml/">Vladimír Dryml</a></td>
+    <td>SPO</td>
+    <td>30%</td>
   </tr>
 
   <tr>
     <td>7.</td>
-    <td><a class="page-link" href="/poslanci/daniel-korte/index.html">Daniel Korte</a></td>
-    <td>TOP 09</td>
-    <td>32 %</td>
+    <td><a class="page-link" href="/senatori/petr-guziana/">Petr Guziana</a></td>
+    <td>BEZPP</td>
+    <td>22%</td>
   </tr>
 
   <tr>
     <td>8.</td>
-    <td><a class="page-link" href="/poslanci/jana-fischerova/index.html">Jana Fischerová</a></td>
-    <td>ODS</td>
-    <td>32 %</td>
+    <td><a class="page-link" href="/senatori/milan-pesak/">Milan Pešák</a></td>
+    <td>BEZPP</td>
+    <td>22%</td>
   </tr>
 
   <tr>
     <td>9.</td>
-    <td><a class="page-link" href="/poslanci/zbynek-stanjura/index.html">Zbyněk Stanjura</a></td>
+    <td><a class="page-link" href="/senatori/premysl-sobotka/">Přemysl Sobotka</a></td>
     <td>ODS</td>
-    <td>32 %</td>
+    <td>22%</td>
   </tr>
 
   <tr>
     <td>10.</td>
-    <td><a class="page-link" href="/poslanci/martin-plisek/index.html">Martin Plíšek</a></td>
-    <td>TOP 09</td>
-    <td>30 %</td>
+    <td><a class="page-link" href="/senatori/hana-doupovcova/">Hana Doupovcová</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>11.</td>
-    <td><a class="page-link" href="/poslanci/petr-gazdik/index.html">Petr Gazdík</a></td>
-    <td>TOP 09</td>
-    <td>29 %</td>
+    <td><a class="page-link" href="/senatori/alena-gajduskova/">Alena Gajdůšková</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>12.</td>
-    <td><a class="page-link" href="/poslanci/miroslav-kalousek/index.html">Miroslav Kalousek</a></td>
-    <td>TOP 09</td>
-    <td>29 %</td>
+    <td><a class="page-link" href="/senatori/karel-korytar/">Karel Korytář</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>13.</td>
-    <td><a class="page-link" href="/poslanci/jiri-skalicky/index.html">Jiří Skalický</a></td>
-    <td>TOP 09</td>
-    <td>29 %</td>
+    <td><a class="page-link" href="/senatori/jiri-lajtoch/">Jiří Lajtoch</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>14.</td>
-    <td><a class="page-link" href="/poslanci/ivan-adamec/index.html">Ivan Adamec</a></td>
-    <td>ODS</td>
-    <td>29 %</td>
+    <td><a class="page-link" href="/senatori/eva-richtrova/">Eva Richtrová</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>15.</td>
-    <td><a class="page-link" href="/poslanci/radim-holecek/index.html">Radim Holeček</a></td>
-    <td>ODS</td>
-    <td>29 %</td>
+    <td><a class="page-link" href="/senatori/josef-rihak/">Josef Řihák</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>16.</td>
-    <td><a class="page-link" href="/poslanci/zdenek-bezecny/index.html">Zdeněk Bezecný</a></td>
-    <td>TOP 09</td>
-    <td>26 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-sykacek/">Jaroslav Sykáček</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>17.</td>
-    <td><a class="page-link" href="/poslanci/rom-kostrica/index.html">Rom Kostřica</a></td>
-    <td>TOP 09</td>
-    <td>26 %</td>
+    <td><a class="page-link" href="/senatori/pavel-trpak/">Pavel Trpák</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>18.</td>
-    <td><a class="page-link" href="/poslanci/vera-kovarova/index.html">Věra Kovářová</a></td>
-    <td>TOP 09</td>
-    <td>26 %</td>
+    <td><a class="page-link" href="/senatori/dagmar-zverinova/">Dagmar Zvěřinová</a></td>
+    <td>ČSSD</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>19.</td>
-    <td><a class="page-link" href="/poslanci/anna-putnova/index.html">Anna Putnová</a></td>
-    <td>TOP 09</td>
-    <td>26 %</td>
+    <td><a class="page-link" href="/senatori/milos-janecek/">Miloš Janeček</a></td>
+    <td>nezjištěno</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>20.</td>
-    <td><a class="page-link" href="/poslanci/petr-bendl/index.html">Petr Bendl</a></td>
+    <td><a class="page-link" href="/senatori/tomas-kladivko/">Tomáš Kladívko</a></td>
     <td>ODS</td>
-    <td>26 %</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>21.</td>
-    <td><a class="page-link" href="/poslanci/martin-novotny/index.html">Martin Novotný</a></td>
+    <td><a class="page-link" href="/senatori/miroslav-skaloud/">Miroslav Škaloud</a></td>
     <td>ODS</td>
-    <td>26 %</td>
+    <td>20%</td>
   </tr>
 
   <tr>
     <td>22.</td>
-    <td><a class="page-link" href="/poslanci/jan-skopecek/index.html">Jan Skopeček</a></td>
-    <td>ODS</td>
-    <td>25 %</td>
+    <td><a class="page-link" href="/senatori/ivo-valenta/">Ivo Valenta</a></td>
+    <td>BEZPP</td>
+    <td>19%</td>
   </tr>
 
   <tr>
     <td>23.</td>
-    <td><a class="page-link" href="/poslanci/leos-heger/index.html">Leoš Heger</a></td>
-    <td>TOP 09</td>
-    <td>23 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-kubera/">Jaroslav Kubera</a></td>
+    <td>ODS</td>
+    <td>16%</td>
   </tr>
 
   <tr>
     <td>24.</td>
-    <td><a class="page-link" href="/poslanci/jiri-koubek/index.html">Jiří Koubek</a></td>
-    <td>TOP 09</td>
-    <td>23 %</td>
+    <td><a class="page-link" href="/senatori/tomas-grulich/">Tomáš Grulich</a></td>
+    <td>ODS</td>
+    <td>14%</td>
   </tr>
 
   <tr>
     <td>25.</td>
-    <td><a class="page-link" href="/poslanci/bohuslav-svoboda/index.html">Bohuslav Svoboda</a></td>
+    <td><a class="page-link" href="/senatori/petr-bratsky/">Petr Bratský</a></td>
     <td>ODS</td>
-    <td>23 %</td>
+    <td>13%</td>
   </tr>
 
   <tr>
     <td>26.</td>
-    <td><a class="page-link" href="/poslanci/vladislav-vilimec/index.html">Vladislav Vilímec</a></td>
+    <td><a class="page-link" href="/senatori/lumir-aschenbrenner/">Lumír Aschenbrenner</a></td>
     <td>ODS</td>
-    <td>20 %</td>
+    <td>11%</td>
   </tr>
 
   <tr>
     <td>27.</td>
-    <td><a class="page-link" href="/poslanci/jitka-chalankova/index.html">Jitka Chalánková</a></td>
-    <td>TOP 09</td>
-    <td>19 %</td>
+    <td><a class="page-link" href="/senatori/tomas-jirsa/">Tomáš Jirsa</a></td>
+    <td>ODS</td>
+    <td>11%</td>
   </tr>
 
   <tr>
     <td>28.</td>
-    <td><a class="page-link" href="/poslanci/herbert-pavera/index.html">Herbert Pavera</a></td>
-    <td>TOP 09</td>
-    <td>19 %</td>
+    <td><a class="page-link" href="/senatori/marcel-chladek/">Marcel Chládek</a></td>
+    <td>ČSSD</td>
+    <td>10%</td>
   </tr>
 
   <tr>
     <td>29.</td>
-    <td><a class="page-link" href="/poslanci/gabriela-peckova/index.html">Gabriela Pecková</a></td>
-    <td>TOP 09</td>
-    <td>19 %</td>
+    <td><a class="page-link" href="/senatori/karel-kapoun/">Karel Kapoun</a></td>
+    <td>ČSSD</td>
+    <td>10%</td>
   </tr>
 
   <tr>
     <td>30.</td>
-    <td><a class="page-link" href="/poslanci/marek-zenisek/index.html">Marek Ženíšek</a></td>
-    <td>TOP 09</td>
-    <td>19 %</td>
+    <td><a class="page-link" href="/senatori/veronika-vrecionova/">Veronika Vrecionová</a></td>
+    <td>ODS</td>
+    <td>9%</td>
   </tr>
 
   <tr>
     <td>31.</td>
-    <td><a class="page-link" href="/poslanci/marek-benda/index.html">Marek Benda</a></td>
+    <td><a class="page-link" href="/senatori/jaroslav-zeman/">Jaroslav Zeman</a></td>
     <td>ODS</td>
-    <td>19 %</td>
+    <td>5%</td>
   </tr>
 
   <tr>
     <td>32.</td>
-    <td><a class="page-link" href="/poslanci/tomio-okamura/index.html">Tomio Okamura</a></td>
-    <td>nezařazený</td>
-    <td>19 %</td>
+    <td><a class="page-link" href="/senatori/jan-veleba/">Jan Veleba</a></td>
+    <td>SPO</td>
+    <td>5%</td>
   </tr>
 
   <tr>
     <td>33.</td>
-    <td><a class="page-link" href="/poslanci/helena-langsadlova/index.html">Helena Langšádlová</a></td>
-    <td>TOP 09</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/daniela-filipiova/">Daniela Filipiová</a></td>
+    <td>ODS</td>
+    <td>3%</td>
   </tr>
 
   <tr>
     <td>34.</td>
-    <td><a class="page-link" href="/poslanci/marketa-pekarova-adamova/index.html">Markéta Pekarová Adamová</a></td>
-    <td>TOP 09</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-nytra/">Zdeněk Nytra</a></td>
+    <td>BEZPP</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>35.</td>
-    <td><a class="page-link" href="/poslanci/jana-cernochova/index.html">Jana Černochová</a></td>
-    <td>ODS</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/jan-sobotka/">Jan Sobotka</a></td>
+    <td>BEZPP</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>36.</td>
-    <td><a class="page-link" href="/poslanci/petr-fiala/index.html">Petr Fiala</a></td>
+    <td><a class="page-link" href="/senatori/jiri-oberfalzer/">Jiří Oberfalzer</a></td>
     <td>ODS</td>
-    <td>16 %</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>37.</td>
-    <td><a class="page-link" href="/poslanci/simeon-karamazov/index.html">Simeon Karamazov</a></td>
-    <td>ODS</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-palas/">Jaroslav Palas</a></td>
+    <td>BEZPP</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>38.</td>
-    <td><a class="page-link" href="/poslanci/jan-zahradnik/index.html">Jan Zahradník</a></td>
-    <td>ODS</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/miroslav-krejca/">Miroslav Krejča</a></td>
+    <td>BEZPP</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>39.</td>
-    <td><a class="page-link" href="/poslanci/radim-fiala/index.html">Radim Fiala</a></td>
-    <td>nezařazený</td>
-    <td>16 %</td>
+    <td><a class="page-link" href="/senatori/jiri-bis/">Jiří Bis</a></td>
+    <td>ČSSD</td>
+    <td>0%</td>
   </tr>
 
   <tr>
     <td>40.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-lobkowicz/index.html">Jaroslav Lobkowicz</a></td>
-    <td>TOP 09</td>
-    <td>13 %</td>
+    <td><a class="page-link" href="/senatori/milos-vystrcil/">Miloš Vystrčil</a></td>
+    <td>ODS</td>
+    <td>-3%</td>
   </tr>
 
   <tr>
     <td>41.</td>
-    <td><a class="page-link" href="/poslanci/nina-novakova/index.html">Nina Nováková</a></td>
-    <td>TOP 09</td>
-    <td>13 %</td>
+    <td><a class="page-link" href="/senatori/jiri-burian/">Jiří Burian</a></td>
+    <td>ODS</td>
+    <td>-4%</td>
   </tr>
 
   <tr>
     <td>42.</td>
-    <td><a class="page-link" href="/poslanci/karel-schwarzenberg/index.html">Karel Schwarzenberg</a></td>
-    <td>TOP 09</td>
-    <td>13 %</td>
+    <td><a class="page-link" href="/senatori/jozef-regec/">Jozef Regec</a></td>
+    <td>BEZPP</td>
+    <td>-4%</td>
   </tr>
 
   <tr>
     <td>43.</td>
-    <td><a class="page-link" href="/poslanci/frantisek-vacha/index.html">František Vácha</a></td>
-    <td>TOP 09</td>
-    <td>13 %</td>
+    <td><a class="page-link" href="/senatori/leopold-sulovsky/">Leopold Sulovský</a></td>
+    <td>BEZPP</td>
+    <td>-5%</td>
   </tr>
 
   <tr>
     <td>44.</td>
-    <td><a class="page-link" href="/poslanci/pavel-blazek/index.html">Pavel Blažek</a></td>
-    <td>ODS</td>
-    <td>13 %</td>
+    <td><a class="page-link" href="/senatori/jiri-cienciala/">Jiří Cieńciała</a></td>
+    <td>BEZPP</td>
+    <td>-7%</td>
   </tr>
 
   <tr>
     <td>45.</td>
-    <td><a class="page-link" href="/poslanci/olga-havlova/index.html">Olga Havlová</a></td>
-    <td>Úsvit</td>
-    <td>6 %</td>
+    <td><a class="page-link" href="/senatori/ladislav-vaclavec/">Ladislav Václavec</a></td>
+    <td>BEZPP</td>
+    <td>-7%</td>
   </tr>
 
   <tr>
     <td>46.</td>
-    <td><a class="page-link" href="/poslanci/marek-cernoch/index.html">Marek Černoch</a></td>
-    <td>Úsvit</td>
-    <td>3 %</td>
+    <td><a class="page-link" href="/senatori/eliska-wagnerova/">Eliška Wagnerová</a></td>
+    <td>BEZPP</td>
+    <td>-8%</td>
   </tr>
 
   <tr>
     <td>47.</td>
-    <td><a class="page-link" href="/poslanci/david-kadner/index.html">David Kádner</a></td>
-    <td>Úsvit</td>
-    <td>3 %</td>
+    <td><a class="page-link" href="/senatori/pavel-lebeda/">Pavel Lebeda</a></td>
+    <td>BEZPP</td>
+    <td>-10%</td>
   </tr>
 
   <tr>
     <td>48.</td>
-    <td><a class="page-link" href="/poslanci/martin-lank/index.html">Martin Lank</a></td>
-    <td>Úsvit</td>
-    <td>3 %</td>
+    <td><a class="page-link" href="/senatori/miroslav-antl/">Miroslav Antl</a></td>
+    <td>BEZPP</td>
+    <td>-11%</td>
   </tr>
 
   <tr>
     <td>49.</td>
-    <td><a class="page-link" href="/poslanci/vera-jourova/index.html">Věra Jourová</a></td>
-    <td>ANO</td>
-    <td>0 %</td>
+    <td><a class="page-link" href="/senatori/ludek-jenista/">Luděk Jeništa</a></td>
+    <td>BEZPP</td>
+    <td>-11%</td>
   </tr>
 
   <tr>
     <td>50.</td>
-    <td><a class="page-link" href="/poslanci/karel-fiedler/index.html">Karel Fiedler</a></td>
-    <td>nezařazený</td>
-    <td>0 %</td>
+    <td><a class="page-link" href="/senatori/radko-martinek/">Radko Martínek</a></td>
+    <td>ČSSD</td>
+    <td>-14%</td>
   </tr>
 
   <tr>
     <td>51.</td>
-    <td><a class="page-link" href="/poslanci/jiri-pospisil/index.html">Jiří Pospíšil</a></td>
-    <td>nezařazený</td>
-    <td>0 %</td>
+    <td><a class="page-link" href="/senatori/vaclav-homolka/">Václav Homolka</a></td>
+    <td>KSČM</td>
+    <td>-14%</td>
   </tr>
 
   <tr>
     <td>52.</td>
-    <td><a class="page-link" href="/poslanci/milos-petera/index.html">Miloš Petera</a></td>
-    <td>ČSSD</td>
-    <td>0 %</td>
+    <td><a class="page-link" href="/senatori/michael-canov/">Michael Canov</a></td>
+    <td>SLK</td>
+    <td>-14%</td>
   </tr>
 
   <tr>
     <td>53.</td>
-    <td><a class="page-link" href="/poslanci/katerina-konecna/index.html">Kateřina Konečná</a></td>
-    <td>KSČM</td>
-    <td>0 %</td>
+    <td><a class="page-link" href="/senatori/zuzana-baudysova/">Zuzana Baudyšová</a></td>
+    <td>BEZPP</td>
+    <td>-15%</td>
   </tr>
 
   <tr>
     <td>54.</td>
-    <td><a class="page-link" href="/poslanci/jan-farsky/index.html">Jan Farský</a></td>
-    <td>TOP 09</td>
-    <td>-3 %</td>
+    <td><a class="page-link" href="/senatori/jan-zaloudik/">Jan Žaloudík</a></td>
+    <td>BEZPP</td>
+    <td>-16%</td>
   </tr>
 
   <tr>
     <td>55.</td>
-    <td><a class="page-link" href="/poslanci/jana-hnykova/index.html">Jana Hnyková</a></td>
-    <td>nezařazený</td>
-    <td>-3 %</td>
+    <td><a class="page-link" href="/senatori/jiri-cunek/">Jiří Čunek</a></td>
+    <td>KDU-ČSL</td>
+    <td>-16%</td>
   </tr>
 
   <tr>
     <td>56.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-holik/index.html">Jaroslav Holík</a></td>
-    <td>nezařazený</td>
-    <td>-3 %</td>
+    <td><a class="page-link" href="/senatori/petr-silar/">Petr Šilar</a></td>
+    <td>KDU-ČSL</td>
+    <td>-16%</td>
   </tr>
 
   <tr>
     <td>57.</td>
-    <td><a class="page-link" href="/poslanci/adolf-beznoska/index.html">Adolf Beznoska</a></td>
-    <td>ODS</td>
-    <td>-4 %</td>
+    <td><a class="page-link" href="/senatori/frantisek-cuba/">František Čuba</a></td>
+    <td>SPO</td>
+    <td>-17%</td>
   </tr>
 
   <tr>
     <td>58.</td>
-    <td><a class="page-link" href="/poslanci/petr-adam/index.html">Petr Adam</a></td>
-    <td>nezařazený</td>
-    <td>-10 %</td>
+    <td><a class="page-link" href="/senatori/martin-tesarik/">Martin Tesařík</a></td>
+    <td>ČSSD</td>
+    <td>-17%</td>
   </tr>
 
   <tr>
     <td>59.</td>
-    <td><a class="page-link" href="/poslanci/zuzka-bebarova-rujbrova/index.html">Zuzka Bebarová Rujbrová</a></td>
-    <td>KSČM</td>
-    <td>-13 %</td>
+    <td><a class="page-link" href="/senatori/zbynek-linhart/">Zbyněk Linhart</a></td>
+    <td>BEZPP</td>
+    <td>-19%</td>
   </tr>
 
   <tr>
     <td>60.</td>
-    <td><a class="page-link" href="/poslanci/karel-turecek/index.html">Karel Tureček</a></td>
-    <td>ANO</td>
-    <td>-13 %</td>
+    <td><a class="page-link" href="/senatori/jiri-vosecky/">Jiří Vosecký</a></td>
+    <td>SLK</td>
+    <td>-19%</td>
   </tr>
 
   <tr>
     <td>61.</td>
-    <td><a class="page-link" href="/poslanci/martin-stropnicky/index.html">Martin Stropnický</a></td>
-    <td>ANO</td>
-    <td>-16 %</td>
+    <td><a class="page-link" href="/senatori/jiri-sestak/">Jiří Šesták</a></td>
+    <td>"HOPB"</td>
+    <td>-19%</td>
   </tr>
 
   <tr>
     <td>62.</td>
-    <td><a class="page-link" href="/poslanci/vojtech-adam/index.html">Vojtěch Adam</a></td>
-    <td>KSČM</td>
-    <td>-16 %</td>
+    <td><a class="page-link" href="/senatori/patrik-kuncar/">Patrik Kunčar</a></td>
+    <td>KDU-ČSL</td>
+    <td>-19%</td>
   </tr>
 
   <tr>
     <td>63.</td>
-    <td><a class="page-link" href="/poslanci/pavel-kovacik/index.html">Pavel Kováčik</a></td>
-    <td>KSČM</td>
-    <td>-16 %</td>
+    <td><a class="page-link" href="/senatori/tomas-czernin/">Tomáš Czernin</a></td>
+    <td>TOP 09</td>
+    <td>-21%</td>
   </tr>
 
   <tr>
     <td>64.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-snopek/index.html">Václav Snopek</a></td>
-    <td>KSČM</td>
-    <td>-16 %</td>
+    <td><a class="page-link" href="/senatori/miroslav-nenutil/">Miroslav Nenutil</a></td>
+    <td>ČSSD</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>65.</td>
-    <td><a class="page-link" href="/poslanci/jiri-stetina/index.html">Jiří Štětina</a></td>
-    <td>Úsvit</td>
-    <td>-16 %</td>
+    <td><a class="page-link" href="/senatori/bozena-sekaninova/">Božena Sekaninová</a></td>
+    <td>ČSSD</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>66.</td>
-    <td><a class="page-link" href="/poslanci/lubomir-zaoralek/index.html">Lubomír Zaorálek</a></td>
-    <td>ČSSD</td>
-    <td>-19 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-doubrava/">Jaroslav Doubrava</a></td>
+    <td>S.cz</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>67.</td>
-    <td><a class="page-link" href="/poslanci/igor-nykl/index.html">Igor Nykl</a></td>
-    <td>ANO</td>
-    <td>-19 %</td>
+    <td><a class="page-link" href="/senatori/jan-hornik/">Jan Horník</a></td>
+    <td>STAN</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>68.</td>
-    <td><a class="page-link" href="/poslanci/kveta-matusovska/index.html">Květa Matušovská</a></td>
-    <td>KSČM</td>
-    <td>-19 %</td>
+    <td><a class="page-link" href="/senatori/milos-maly/">Miloš Malý</a></td>
+    <td>ČSSD</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>69.</td>
-    <td><a class="page-link" href="/poslanci/marian-jurecka/index.html">Marian Jurečka</a></td>
-    <td>KDU-ČSL</td>
-    <td>-19 %</td>
+    <td><a class="page-link" href="/senatori/antonin-mastalir/">Antonín Maštalíř</a></td>
+    <td>ČSSD</td>
+    <td>-22%</td>
   </tr>
 
   <tr>
     <td>70.</td>
-    <td><a class="page-link" href="/poslanci/milan-sarapatka/index.html">Milan Šarapatka</a></td>
-    <td>nezařazený</td>
-    <td>-19 %</td>
+    <td><a class="page-link" href="/senatori/jiri-hlavaty/">Jiří Hlavatý</a></td>
+    <td>BEZPP</td>
+    <td>-23%</td>
   </tr>
 
   <tr>
     <td>71.</td>
-    <td><a class="page-link" href="/poslanci/kristyna-zelienkova/index.html">Kristýna Zelienková</a></td>
-    <td>TOP 09</td>
-    <td>-20 %</td>
+    <td><a class="page-link" href="/senatori/radek-susil/">Radek Sušil</a></td>
+    <td>ČSSD</td>
+    <td>-23%</td>
   </tr>
 
   <tr>
     <td>72.</td>
-    <td><a class="page-link" href="/poslanci/frantisek-petrtyl/index.html">František Petrtýl</a></td>
-    <td>ANO</td>
-    <td>-22 %</td>
+    <td><a class="page-link" href="/senatori/eva-sykova/">Eva Syková</a></td>
+    <td>BEZPP</td>
+    <td>-24%</td>
   </tr>
 
   <tr>
     <td>73.</td>
-    <td><a class="page-link" href="/poslanci/milan-urban/index.html">Milan Urban</a></td>
+    <td><a class="page-link" href="/senatori/jaromir-strnad/">Jaromír Strnad</a></td>
     <td>ČSSD</td>
-    <td>-23 %</td>
+    <td>-24%</td>
   </tr>
 
   <tr>
     <td>74.</td>
-    <td><a class="page-link" href="/poslanci/rene-cip/index.html">René Číp</a></td>
-    <td>KSČM</td>
-    <td>-23 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-besta/">Zdeněk Besta</a></td>
+    <td>ČSSD</td>
+    <td>-26%</td>
   </tr>
 
   <tr>
     <td>75.</td>
-    <td><a class="page-link" href="/poslanci/josef-vondrasek/index.html">Josef Vondrášek</a></td>
-    <td>KSČM</td>
-    <td>-23 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-skromach/">Zdeněk Škromach</a></td>
+    <td>ČSSD</td>
+    <td>-26%</td>
   </tr>
 
   <tr>
     <td>76.</td>
-    <td><a class="page-link" href="/poslanci/augustin-karel-andrle-sylor/index.html">Augustin Karel Andrle Sylor</a></td>
-    <td>Úsvit</td>
-    <td>-23 %</td>
+    <td><a class="page-link" href="/senatori/jan-hajda/">Jan Hajda</a></td>
+    <td>ČSSD</td>
+    <td>-26%</td>
   </tr>
 
   <tr>
     <td>77.</td>
-    <td><a class="page-link" href="/poslanci/leo-luzar/index.html">Leo Luzar</a></td>
-    <td>KSČM</td>
-    <td>-23 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-broz/">Zdeněk Brož</a></td>
+    <td>BEZPP</td>
+    <td>-27%</td>
   </tr>
 
   <tr>
     <td>78.</td>
-    <td><a class="page-link" href="/poslanci/josef-novotny/index.html">Josef Novotný</a></td>
+    <td><a class="page-link" href="/senatori/jiri-dienstbier/">Jiří Dienstbier</a></td>
     <td>ČSSD</td>
-    <td>-26 %</td>
+    <td>-27%</td>
   </tr>
 
   <tr>
     <td>79.</td>
-    <td><a class="page-link" href="/poslanci/richard-brabec/index.html">Richard Brabec</a></td>
-    <td>ANO</td>
-    <td>-26 %</td>
+    <td><a class="page-link" href="/senatori/lubomir-franc/">Lubomír Franc</a></td>
+    <td>ČSSD</td>
+    <td>-27%</td>
   </tr>
 
   <tr>
     <td>80.</td>
-    <td><a class="page-link" href="/poslanci/vojtech-filip/index.html">Vojtěch Filip</a></td>
-    <td>KSČM</td>
-    <td>-26 %</td>
+    <td><a class="page-link" href="/senatori/petr-vicha/">Petr Vícha</a></td>
+    <td>ČSSD</td>
+    <td>-27%</td>
   </tr>
 
   <tr>
     <td>81.</td>
-    <td><a class="page-link" href="/poslanci/josef-nekl/index.html">Josef Nekl</a></td>
-    <td>KSČM</td>
-    <td>-26 %</td>
+    <td><a class="page-link" href="/senatori/ladislav-kos/">Ladislav Kos</a></td>
+    <td>HPP 11</td>
+    <td>-29%</td>
   </tr>
 
   <tr>
     <td>82.</td>
-    <td><a class="page-link" href="/poslanci/zdenek-ondracek/index.html">Zdeněk Ondráček</a></td>
-    <td>KSČM</td>
-    <td>-26 %</td>
+    <td><a class="page-link" href="/senatori/vaclav-chaloupek/">Václav Chaloupek</a></td>
+    <td>OPAT</td>
+    <td>-29%</td>
   </tr>
 
   <tr>
     <td>83.</td>
-    <td><a class="page-link" href="/poslanci/ivana-dobesova/index.html">Ivana Dobešová</a></td>
-    <td>ANO</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/miluse-horska/">Miluše Horská</a></td>
+    <td>BEZPP</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>84.</td>
-    <td><a class="page-link" href="/poslanci/karel-rais/index.html">Karel Rais</a></td>
-    <td>ANO</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/libor-michalek/">Libor Michálek</a></td>
+    <td>BEZPP</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>85.</td>
-    <td><a class="page-link" href="/poslanci/helena-valkova/index.html">Helena Válková</a></td>
-    <td>ANO</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-berka/">Zdeněk Berka</a></td>
+    <td>ČSSD</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>86.</td>
-    <td><a class="page-link" href="/poslanci/alexander-cerny/index.html">Alexander Černý</a></td>
-    <td>KSČM</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/jan-latka/">Jan Látka</a></td>
+    <td>ČSSD</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>87.</td>
-    <td><a class="page-link" href="/poslanci/josef-senfeld/index.html">Josef Šenfeld</a></td>
-    <td>KSČM</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/vladimir-placek/">Vladimír Plaček</a></td>
+    <td>ČSSD</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>88.</td>
-    <td><a class="page-link" href="/poslanci/miloslava-vostra/index.html">Miloslava Vostrá</a></td>
-    <td>KSČM</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/dagmar-terelmesova/">Dagmar Terelmešová</a></td>
+    <td>ČSSD</td>
+    <td>-30%</td>
   </tr>
 
   <tr>
     <td>89.</td>
-    <td><a class="page-link" href="/poslanci/karel-prazak/index.html">Karel Pražák</a></td>
-    <td>nezařazený</td>
-    <td>-29 %</td>
+    <td><a class="page-link" href="/senatori/zdenek-papousek/">Zdeněk Papoušek</a></td>
+    <td>BEZPP</td>
+    <td>-33%</td>
   </tr>
 
   <tr>
     <td>90.</td>
-    <td><a class="page-link" href="/poslanci/miloslava-rutova/index.html">Miloslava Rutová</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/pavel-stohl/">Pavel Štohl</a></td>
+    <td>BEZPP</td>
+    <td>-33%</td>
   </tr>
 
   <tr>
     <td>91.</td>
-    <td><a class="page-link" href="/poslanci/pavel-antonin/index.html">Pavel Antonín</a></td>
+    <td><a class="page-link" href="/senatori/josef-taborsky/">Josef Táborský</a></td>
     <td>ČSSD</td>
-    <td>-32 %</td>
+    <td>-35%</td>
   </tr>
 
   <tr>
     <td>92.</td>
-    <td><a class="page-link" href="/poslanci/pavlina-nytrova/index.html">Pavlína Nytrová</a></td>
-    <td>ČSSD</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/frantisek-bublan/">František Bublan</a></td>
+    <td>BEZPP</td>
+    <td>-35%</td>
   </tr>
 
   <tr>
     <td>93.</td>
-    <td><a class="page-link" href="/poslanci/pavel-cihak/index.html">Pavel Čihák</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/milada-emmerova/">Milada Emmerová</a></td>
+    <td>ČSSD</td>
+    <td>-35%</td>
   </tr>
 
   <tr>
     <td>94.</td>
-    <td><a class="page-link" href="/poslanci/matej-fichtner/index.html">Matěj Fichtner</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/jiri-dusek/">Jiří Dušek</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>95.</td>
-    <td><a class="page-link" href="/poslanci/martin-sedlar/index.html">Martin Sedlář</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/petr-holecek/">Petr Holeček</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>96.</td>
-    <td><a class="page-link" href="/poslanci/bronislav-schwarz/index.html">Bronislav Schwarz</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/anna-hubackova/">Anna Hubáčková</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>97.</td>
-    <td><a class="page-link" href="/poslanci/pavel-sramek/index.html">Pavel Šrámek</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/renata-chmelova/">Renata Chmelová</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>98.</td>
-    <td><a class="page-link" href="/poslanci/jan-volny/index.html">Jan Volný</a></td>
-    <td>ANO</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/lumir-kantor/">Lumír Kantor</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>99.</td>
-    <td><a class="page-link" href="/poslanci/jiri-dolejs/index.html">Jiří Dolejš</a></td>
-    <td>KSČM</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-vetrovsky/">Jaroslav Větrovský</a></td>
+    <td>BEZPP</td>
+    <td>-36%</td>
   </tr>
 
   <tr>
     <td>100.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-grospic/index.html">Stanislav Grospič</a></td>
-    <td>KSČM</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/ivo-barek/">Ivo Bárek</a></td>
+    <td>ČSSD</td>
+    <td>-38%</td>
   </tr>
 
   <tr>
     <td>101.</td>
-    <td><a class="page-link" href="/poslanci/vladimir-konicek/index.html">Vladimír Koníček</a></td>
-    <td>KSČM</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/jaromir-jermar/">Jaromír Jermář</a></td>
+    <td>ČSSD</td>
+    <td>-38%</td>
   </tr>
 
   <tr>
     <td>102.</td>
-    <td><a class="page-link" href="/poslanci/ivo-pojezny/index.html">Ivo Pojezný</a></td>
-    <td>KSČM</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/hassan-mezian/">Hassan Mezian</a></td>
+    <td>ČSSD</td>
+    <td>-38%</td>
   </tr>
 
   <tr>
     <td>103.</td>
-    <td><a class="page-link" href="/poslanci/karel-sidlo/index.html">Karel Šidlo</a></td>
-    <td>KSČM</td>
-    <td>-32 %</td>
+    <td><a class="page-link" href="/senatori/milan-stech/">Milan Štěch</a></td>
+    <td>ČSSD</td>
+    <td>-38%</td>
   </tr>
 
   <tr>
     <td>104.</td>
-    <td><a class="page-link" href="/poslanci/andrej-babis/index.html">Andrej Babiš</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/alena-dernerova/">Alena Dernerová</a></td>
+    <td>BEZPP</td>
+    <td>-39%</td>
   </tr>
 
   <tr>
     <td>105.</td>
-    <td><a class="page-link" href="/poslanci/josef-hajek/index.html">Josef Hájek</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/petr-gawlas/">Petr Gawlas</a></td>
+    <td>ČSSD</td>
+    <td>-39%</td>
   </tr>
 
   <tr>
     <td>106.</td>
-    <td><a class="page-link" href="/poslanci/bohuslav-chalupa/index.html">Bohuslav Chalupa</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/zdenka-hamousova/">Zdeňka Hamousová</a></td>
+    <td>BEZPP</td>
+    <td>-41%</td>
   </tr>
 
   <tr>
     <td>107.</td>
-    <td><a class="page-link" href="/poslanci/jana-lorencova/index.html">Jana Lorencová</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/peter-koliba/">Peter Koliba</a></td>
+    <td>BEZPP</td>
+    <td>-41%</td>
   </tr>
 
   <tr>
     <td>108.</td>
-    <td><a class="page-link" href="/poslanci/radka-maxova/index.html">Radka Maxová</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/jaroslav-maly/">Jaroslav Malý</a></td>
+    <td>BEZPP</td>
+    <td>-41%</td>
   </tr>
 
   <tr>
     <td>109.</td>
-    <td><a class="page-link" href="/poslanci/jiri-zlatuska/index.html">Jiří Zlatuška</a></td>
-    <td>ANO</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/emilie-triskova/">Emilie Třísková</a></td>
+    <td>ČSSD</td>
+    <td>-41%</td>
   </tr>
 
   <tr>
     <td>110.</td>
-    <td><a class="page-link" href="/poslanci/hana-aulicka-jirovcova/index.html">Hana Aulická Jírovcová</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/jiri-ruzicka/">Jiří Růžička</a></td>
+    <td>BEZPP</td>
+    <td>-43%</td>
   </tr>
 
   <tr>
     <td>111.</td>
-    <td><a class="page-link" href="/poslanci/miroslav-grebenicek/index.html">Miroslav Grebeníček</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/jaromira-vitkova/">Jaromíra Vítková</a></td>
+    <td>KDU-ČSL</td>
+    <td>-43%</td>
   </tr>
 
   <tr>
     <td>112.</td>
-    <td><a class="page-link" href="/poslanci/gabriela-hubackova/index.html">Gabriela Hubáčková</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/petr-orel/">Petr Orel</a></td>
+    <td>SZ</td>
+    <td>-43%</td>
   </tr>
 
   <tr>
     <td>113.</td>
-    <td><a class="page-link" href="/poslanci/jan-klan/index.html">Jan Klán</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/ivana-cabrnochova/">Ivana Cabrnochová</a></td>
+    <td>SZ</td>
+    <td>-46%</td>
   </tr>
 
   <tr>
     <td>114.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-mackovik/index.html">Stanislav Mackovík</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/jitka-seitlova/">Jitka Seitlová</a></td>
+    <td>BEZPP</td>
+    <td>-48%</td>
   </tr>
 
   <tr>
     <td>115.</td>
-    <td><a class="page-link" href="/poslanci/sona-markova/index.html">Soňa Marková</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/karel-kratochvile/">Karel Kratochvíle</a></td>
+    <td>ČSSD</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>116.</td>
-    <td><a class="page-link" href="/poslanci/alena-nohavova/index.html">Alena Nohavová</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/frantisek-bradac/">František Bradáč</a></td>
+    <td>KDU-ČSL</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>117.</td>
-    <td><a class="page-link" href="/poslanci/marie-pencikova/index.html">Marie Pěnčíková</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/jiri-carbol/">Jiří Carbol</a></td>
+    <td>KDU-ČSL</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>118.</td>
-    <td><a class="page-link" href="/poslanci/josef-zahradnicek/index.html">Josef Zahradníček</a></td>
-    <td>KSČM</td>
-    <td>-35 %</td>
+    <td><a class="page-link" href="/senatori/alena-sromova/">Alena Šromová</a></td>
+    <td>KDU-ČSL</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>119.</td>
-    <td><a class="page-link" href="/poslanci/milan-chovanec/index.html">Milan Chovanec</a></td>
-    <td>ČSSD</td>
-    <td>-39 %</td>
+    <td><a class="page-link" href="/senatori/vaclav-laska/">Václav Láska</a></td>
+    <td>SEN 21</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>120.</td>
-    <td><a class="page-link" href="/poslanci/jiri-koskuba/index.html">Jiří Koskuba</a></td>
-    <td>ČSSD</td>
-    <td>-39 %</td>
+    <td><a class="page-link" href="/senatori/stanislav-juranek/">Stanislav Juránek</a></td>
+    <td>KDU-ČSL</td>
+    <td>-52%</td>
   </tr>
 
   <tr>
     <td>121.</td>
-    <td><a class="page-link" href="/poslanci/milan-brazdil/index.html">Milan Brázdil</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
+    <td><a class="page-link" href="/senatori/vaclav-hampl/">Václav Hampl</a></td>
+    <td>BEZPP</td>
+    <td>-63%</td>
   </tr>
 
   <tr>
     <td>122.</td>
-    <td><a class="page-link" href="/poslanci/miloslav-janulik/index.html">Miloslav Janulík</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
+    <td><a class="page-link" href="/senatori/sarka-jelinkova/">Šárka Jelínková</a></td>
+    <td>KDU-ČSL</td>
+    <td>-71%</td>
   </tr>
 
   <tr>
     <td>123.</td>
-    <td><a class="page-link" href="/poslanci/martin-kolovratnik/index.html">Martin Kolovratník</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>124.</td>
-    <td><a class="page-link" href="/poslanci/martin-komarek/index.html">Martin Komárek</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>125.</td>
-    <td><a class="page-link" href="/poslanci/ladislav-oklestek/index.html">Ladislav Okleštěk</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>126.</td>
-    <td><a class="page-link" href="/poslanci/jana-pastuchova/index.html">Jana Pastuchová</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>127.</td>
-    <td><a class="page-link" href="/poslanci/ivan-pilny/index.html">Ivan Pilný</a></td>
-    <td>ANO</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>128.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-borka/index.html">Jaroslav Borka</a></td>
-    <td>KSČM</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>129.</td>
-    <td><a class="page-link" href="/poslanci/jiri-valenta/index.html">Jiří Valenta</a></td>
-    <td>KSČM</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>130.</td>
-    <td><a class="page-link" href="/poslanci/pavel-belobradek/index.html">Pavel Bělobrádek</a></td>
-    <td>KDU-ČSL</td>
-    <td>-39 %</td>
-  </tr>
-
-  <tr>
-    <td>131.</td>
-    <td><a class="page-link" href="/poslanci/ladislav-sincl/index.html">Ladislav Šincl</a></td>
-    <td>ČSSD</td>
-    <td>-40 %</td>
-  </tr>
-
-  <tr>
-    <td>132.</td>
-    <td><a class="page-link" href="/poslanci/tomas-jan-podivinsky/index.html">Tomáš Jan Podivínský</a></td>
-    <td>KDU-ČSL</td>
-    <td>-40 %</td>
-  </tr>
-
-  <tr>
-    <td>133.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-foldyna/index.html">Jaroslav Foldyna</a></td>
-    <td>ČSSD</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>134.</td>
-    <td><a class="page-link" href="/poslanci/bohuslav-sobotka/index.html">Bohuslav Sobotka</a></td>
-    <td>ČSSD</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>135.</td>
-    <td><a class="page-link" href="/poslanci/milos-babis/index.html">Miloš Babiš</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>136.</td>
-    <td><a class="page-link" href="/poslanci/margita-balastikova/index.html">Margita Balaštíková</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>137.</td>
-    <td><a class="page-link" href="/poslanci/martina-berdychova/index.html">Martina Berdychová</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>138.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-berkovec/index.html">Stanislav Berkovec</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>139.</td>
-    <td><a class="page-link" href="/poslanci/jiri-holecek/index.html">Jiří Holeček</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>140.</td>
-    <td><a class="page-link" href="/poslanci/josef-kott/index.html">Josef Kott</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>141.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-pfleger/index.html">Stanislav Pfléger</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>142.</td>
-    <td><a class="page-link" href="/poslanci/roman-prochazka/index.html">Roman Procházka</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>143.</td>
-    <td><a class="page-link" href="/poslanci/jan-sedlacek/index.html">Jan Sedláček</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>144.</td>
-    <td><a class="page-link" href="/poslanci/pavel-volcik/index.html">Pavel Volčík</a></td>
-    <td>ANO</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>145.</td>
-    <td><a class="page-link" href="/poslanci/miroslav-opalka/index.html">Miroslav Opálka</a></td>
-    <td>KSČM</td>
-    <td>-42 %</td>
-  </tr>
-
-  <tr>
-    <td>146.</td>
-    <td><a class="page-link" href="/poslanci/karel-cerny/index.html">Karel Černý</a></td>
-    <td>ČSSD</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>147.</td>
-    <td><a class="page-link" href="/poslanci/jan-hamacek/index.html">Jan Hamáček</a></td>
-    <td>ČSSD</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>148.</td>
-    <td><a class="page-link" href="/poslanci/jan-mladek/index.html">Jan Mládek</a></td>
-    <td>ČSSD</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>149.</td>
-    <td><a class="page-link" href="/poslanci/miroslava-strnadlova/index.html">Miroslava Strnadlová</a></td>
-    <td>ČSSD</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>150.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-faltynek/index.html">Jaroslav Faltýnek</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>151.</td>
-    <td><a class="page-link" href="/poslanci/roman-kubicek/index.html">Roman Kubíček</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>152.</td>
-    <td><a class="page-link" href="/poslanci/pavel-plzak/index.html">Pavel Plzák</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>153.</td>
-    <td><a class="page-link" href="/poslanci/radek-vondracek/index.html">Radek Vondráček</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>154.</td>
-    <td><a class="page-link" href="/poslanci/vlastimil-vozka/index.html">Vlastimil Vozka</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>155.</td>
-    <td><a class="page-link" href="/poslanci/milada-halikova/index.html">Milada Halíková</a></td>
-    <td>KSČM</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>156.</td>
-    <td><a class="page-link" href="/poslanci/marta-semelova/index.html">Marta Semelová</a></td>
-    <td>KSČM</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>157.</td>
-    <td><a class="page-link" href="/poslanci/ludvik-hovorka/index.html">Ludvík Hovorka</a></td>
-    <td>KDU-ČSL</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>158.</td>
-    <td><a class="page-link" href="/poslanci/jaroslava-pokorna-jermanova/index.html">Jaroslava Pokorná Jermanová</a></td>
-    <td>ANO</td>
-    <td>-45 %</td>
-  </tr>
-
-  <tr>
-    <td>159.</td>
-    <td><a class="page-link" href="/poslanci/vitezslav-jandak/index.html">Vítězslav Jandák</a></td>
-    <td>ČSSD</td>
-    <td>-46 %</td>
-  </tr>
-
-  <tr>
-    <td>160.</td>
-    <td><a class="page-link" href="/poslanci/jan-birke/index.html">Jan Birke</a></td>
-    <td>ČSSD</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>161.</td>
-    <td><a class="page-link" href="/poslanci/marketa-wernerova/index.html">Markéta Wernerová</a></td>
-    <td>ČSSD</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>162.</td>
-    <td><a class="page-link" href="/poslanci/jiri-zemanek/index.html">Jiří Zemánek</a></td>
-    <td>ČSSD</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>163.</td>
-    <td><a class="page-link" href="/poslanci/david-kasal/index.html">David Kasal</a></td>
-    <td>ANO</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>164.</td>
-    <td><a class="page-link" href="/poslanci/zdenek-soukup/index.html">Zdeněk Soukup</a></td>
-    <td>ANO</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>165.</td>
-    <td><a class="page-link" href="/poslanci/rostislav-vyzula/index.html">Rostislav Vyzula</a></td>
-    <td>ANO</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>166.</td>
-    <td><a class="page-link" href="/poslanci/ivan-gabal/index.html">Ivan Gabal</a></td>
-    <td>KDU-ČSL</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>167.</td>
-    <td><a class="page-link" href="/poslanci/jiri-junek/index.html">Jiří Junek</a></td>
-    <td>KDU-ČSL</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>168.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-klaska/index.html">Jaroslav Klaška</a></td>
-    <td>KDU-ČSL</td>
-    <td>-48 %</td>
-  </tr>
-
-  <tr>
-    <td>169.</td>
-    <td><a class="page-link" href="/poslanci/vlastimil-gabrhel/index.html">Vlastimil Gabrhel</a></td>
-    <td>ČSSD</td>
-    <td>-50 %</td>
-  </tr>
-
-  <tr>
-    <td>170.</td>
-    <td><a class="page-link" href="/poslanci/josef-vozdecky/index.html">Josef Vozdecký</a></td>
-    <td>ANO</td>
-    <td>-50 %</td>
-  </tr>
-
-  <tr>
-    <td>171.</td>
-    <td><a class="page-link" href="/poslanci/pavla-golasowska/index.html">Pavla Golasowská</a></td>
-    <td>KDU-ČSL</td>
-    <td>-50 %</td>
-  </tr>
-
-  <tr>
-    <td>172.</td>
-    <td><a class="page-link" href="/poslanci/pavel-holik/index.html">Pavel Holík</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>173.</td>
-    <td><a class="page-link" href="/poslanci/stanislav-huml/index.html">Stanislav Huml</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>174.</td>
-    <td><a class="page-link" href="/poslanci/jan-chvojka/index.html">Jan Chvojka</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>175.</td>
-    <td><a class="page-link" href="/poslanci/zuzana-kailova/index.html">Zuzana Kailová</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>176.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-krakora/index.html">Jaroslav Krákora</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>177.</td>
-    <td><a class="page-link" href="/poslanci/adam-rykala/index.html">Adam Rykala</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>178.</td>
-    <td><a class="page-link" href="/poslanci/stepan-stupcuk/index.html">Štěpán Stupčuk</a></td>
-    <td>ČSSD</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>179.</td>
-    <td><a class="page-link" href="/poslanci/jan-bartosek/index.html">Jan Bartošek</a></td>
-    <td>KDU-ČSL</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>180.</td>
-    <td><a class="page-link" href="/poslanci/ondrej-benesik/index.html">Ondřej Benešík</a></td>
-    <td>KDU-ČSL</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>181.</td>
-    <td><a class="page-link" href="/poslanci/petr-kudela/index.html">Petr Kudela</a></td>
-    <td>KDU-ČSL</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>182.</td>
-    <td><a class="page-link" href="/poslanci/josef-uhlik/index.html">Josef Uhlík</a></td>
-    <td>KDU-ČSL</td>
-    <td>-52 %</td>
-  </tr>
-
-  <tr>
-    <td>183.</td>
-    <td><a class="page-link" href="/poslanci/igor-jakubcik/index.html">Igor Jakubčík</a></td>
-    <td>ČSSD</td>
-    <td>-55 %</td>
-  </tr>
-
-  <tr>
-    <td>184.</td>
-    <td><a class="page-link" href="/poslanci/pavel-ploc/index.html">Pavel Ploc</a></td>
-    <td>ČSSD</td>
-    <td>-55 %</td>
-  </tr>
-
-  <tr>
-    <td>185.</td>
-    <td><a class="page-link" href="/poslanci/roman-vana/index.html">Roman Váňa</a></td>
-    <td>ČSSD</td>
-    <td>-55 %</td>
-  </tr>
-
-  <tr>
-    <td>186.</td>
-    <td><a class="page-link" href="/poslanci/zuzana-sanova/index.html">Zuzana Šánová</a></td>
-    <td>ANO</td>
-    <td>-56 %</td>
-  </tr>
-
-  <tr>
-    <td>187.</td>
-    <td><a class="page-link" href="/poslanci/vlasta-bohdalova/index.html">Vlasta Bohdalová</a></td>
-    <td>ČSSD</td>
-    <td>-57 %</td>
-  </tr>
-
-  <tr>
-    <td>188.</td>
-    <td><a class="page-link" href="/poslanci/robin-bohnisch/index.html">Robin Böhnisch</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>189.</td>
-    <td><a class="page-link" href="/poslanci/lukas-pleticha/index.html">Lukáš Pleticha</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>190.</td>
-    <td><a class="page-link" href="/poslanci/antonin-seda/index.html">Antonín Seďa</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>191.</td>
-    <td><a class="page-link" href="/poslanci/lubomir-toufar/index.html">Lubomír Toufar</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>192.</td>
-    <td><a class="page-link" href="/poslanci/jaroslav-zavadil/index.html">Jaroslav Zavadil</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>193.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-zemek/index.html">Václav Zemek</a></td>
-    <td>ČSSD</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>194.</td>
-    <td><a class="page-link" href="/poslanci/vit-kankovsky/index.html">Vít Kaňkovský</a></td>
-    <td>KDU-ČSL</td>
-    <td>-58 %</td>
-  </tr>
-
-  <tr>
-    <td>195.</td>
-    <td><a class="page-link" href="/poslanci/jiri-behounek/index.html">Jiří Běhounek</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>196.</td>
-    <td><a class="page-link" href="/poslanci/marie-benesova/index.html">Marie Benešová</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>197.</td>
-    <td><a class="page-link" href="/poslanci/richard-dolejs/index.html">Richard Dolejš</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>198.</td>
-    <td><a class="page-link" href="/poslanci/pavel-havir/index.html">Pavel Havíř</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>199.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-klucka/index.html">Václav Klučka</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>200.</td>
-    <td><a class="page-link" href="/poslanci/petr-korenek/index.html">Petr Kořenek</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>201.</td>
-    <td><a class="page-link" href="/poslanci/jiri-petru/index.html">Jiří Petrů</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>202.</td>
-    <td><a class="page-link" href="/poslanci/roman-sklenak/index.html">Roman Sklenák</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>203.</td>
-    <td><a class="page-link" href="/poslanci/jeronym-tejc/index.html">Jeroným Tejc</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>204.</td>
-    <td><a class="page-link" href="/poslanci/dana-vahalova/index.html">Dana Váhalová</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>205.</td>
-    <td><a class="page-link" href="/poslanci/ladislav-velebny/index.html">Ladislav Velebný</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>206.</td>
-    <td><a class="page-link" href="/poslanci/vaclav-votava/index.html">Václav Votava</a></td>
-    <td>ČSSD</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>207.</td>
-    <td><a class="page-link" href="/poslanci/jiri-mihola/index.html">Jiří Mihola</a></td>
-    <td>KDU-ČSL</td>
-    <td>-61 %</td>
-  </tr>
-
-  <tr>
-    <td>208.</td>
-    <td><a class="page-link" href="/poslanci/frantisek-adamek/index.html">František Adámek</a></td>
-    <td>ČSSD</td>
-    <td>-65 %</td>
-  </tr>
-
-  <tr>
-    <td>209.</td>
-    <td><a class="page-link" href="/poslanci/daniel-herman/index.html">Daniel Herman</a></td>
-    <td>KDU-ČSL</td>
-    <td>-65 %</td>
-  </tr>
-
-  <tr>
-    <td>210.</td>
-    <td><a class="page-link" href="/poslanci/zdenek-syblik/index.html">Zdeněk Syblík</a></td>
-    <td>ČSSD</td>
-    <td>-67 %</td>
-  </tr>
-
-  <tr>
-    <td>211.</td>
-    <td><a class="page-link" href="/poslanci/barbora-jelonkova/index.html">Barbora Jelonková</a></td>
-    <td>ČSSD</td>
-    <td>-100 %</td>
-  </tr>
-
-  <tr>
-    <td>212.</td>
-    <td><a class="page-link" href="/poslanci/michal-hasek/index.html">Michal Hašek</a></td>
-    <td>ČSSD</td>
-    <td>-100 %</td>
-  </tr>
-
-  <tr>
-    <td>213.</td>
-    <td><a class="page-link" href="/poslanci/jiri-zimola/index.html">Jiří Zimola</a></td>
-    <td>ČSSD</td>
-    <td>-100 %</td>
+    <td><a class="page-link" href="/senatori/tomas-golan/">Tomáš Goláň</a></td>
+    <td>BEZPP</td>
+    <td>-100%</td>
   </tr>
 
 </tbody>
@@ -1764,7 +1134,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=Celkov%C3%A9+po%C5%99ad%C3%AD+http://www.skoreposlancu.cz/celkove-poradi/index.html"
+    <a href="https://twitter.com/intent/tweet?text=Celkov%C3%A9+po%C5%99ad%C3%AD+http://www.skoresenatoru.cz/celkove-poradi/index.html"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -1773,7 +1143,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoreposlancu.cz/celkove-poradi/index.html"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/celkove-poradi/index.html"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -1852,11 +1222,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2017
+		  2018
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoreposlancu.cz">skoreposlancu.cz</a>
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
