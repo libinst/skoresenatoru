@@ -1,0 +1,863 @@
+[
+  {
+    "jmeno": "Jaromír Štětina",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
+    "_cre1l": "6",
+    "rank": "67%"
+  },
+  {
+    "jmeno": "Tomio Okamura",
+    "strana": "BEZPP",
+    "_cpzh4": "3",
+    "_cre1l": "6",
+    "rank": "50%"
+  },
+  {
+    "jmeno": "Marta Bayerová",
+    "strana": "KSČM",
+    "_cpzh4": "4",
+    "_cre1l": "10",
+    "rank": "40%"
+  },
+  {
+    "jmeno": "Pavel Eybert",
+    "strana": "ODS",
+    "_cpzh4": "7",
+    "_cre1l": "23",
+    "rank": "30%"
+  },
+  {
+    "jmeno": "Zdeněk Schwarz",
+    "strana": "BEZPP",
+    "_cpzh4": "3",
+    "_cre1l": "10",
+    "rank": "30%"
+  },
+  {
+    "jmeno": "Vladimír Dryml",
+    "strana": "SPO",
+    "_cpzh4": "3",
+    "_cre1l": "10",
+    "rank": "30%"
+  },
+  {
+    "jmeno": "Petr Guziana",
+    "strana": "BEZPP",
+    "_cpzh4": "2",
+    "_cre1l": "9",
+    "rank": "22%"
+  },
+  {
+    "jmeno": "Milan Pešák",
+    "strana": "BEZPP",
+    "_cpzh4": "5",
+    "_cre1l": "23",
+    "rank": "22%"
+  },
+  {
+    "jmeno": "Přemysl Sobotka",
+    "strana": "ODS",
+    "_cpzh4": "5",
+    "_cre1l": "23",
+    "rank": "22%"
+  },
+  {
+    "jmeno": "Hana Doupovcová",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Alena Gajdůšková",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Karel Korytář",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Jiří Lajtoch",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Eva Richtrová",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Josef Řihák",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Jaroslav Sykáček",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Pavel Trpák",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Dagmar Zvěřinová",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Miloš Janeček",
+    "strana": "nezjištěno",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Tomáš Kladívko",
+    "strana": "ODS",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Miroslav Škaloud",
+    "strana": "ODS",
+    "_cpzh4": "2",
+    "_cre1l": "10",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Ivo Valenta",
+    "strana": "BEZPP",
+    "_cpzh4": "5",
+    "_cre1l": "27",
+    "rank": "19%"
+  },
+  {
+    "jmeno": "Jaroslav Kubera",
+    "strana": "ODS",
+    "_cpzh4": "6",
+    "_cre1l": "37",
+    "rank": "16%"
+  },
+  {
+    "jmeno": "Tomáš Grulich",
+    "strana": "ODS",
+    "_cpzh4": "5",
+    "_cre1l": "37",
+    "rank": "14%"
+  },
+  {
+    "jmeno": "Petr Bratský",
+    "strana": "ODS",
+    "_cpzh4": "3",
+    "_cre1l": "23",
+    "rank": "13%"
+  },
+  {
+    "jmeno": "Lumír Aschenbrenner",
+    "strana": "ODS",
+    "_cpzh4": "3",
+    "_cre1l": "27",
+    "rank": "11%"
+  },
+  {
+    "jmeno": "Tomáš Jirsa",
+    "strana": "ODS",
+    "_cpzh4": "4",
+    "_cre1l": "37",
+    "rank": "11%"
+  },
+  {
+    "jmeno": "Marcel Chládek",
+    "strana": "ČSSD",
+    "_cpzh4": "1",
+    "_cre1l": "10",
+    "rank": "10%"
+  },
+  {
+    "jmeno": "Karel Kapoun",
+    "strana": "ČSSD",
+    "_cpzh4": "1",
+    "_cre1l": "10",
+    "rank": "10%"
+  },
+  {
+    "jmeno": "Veronika Vrecionová",
+    "strana": "ODS",
+    "_cpzh4": "2",
+    "_cre1l": "23",
+    "rank": "9%"
+  },
+  {
+    "jmeno": "Jaroslav Zeman",
+    "strana": "ODS",
+    "_cpzh4": "2",
+    "_cre1l": "37",
+    "rank": "5%"
+  },
+  {
+    "jmeno": "Jan Veleba",
+    "strana": "SPO",
+    "_cpzh4": "2",
+    "_cre1l": "37",
+    "rank": "5%"
+  },
+  {
+    "jmeno": "Daniela Filipiová",
+    "strana": "ODS",
+    "_cpzh4": "1",
+    "_cre1l": "37",
+    "rank": "3%"
+  },
+  {
+    "jmeno": "Zdeněk Nytra",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
+    "_cre1l": "14",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Jan Sobotka",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
+    "_cre1l": "4",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Jiří Oberfalzer",
+    "strana": "ODS",
+    "_cpzh4": "0",
+    "_cre1l": "37",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Jaroslav Palas",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
+    "_cre1l": "23",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Miroslav Krejča",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
+    "_cre1l": "10",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Jiří Bis",
+    "strana": "ČSSD",
+    "_cpzh4": "0",
+    "_cre1l": "10",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Miloš Vystrčil",
+    "strana": "ODS",
+    "_cpzh4": "-1",
+    "_cre1l": "37",
+    "rank": "-3%"
+  },
+  {
+    "jmeno": "Jiří Burian",
+    "strana": "ODS",
+    "_cpzh4": "-1",
+    "_cre1l": "27",
+    "rank": "-4%"
+  },
+  {
+    "jmeno": "Jozef Regec",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "23",
+    "rank": "-4%"
+  },
+  {
+    "jmeno": "Leopold Sulovský",
+    "strana": "BEZPP",
+    "_cpzh4": "-2",
+    "_cre1l": "37",
+    "rank": "-5%"
+  },
+  {
+    "jmeno": "Jiří Cieńciała",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "14",
+    "rank": "-7%"
+  },
+  {
+    "jmeno": "Ladislav Václavec",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "14",
+    "rank": "-7%"
+  },
+  {
+    "jmeno": "Eliška Wagnerová",
+    "strana": "BEZPP",
+    "_cpzh4": "-3",
+    "_cre1l": "37",
+    "rank": "-8%"
+  },
+  {
+    "jmeno": "Pavel Lebeda",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "10",
+    "rank": "-10%"
+  },
+  {
+    "jmeno": "Miroslav Antl",
+    "strana": "BEZPP",
+    "_cpzh4": "-4",
+    "_cre1l": "37",
+    "rank": "-11%"
+  },
+  {
+    "jmeno": "Luděk Jeništa",
+    "strana": "BEZPP",
+    "_cpzh4": "-4",
+    "_cre1l": "37",
+    "rank": "-11%"
+  },
+  {
+    "jmeno": "Radko Martínek",
+    "strana": "ČSSD",
+    "_cpzh4": "-5",
+    "_cre1l": "37",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Václav Homolka",
+    "strana": "KSČM",
+    "_cpzh4": "-5",
+    "_cre1l": "37",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Michael Canov",
+    "strana": "SLK",
+    "_cpzh4": "-2",
+    "_cre1l": "14",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Zuzana Baudyšová",
+    "strana": "BEZPP",
+    "_cpzh4": "-4",
+    "_cre1l": "27",
+    "rank": "-15%"
+  },
+  {
+    "jmeno": "Jan Žaloudík",
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "37",
+    "rank": "-16%"
+  },
+  {
+    "jmeno": "Jiří Čunek",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "37",
+    "rank": "-16%"
+  },
+  {
+    "jmeno": "Petr Šilar",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "37",
+    "rank": "-16%"
+  },
+  {
+    "jmeno": "František Čuba",
+    "strana": "SPO",
+    "_cpzh4": "-4",
+    "_cre1l": "24",
+    "rank": "-17%"
+  },
+  {
+    "jmeno": "Martin Tesařík",
+    "strana": "ČSSD",
+    "_cpzh4": "-4",
+    "_cre1l": "23",
+    "rank": "-17%"
+  },
+  {
+    "jmeno": "Zbyněk Linhart",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "27",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Jiří Vosecký",
+    "strana": "SLK",
+    "_cpzh4": "-5",
+    "_cre1l": "27",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Jiří Šesták",
+    "strana": "\"HOPB\"",
+    "_cpzh4": "-7",
+    "_cre1l": "37",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Patrik Kunčar",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "31",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Tomáš Czernin",
+    "strana": "TOP 09",
+    "_cpzh4": "-3",
+    "_cre1l": "14",
+    "rank": "-21%"
+  },
+  {
+    "jmeno": "Miroslav Nenutil",
+    "strana": "ČSSD",
+    "_cpzh4": "-8",
+    "_cre1l": "37",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Božena Sekaninová",
+    "strana": "ČSSD",
+    "_cpzh4": "-8",
+    "_cre1l": "37",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Jaroslav Doubrava",
+    "strana": "S.cz",
+    "_cpzh4": "-8",
+    "_cre1l": "37",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Jan Horník",
+    "strana": "STAN",
+    "_cpzh4": "-8",
+    "_cre1l": "37",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Miloš Malý",
+    "strana": "ČSSD",
+    "_cpzh4": "-5",
+    "_cre1l": "23",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Antonín Maštalíř",
+    "strana": "ČSSD",
+    "_cpzh4": "-5",
+    "_cre1l": "23",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Jiří Hlavatý",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "22",
+    "rank": "-23%"
+  },
+  {
+    "jmeno": "Radek Sušil",
+    "strana": "ČSSD",
+    "_cpzh4": "-8",
+    "_cre1l": "35",
+    "rank": "-23%"
+  },
+  {
+    "jmeno": "Eva Syková",
+    "strana": "BEZPP",
+    "_cpzh4": "-9",
+    "_cre1l": "37",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Jaromír Strnad",
+    "strana": "ČSSD",
+    "_cpzh4": "-9",
+    "_cre1l": "37",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Zdeněk Besta",
+    "strana": "ČSSD",
+    "_cpzh4": "-6",
+    "_cre1l": "23",
+    "rank": "-26%"
+  },
+  {
+    "jmeno": "Zdeněk Škromach",
+    "strana": "ČSSD",
+    "_cpzh4": "-6",
+    "_cre1l": "23",
+    "rank": "-26%"
+  },
+  {
+    "jmeno": "Jan Hajda",
+    "strana": "ČSSD",
+    "_cpzh4": "-9",
+    "_cre1l": "34",
+    "rank": "-26%"
+  },
+  {
+    "jmeno": "Zdeněk Brož",
+    "strana": "BEZPP",
+    "_cpzh4": "-10",
+    "_cre1l": "37",
+    "rank": "-27%"
+  },
+  {
+    "jmeno": "Jiří Dienstbier",
+    "strana": "ČSSD",
+    "_cpzh4": "-10",
+    "_cre1l": "37",
+    "rank": "-27%"
+  },
+  {
+    "jmeno": "Lubomír Franc",
+    "strana": "ČSSD",
+    "_cpzh4": "-10",
+    "_cre1l": "37",
+    "rank": "-27%"
+  },
+  {
+    "jmeno": "Petr Vícha",
+    "strana": "ČSSD",
+    "_cpzh4": "-10",
+    "_cre1l": "37",
+    "rank": "-27%"
+  },
+  {
+    "jmeno": "Ladislav Kos",
+    "strana": "HPP 11",
+    "_cpzh4": "-4",
+    "_cre1l": "14",
+    "rank": "-29%"
+  },
+  {
+    "jmeno": "Václav Chaloupek",
+    "strana": "OPAT",
+    "_cpzh4": "-4",
+    "_cre1l": "14",
+    "rank": "-29%"
+  },
+  {
+    "jmeno": "Miluše Horská",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "37",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Libor Michálek",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "37",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Zdeněk Berka",
+    "strana": "ČSSD",
+    "_cpzh4": "-11",
+    "_cre1l": "37",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Jan Látka",
+    "strana": "ČSSD",
+    "_cpzh4": "-11",
+    "_cre1l": "37",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Vladimír Plaček",
+    "strana": "ČSSD",
+    "_cpzh4": "-11",
+    "_cre1l": "37",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Dagmar Terelmešová",
+    "strana": "ČSSD",
+    "_cpzh4": "-7",
+    "_cre1l": "23",
+    "rank": "-30%"
+  },
+  {
+    "jmeno": "Zdeněk Papoušek",
+    "strana": "BEZPP",
+    "_cpzh4": "-9",
+    "_cre1l": "27",
+    "rank": "-33%"
+  },
+  {
+    "jmeno": "Pavel Štohl",
+    "strana": "BEZPP",
+    "_cpzh4": "-9",
+    "_cre1l": "27",
+    "rank": "-33%"
+  },
+  {
+    "jmeno": "Josef Táborský",
+    "strana": "ČSSD",
+    "_cpzh4": "-8",
+    "_cre1l": "23",
+    "rank": "-35%"
+  },
+  {
+    "jmeno": "František Bublan",
+    "strana": "BEZPP",
+    "_cpzh4": "-13",
+    "_cre1l": "37",
+    "rank": "-35%"
+  },
+  {
+    "jmeno": "Milada Emmerová",
+    "strana": "ČSSD",
+    "_cpzh4": "-13",
+    "_cre1l": "37",
+    "rank": "-35%"
+  },
+  {
+    "jmeno": "Jiří Dušek",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Petr Holeček",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Anna Hubáčková",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Renata Chmelová",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Lumír Kantor",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Jaroslav Větrovský",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "14",
+    "rank": "-36%"
+  },
+  {
+    "jmeno": "Ivo Bárek",
+    "strana": "ČSSD",
+    "_cpzh4": "-14",
+    "_cre1l": "37",
+    "rank": "-38%"
+  },
+  {
+    "jmeno": "Jaromír Jermář",
+    "strana": "ČSSD",
+    "_cpzh4": "-14",
+    "_cre1l": "37",
+    "rank": "-38%"
+  },
+  {
+    "jmeno": "Hassan Mezian",
+    "strana": "ČSSD",
+    "_cpzh4": "-14",
+    "_cre1l": "37",
+    "rank": "-38%"
+  },
+  {
+    "jmeno": "Milan Štěch",
+    "strana": "ČSSD",
+    "_cpzh4": "-14",
+    "_cre1l": "37",
+    "rank": "-38%"
+  },
+  {
+    "jmeno": "Alena Dernerová",
+    "strana": "BEZPP",
+    "_cpzh4": "-14",
+    "_cre1l": "36",
+    "rank": "-39%"
+  },
+  {
+    "jmeno": "Petr Gawlas",
+    "strana": "ČSSD",
+    "_cpzh4": "-9",
+    "_cre1l": "23",
+    "rank": "-39%"
+  },
+  {
+    "jmeno": "Zdeňka Hamousová",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "27",
+    "rank": "-41%"
+  },
+  {
+    "jmeno": "Peter Koliba",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "27",
+    "rank": "-41%"
+  },
+  {
+    "jmeno": "Jaroslav Malý",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "27",
+    "rank": "-41%"
+  },
+  {
+    "jmeno": "Emilie Třísková",
+    "strana": "ČSSD",
+    "_cpzh4": "-11",
+    "_cre1l": "27",
+    "rank": "-41%"
+  },
+  {
+    "jmeno": "Jiří Růžička",
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "14",
+    "rank": "-43%"
+  },
+  {
+    "jmeno": "Jaromíra Vítková",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "14",
+    "rank": "-43%"
+  },
+  {
+    "jmeno": "Petr Orel",
+    "strana": "SZ",
+    "_cpzh4": "-6",
+    "_cre1l": "14",
+    "rank": "-43%"
+  },
+  {
+    "jmeno": "Ivana Cabrnochová",
+    "strana": "SZ",
+    "_cpzh4": "-6",
+    "_cre1l": "13",
+    "rank": "-46%"
+  },
+  {
+    "jmeno": "Jitka Seitlová",
+    "strana": "BEZPP",
+    "_cpzh4": "-13",
+    "_cre1l": "27",
+    "rank": "-48%"
+  },
+  {
+    "jmeno": "Karel Kratochvíle",
+    "strana": "ČSSD",
+    "_cpzh4": "-14",
+    "_cre1l": "27",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "František Bradáč",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-14",
+    "_cre1l": "27",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "Jiří Carbol",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-14",
+    "_cre1l": "27",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "Alena Šromová",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-14",
+    "_cre1l": "27",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "Václav Láska",
+    "strana": "SEN 21",
+    "_cpzh4": "-14",
+    "_cre1l": "27",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "Stanislav Juránek",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-12",
+    "_cre1l": "23",
+    "rank": "-52%"
+  },
+  {
+    "jmeno": "Václav Hampl",
+    "strana": "BEZPP",
+    "_cpzh4": "-17",
+    "_cre1l": "27",
+    "rank": "-63%"
+  },
+  {
+    "jmeno": "Šárka Jelínková",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-10",
+    "_cre1l": "14",
+    "rank": "-71%"
+  },
+  {
+    "jmeno": "Tomáš Goláň",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "1",
+    "rank": "-100%"
+  }
+]
