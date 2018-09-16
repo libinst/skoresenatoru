@@ -12,7 +12,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
 
   
 
@@ -61,12 +61,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoreposlancu.cz/o-projektu" />
-  <link rel="canonical" href="http://www.skoreposlancu.cz/o-projektu" />
+  <meta property="og:url" content="http://www.skoresenatoru.cz/o-projektu" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/o-projektu" />
   
 
   
-  <meta property="og:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
 
@@ -82,7 +82,7 @@
   
 
   
-  <meta name="twitter:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -104,7 +104,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoreposlancu.cz">Skóre poslanců</a>
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
       
     </div>
 
@@ -112,8 +112,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -129,7 +129,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
@@ -213,7 +213,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoreposlancu.cz ">
+	    <a href="http://www.skoresenatoru.cz ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -254,11 +254,11 @@
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <p>SkórePoslanců.cz je projekt <a href="http://libinst.cz">Liberálního institutu</a> a je inspirován již řadu let trvajícím projektem americké organizace <a href="http://congress.freedomworks.org">FreedomWorks</a>.</p>
+      <p>SkóreSenátorů.cz je projekt <a href="http://libinst.cz">Liberálního institutu</a> a je inspirován již řadu let trvajícím projektem americké organizace <a href="http://congress.freedomworks.org">FreedomWorks</a>.</p>
 
-<p>Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod poslanci, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod poslanci, který hlasuje naopak. Skóre 100 % tedy znamená, že poslanec hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že poslanec vždy hlasuje pro méně svobody a více státu.</p>
+<p>Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod senátorovi, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod senátorovi, který hlasuje naopak. Skóre 100 % tedy znamená, že senátor hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že senátor vždy hlasuje pro méně svobody a více státu.</p>
 
-<p>Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých poslanců sčítají, takže můžeme sestavit žebříček poslanců od nejliberálnějších po nejméně liberální.</p>
+<p>Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých senátorů sčítají, takže můžeme sestavit žebříček senátorů od nejliberálnějších po nejméně liberální.</p>
 
 <p>Vedoucí projektu: <a href="mailto:martin.panek@libinst.cz">Martin Pánek</a> - 777 157 142</p>
 
@@ -311,7 +311,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=O+projektu+http://www.skoreposlancu.cz/o-projektu/index.html"
+    <a href="https://twitter.com/intent/tweet?text=O+projektu+http://www.skoresenatoru.cz/o-projektu/index.html"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -320,7 +320,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoreposlancu.cz/o-projektu/index.html"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/o-projektu/index.html"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -399,11 +399,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2017
+		  2018
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoreposlancu.cz">skoreposlancu.cz</a>
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

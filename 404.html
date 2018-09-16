@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>404 - Page not found</title>
+  <title>Skóre senátorů</title>
 
   <meta name="author" content="Liberalni institut" />
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
 
   
 
@@ -52,7 +52,7 @@
   
 
   
-  <meta property="og:title" content="404 - Page not found" />
+  <meta property="og:title" content="Skóre senátorů" />
   
 
    
@@ -61,12 +61,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoreposlancu.cz/404" />
-  <link rel="canonical" href="http://www.skoreposlancu.cz/404" />
+  <meta property="og:url" content="http://www.skoresenatoru.cz/404" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/404" />
   
 
   
-  <meta property="og:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
 
@@ -76,13 +76,13 @@
   <meta name="twitter:creator" content="@libinstcz" />
 
   
-  <meta name="twitter:title" content="404 - Page not found" />
+  <meta name="twitter:title" content="Skóre senátorů" />
   
 
   
 
   
-  <meta name="twitter:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -104,7 +104,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoreposlancu.cz">Skóre poslanců</a>
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
       
     </div>
 
@@ -112,8 +112,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -129,7 +129,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
@@ -213,7 +213,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoreposlancu.cz ">
+	    <a href="http://www.skoresenatoru.cz ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -227,12 +227,25 @@
     <div class="intro-header"></div>
 
 <div role="main" class="container">
-  <div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
+  <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
-  <img src="/img/404-southpark.jpg" />
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
 </div>
 
 </div>
@@ -294,11 +307,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2017
+		  2018
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoreposlancu.cz">skoreposlancu.cz</a>
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

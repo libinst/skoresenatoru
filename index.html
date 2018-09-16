@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Skóre poslanců</title>
+  <title>Skóre senátorů</title>
 
   <meta name="author" content="Liberalni institut" />
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
 
   
 
@@ -52,7 +52,7 @@
   
 
   
-  <meta property="og:title" content="Skóre poslanců" />
+  <meta property="og:title" content="Skóre senátorů" />
   
 
    
@@ -61,12 +61,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoreposlancu.cz/" />
-  <link rel="canonical" href="http://www.skoreposlancu.cz/" />
+  <meta property="og:url" content="http://www.skoresenatoru.cz/" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/" />
   
 
   
-  <meta property="og:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
 
@@ -76,13 +76,13 @@
   <meta name="twitter:creator" content="@libinstcz" />
 
   
-  <meta name="twitter:title" content="Skóre poslanců" />
+  <meta name="twitter:title" content="Skóre senátorů" />
   
 
   
 
   
-  <meta name="twitter:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -104,7 +104,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoreposlancu.cz">Skóre poslanců</a>
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
       
     </div>
 
@@ -112,8 +112,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -129,7 +129,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
@@ -213,7 +213,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoreposlancu.cz ">
+	    <a href="http://www.skoresenatoru.cz ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -237,7 +237,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="page-heading">
-          <h1>Skóre poslanců</h1>
+          <h1>Skóre senátorů</h1>
 		  
 		  
 		  
@@ -262,53 +262,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5476.jpg" class="img-thumbnail" />
+              <img src="" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/frantisek-laudat/index.html">František Laudát</a></h3>
-              TOP 09
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">45 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6216.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/michal-kucera/index.html">Michal Kučera</a></h3>
-              TOP 09
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">39 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s401.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/miroslava-nemcova/index.html">Miroslava Němcová</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/pavel-eybert/">Pavel Eybert</a></h3>
               ODS
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">39 %</h2>
+          <h2 style="text-align:center">30%</h2>
         </div>
       </div>
     
@@ -316,17 +279,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5919.jpg" class="img-thumbnail" />
+              <img src="" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/vaclav-horacek/index.html">Václav Horáček</a></h3>
-              TOP 09
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/zdenek-schwarz/">Zdeněk Schwarz</a></h3>
+              BEZPP
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">32 %</h2>
+          <h2 style="text-align:center">30%</h2>
         </div>
       </div>
     
@@ -334,17 +296,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5939.jpg" class="img-thumbnail" />
+              <img src="" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/daniel-korte/index.html">Daniel Korte</a></h3>
-              TOP 09
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/milan-pesak/">Milan Pešák</a></h3>
+              BEZPP
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">32 %</h2>
+          <h2 style="text-align:center">22%</h2>
         </div>
       </div>
     
@@ -352,17 +313,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5990.jpg" class="img-thumbnail" />
+              <img src="" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/jana-fischerova/index.html">Jana Fischerová</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/premysl-sobotka/">Přemysl Sobotka</a></h3>
               ODS
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">32 %</h2>
+          <h2 style="text-align:center">22%</h2>
         </div>
       </div>
     
@@ -370,71 +330,33 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5969.jpg" class="img-thumbnail" />
+              <img src="" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/zbynek-stanjura/index.html">Zbyněk Stanjura</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/ivo-valenta/">Ivo Valenta</a></h3>
+              BEZPP
+            </div>
+          </div>
+        </div>
+        <div class="panel-footer success">
+          <h2 style="text-align:center">19%</h2>
+        </div>
+      </div>
+    
+      <div class="panel panel-success">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-md-3">
+              <img src="" class="img-thumbnail" />
+            </div>
+            <div class="col-md-9">          
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/jaroslav-kubera/">Jaroslav Kubera</a></h3>
               ODS
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">32 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6280.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/martin-plisek/index.html">Martin Plíšek</a></h3>
-              TOP 09
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">30 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5914.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/petr-gazdik/index.html">Petr Gazdík</a></h3>
-              TOP 09
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">29 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s377.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/miroslav-kalousek/index.html">Miroslav Kalousek</a></h3>
-              TOP 09
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">29 %</h2>
+          <h2 style="text-align:center">16%</h2>
         </div>
       </div>
     
@@ -447,52 +369,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6284.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-14.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/zdenek-syblik/index.html">Zdeněk Syblík</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-67 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s467.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/frantisek-adamek/index.html">František Adámek</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-65 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6142.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/daniel-herman/index.html">Daniel Herman</a></h3>
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/jiri-carbol/">Jiří Carbol</a></h3>
               KDU-ČSL
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-65 %</h2>
+          <h2 style="text-align:center">-52%</h2>
         </div>
       </div>
     
@@ -501,16 +387,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6002.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-14.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/jiri-behounek/index.html">Jiří Běhounek</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/alena-sromova/">Alena Šromová</a></h3>
+              KDU-ČSL
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
+          <h2 style="text-align:center">-52%</h2>
         </div>
       </div>
     
@@ -519,16 +405,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6136.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-14.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/marie-benesova/index.html">Marie Benešová</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/vaclav-laska/">Václav Láska</a></h3>
+              SEN 21
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
+          <h2 style="text-align:center">-52%</h2>
         </div>
       </div>
     
@@ -537,16 +423,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5456.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-12.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/richard-dolejs/index.html">Richard Dolejš</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/stanislav-juranek/">Stanislav Juránek</a></h3>
+              KDU-ČSL
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
+          <h2 style="text-align:center">-52%</h2>
         </div>
       </div>
     
@@ -555,16 +441,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6194.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-17.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/pavel-havir/index.html">Pavel Havíř</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/vaclav-hampl/">Václav Hampl</a></h3>
+              BEZPP
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
+          <h2 style="text-align:center">-63%</h2>
         </div>
       </div>
     
@@ -573,52 +459,16 @@
           <div class="row">
             <div class="col-md-3">
               
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s68.jpg" class="img-thumbnail" />
+              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s-10.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/vaclav-klucka/index.html">Václav Klučka</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/senatori/sarka-jelinkova/">Šárka Jelínková</a></h3>
+              KDU-ČSL
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6212.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/petr-korenek/index.html">Petr Kořenek</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              
-              <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5487.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/poslanci/jiri-petru/index.html">Jiří Petrů</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-61 %</h2>
+          <h2 style="text-align:center">-71%</h2>
         </div>
       </div>
     
@@ -638,7 +488,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=Sk%C3%B3re+poslanc%C5%AF+http://www.skoreposlancu.cz/"
+    <a href="https://twitter.com/intent/tweet?text=Sk%C3%B3re+sen%C3%A1tor%C5%AF+http://www.skoresenatoru.cz/"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -647,7 +497,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoreposlancu.cz/"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -726,11 +576,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2017
+		  2018
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoreposlancu.cz">skoreposlancu.cz</a>
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

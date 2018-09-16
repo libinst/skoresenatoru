@@ -12,7 +12,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre poslanců - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
 
   
 
@@ -61,12 +61,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoreposlancu.cz/hlasovani" />
-  <link rel="canonical" href="http://www.skoreposlancu.cz/hlasovani" />
+  <meta property="og:url" content="http://www.skoresenatoru.cz/hlasovani" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/hlasovani" />
   
 
   
-  <meta property="og:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
 
@@ -82,7 +82,7 @@
   
 
   
-  <meta name="twitter:image" content="http://www.skoreposlancu.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -104,7 +104,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoreposlancu.cz">Skóre poslanců</a>
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
       
     </div>
 
@@ -112,8 +112,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -129,7 +129,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
@@ -213,7 +213,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoreposlancu.cz ">
+	    <a href="http://www.skoresenatoru.cz ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -257,67 +257,65 @@
       <table class="table">
   <tbody>
   
-    <tr><td><a href="/hlasovani/eet/index.html">EET</a></td></tr>
+    <tr><td><a href="/hlasovani/eet/">EET</a></td></tr>
   
-    <tr><td><a href="/hlasovani/kontrolni-hlaseni/index.html">Kontrolní hlášení</a></td></tr>
+    <tr><td><a href="/hlasovani/kontrolni-hlaseni/">Kontrolní hlášení</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-vodnich-dymek/index.html">zákaz vodních dýmek a rozhodnutí majitelů o kouření na zahrádkách (část protikuřáckého zákona, neprošlo)</a></td></tr>
+    <tr><td><a href="/hlasovani/zakaz-koureni-v-restauracich/">Zákaz kouření v restauracích</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-koureni-v-aute/index.html">zákaz kouření v autě s dítětem (neprošlo)</a></td></tr>
+    <tr><td><a href="/hlasovani/politicke-strany/">Novela zákona o politických stranách</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-koureni-v-restauracich/index.html">Zákaz kouření v restauracích</a></td></tr>
+    <tr><td><a href="/hlasovani/prokazovani-majetku/">Zákon o prokazování původu majetku</a></td></tr>
   
-    <tr><td><a href="/hlasovani/politicke-strany/index.html">Novela zákona o politických stranách</a></td></tr>
+    <tr><td><a href="/hlasovani/zakaz-kozesinovych-farem/">Zákaz kožešinových farem</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prokazovani-majetku/index.html">Zákon o prokazování původu majetku</a></td></tr>
+    <tr><td><a href="/hlasovani/zneuziti-vyznamne-trzni-sily/">Novela zákona o zneužití významné tržní síly</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-kozesinovych-farem/index.html">Zákaz kožešinových farem</a></td></tr>
+    <tr><td><a href="/hlasovani/pohrebnictvi/">Novela zákona o pohřebnictví (zákaz papírových rakví,…)</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zneuziti-vyznamne-trzni-sily/index.html">Novela zákona o zneužití významné tržní síly</a></td></tr>
+    <tr><td><a href="/hlasovani/statni-sluzba/">Zákon o státní službě</a></td></tr>
   
-    <tr><td><a href="/hlasovani/pohrebnictvi/index.html">Novela zákona o pohřebnictví (zákaz papírových rakví,…)</a></td></tr>
+    <tr><td><a href="/hlasovani/prace-na-dohodu/">Zákaz pracovat na dohodu, pokud je člověk vedený na úřadu práce</a></td></tr>
   
-    <tr><td><a href="/hlasovani/statni-sluzba/index.html">Zákon o státní službě</a></td></tr>
+    <tr><td><a href="/hlasovani/predskolni-vzdelavani/">Povinné předškolní vzdělávání</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prace-na-dohodu/index.html">Zákaz pracovat na dohodu, pokud je člověk vedený na úřadu práce</a></td></tr>
+    <tr><td><a href="/hlasovani/prodej-o-svatcich/">Zákaz prodeje o svátcích</a></td></tr>
   
-    <tr><td><a href="/hlasovani/predskolni-vzdelavani/index.html">Povinné předškolní vzdělávání </a></td></tr>
+    <tr><td><a href="/hlasovani/treti-sazba-dph/">Třetí sazba DPH</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prodej-o-svatcich/index.html">Zákaz prodeje o svátcích</a></td></tr>
+    <tr><td><a href="/hlasovani/uber/">Taxíky proti Uberu</a></td></tr>
   
-    <tr><td><a href="/hlasovani/treti-sazba-dph/index.html">Třetí sazba DPH</a></td></tr>
+    <tr><td><a href="/hlasovani/stavebni-zakon/">Novela stavebního zákona</a></td></tr>
   
-    <tr><td><a href="/hlasovani/uber/index.html">Taxíky proti Uberu</a></td></tr>
+    <tr><td><a href="/hlasovani/prestupky/">Novela zákona o přestupcích</a></td></tr>
   
-    <tr><td><a href="/hlasovani/stavebni-zakon/index.html">Novela stavebního zákona</a></td></tr>
+    <tr><td><a href="/hlasovani/bezpecnost-cr/">Novela ústav. z. o bezpečnosti České republiky</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prestupky/index.html">Novela zákona o přestupcích</a></td></tr>
+    <tr><td><a href="/hlasovani/registr-smluv/">Registr smluv</a></td></tr>
   
-    <tr><td><a href="/hlasovani/bezpecnost-cr/index.html">Novela ústav. z. o bezpečnosti České republiky</a></td></tr>
+    <tr><td><a href="/hlasovani/registr-smluv-novela/">Novela zákona o registru smluv (vyjmutí veřejných podniků)</a></td></tr>
   
-    <tr><td><a href="/hlasovani/registr-smluv/index.html">Registr smluv</a></td></tr>
+    <tr><td><a href="/hlasovani/danovy-balicek-2014/">Daňový balíček 2014</a></td></tr>
   
-    <tr><td><a href="/hlasovani/registr-smluv-novela/index.html">Novela zákona o registru smluv (vyjmutí veřejných podniků)</a></td></tr>
+    <tr><td><a href="/hlasovani/danovy-balicek-2017/">Daňový balíček 2017</a></td></tr>
   
-    <tr><td><a href="/hlasovani/danovy-balicek-2014/index.html">Daňový balíček 2014</a></td></tr>
+    <tr><td><a href="/hlasovani/lesni-skolky/">Zákaz lesních školek</a></td></tr>
   
-    <tr><td><a href="/hlasovani/danovy-balicek-2017/index.html">Daňový balíček 2017</a></td></tr>
+    <tr><td><a href="/hlasovani/umele-oplodneni-svobodnych/">Umělé oplodnění pro svobodné ženy</a></td></tr>
   
-    <tr><td><a href="/hlasovani/rozpoctova-odpovednost/index.html">Návrh zákona o rozpočtové odpovědnosti (zamítací návrh)</a></td></tr>
+    <tr><td><a href="/hlasovani/kontrola-kotlu/">Novela zákona o ochraně ovzduší</a></td></tr>
   
-    <tr><td><a href="/hlasovani/lesni-skolky/index.html">Zákaz lesních školek</a></td></tr>
+    <tr><td><a href="/hlasovani/zdrazeni-cigaret/">Zdražení cigaret</a></td></tr>
   
-    <tr><td><a href="/hlasovani/umele-oplodneni-svobodnych/index.html">Umělé oplodnění pro svobodné ženy</a></td></tr>
+    <tr><td><a href="/hlasovani/blokovani-webu/">Blokování webů</a></td></tr>
   
-    <tr><td><a href="/hlasovani/kontrola-kotlu/index.html">Novela zákona o ochraně ovzduší</a></td></tr>
+    <tr><td><a href="/hlasovani/zpravodajske-sluzby/">Zpravodajské služby</a></td></tr>
   
-    <tr><td><a href="/hlasovani/podpora-biopaliv/index.html">Omezení podpory biopaliv</a></td></tr>
+    <tr><td><a href="/hlasovani/lecebne-konopi/">Léčebná marihuana</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zdrazeni-cigaret/index.html">Zdražení cigaret</a></td></tr>
+    <tr><td><a href="/hlasovani/prodej-o-svatcich/">Prodej o svátcích</a></td></tr>
   
-    <tr><td><a href="/hlasovani/blokovani-webu/index.html">Blokování webů</a></td></tr>
-  
-    <tr><td><a href="/hlasovani/zpravodajske-sluzby/index.html">Zpravodajské služby</a></td></tr>
+    <tr><td><a href="/hlasovani/silnicni-provoz/">Silniční provoz</a></td></tr>
   
   </tbody>
 </table>
@@ -335,7 +333,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=Seznam+hlasov%C3%A1n%C3%AD+http://www.skoreposlancu.cz/hlasovani/index.html"
+    <a href="https://twitter.com/intent/tweet?text=Seznam+hlasov%C3%A1n%C3%AD+http://www.skoresenatoru.cz/hlasovani/index.html"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -344,7 +342,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoreposlancu.cz/hlasovani/index.html"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/hlasovani/index.html"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -423,11 +421,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2017
+		  2018
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoreposlancu.cz">skoreposlancu.cz</a>
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
