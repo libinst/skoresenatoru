@@ -3,8 +3,7 @@ layout: default
 ---
 <div class="row">
   <div class="col-md-4">
-    {% assign id = page.linkurl | replace_first: '&o=7&l=cz', '' | replace_first: 'http://www.psp.cz/sqw/detail.sqw?id=', '' %}
-    <img src="http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/i{{ id }}.jpg" class="img-thumbnail">
+    <img src="{{ page.imageurl }}" class="img-thumbnail">
   </div>
   <div class="col-md-8">
     <h1>{{page.jmeno}}</h1>
