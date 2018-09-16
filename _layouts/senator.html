@@ -9,7 +9,7 @@ layout: default
   <div class="col-md-8">
     <h1>{{page.jmeno}}</h1>
     <h2>{{page.strana}}</h2>
-    <a href="{{ page.linkurl }}">Na webu PSP</a>
+    <a href="{{ page.linkurl }}">Na webu Senátu</a>
     {% assign resource = site.data.ranking | where: "jmeno", page.jmeno | first %}
     <h2>SKÓRE: {{resource.rank}}</h2>
   </div>

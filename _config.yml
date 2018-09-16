@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Skóre poslanců
-email: info@skoreposlancu.cz
-description: > # Skóre poslanců - projekt Liberálního institutu. Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír.
+title: Skóre senátorů
+email: info@skoresenatoru.cz
+description: > # Skóre senátorů - projekt Liberálního institutu. Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.skoreposlancu.cz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.skoresenatoru.cz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -34,28 +34,28 @@ whitelist:
 
 jekyll_get:
   - data: hlasovani
-    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/3/public/values?alt=json'
+    json: 'https://spreadsheets.google.com/feeds/list/1qtFkO4gwyKZQb6ge7zFPfdpuqgP6tsiQk2ewSq-Oqn8/3/public/values?alt=json'
     cache: true
   - data: ranking
-    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/5/public/values?alt=json'
+    json: 'https://spreadsheets.google.com/feeds/list/1qtFkO4gwyKZQb6ge7zFPfdpuqgP6tsiQk2ewSq-Oqn8/5/public/values?alt=json'
     cache: true
-  - data: poslanci
-    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/4/public/values?alt=json'
+  - data: senatori
+    json: 'https://spreadsheets.google.com/feeds/list/1qtFkO4gwyKZQb6ge7zFPfdpuqgP6tsiQk2ewSq-Oqn8/4/public/values?alt=json'
     cache: true
   - data: ranking_nejlepsi
-    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/6/public/values?alt=json'
+    json: 'https://spreadsheets.google.com/feeds/list/1qtFkO4gwyKZQb6ge7zFPfdpuqgP6tsiQk2ewSq-Oqn8/6/public/values?alt=json'
     cache: true
   - data: ranking_nejhorsi
-    json: 'https://spreadsheets.google.com/feeds/list/1_OPcyOm1ZHO6CKSD3eMLB0bIufJ3Dz_8atunCTnsGCQ/7/public/values?alt=json'
+    json: 'https://spreadsheets.google.com/feeds/list/1qtFkO4gwyKZQb6ge7zFPfdpuqgP6tsiQk2ewSq-Oqn8/7/public/values?alt=json'
     cache: true
 
-poslanci_json_path: /poslanci.json
+senatori_json_path: /senatori.json
 
 page_gen:
-  - data: poslanci
-    template: poslanec
+  - data: senatori
+    template: senator
     name: jmeno
-    dir: poslanci
+    dir: senatori
     extension: html
   - data: hlasovani
     template: hlasovani
@@ -184,7 +184,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "skoreposlancu.cz"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "skoresenatoru.cz"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments

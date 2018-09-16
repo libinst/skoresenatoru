@@ -4,11 +4,11 @@ title: O projektu
 permalink: /o-projektu/index.html
 ---
 
-SkórePoslanců.cz je projekt [Liberálního institutu](http://libinst.cz) a je inspirován již řadu let trvajícím projektem americké organizace [FreedomWorks](http://congress.freedomworks.org).
+SkóreSenátorů.cz je projekt [Liberálního institutu](http://libinst.cz) a je inspirován již řadu let trvajícím projektem americké organizace [FreedomWorks](http://congress.freedomworks.org).
 
-Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod poslanci, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod poslanci, který hlasuje naopak. Skóre 100 % tedy znamená, že poslanec hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že poslanec vždy hlasuje pro méně svobody a více státu.
+Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod senátorovi, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod senátorovi, který hlasuje naopak. Skóre 100 % tedy znamená, že senátor hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že senátor vždy hlasuje pro méně svobody a více státu.
 
-Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých poslanců sčítají, takže můžeme sestavit žebříček poslanců od nejliberálnějších po nejméně liberální.
+Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých senátorů sčítají, takže můžeme sestavit žebříček senátorů od nejliberálnějších po nejméně liberální.
 
 Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) - 777 157 142
 

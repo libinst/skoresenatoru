@@ -18,8 +18,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/poslanci.json', function(data) {
-      $("#poslanec-search").autocomplete({
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -35,7 +35,7 @@
       <div class="col-sm-3 col-md-3">
         <form class="navbar-form" role="search">
           <div class="input-group">
-            <input id="poslanec-search" type="text" class="form-control" placeholder="Vyhledat poslance" name="q">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
           </div>
         </form>
       </div>
