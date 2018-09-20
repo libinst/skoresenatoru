@@ -4,6 +4,7 @@ title:  "Celkové pořadí"
 permalink: "/celkove-poradi/index.html"
 ---
 
+<p>Do přehledu TOP 10 zařazujeme pouze senátory, kteří měli mandát během více než jedné třetiny hodnocených hlasování.</p>
 <table class="table table-striped">
 <tbody>
 {% for senator in site.data.ranking %}
