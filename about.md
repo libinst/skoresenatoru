@@ -12,7 +12,7 @@ Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých sená
 
 Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) - 777 157 142
 
-Výzkumný asistent: Šárka Jedličková, Jiří Kubíček
+Výzkumný asistent: Jiří Kubíček
 
 Našli jste chybu? Dejte nám vědět.
 
@@ -45,5 +45,4 @@ Našli jste chybu? Dejte nám vědět.
 ---
 
 <a href="https://www.libinst.cz/"><img src="/img/libinst_logo_big.jpg" style="max-width:150px" class="img-responsive center-block"></a>
-<a href="https://www.freiheit.org/"><img src="/img/4liberty.png" class="img-responsive center-block"></a>
 ---

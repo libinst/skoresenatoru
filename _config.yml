@@ -16,8 +16,8 @@
 title: Skóre senátorů
 email: info@skoresenatoru.cz
 description: > # Skóre senátorů - projekt Liberálního institutu. Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír.
-baseurl: "/skoresenatoru" # the subpath of your site, e.g. /blog
-url: "http://libinst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.skoresenatoru.cz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
