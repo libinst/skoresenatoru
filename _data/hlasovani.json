@@ -37,7 +37,7 @@
     "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16180&O=10",
     "schuze": "27. schůze, 30. hlasování, 24. 8. 2016 316/10 - Návrh zákona, kterým se mění některé zákony v souvislosti s prokazováním původu majetku",
     "poziceli": "PROTI",
-    "vysvetleni": "Zákon zasahuje do soukromí občanů a je v rozporu s právním státem, aby svůj majetek musel dokládat někdo, kdo není podezřelý z trestného činu. Mít velký majetek není samo o sobě nijak podezřelé a nesmí zakládat důvod pro zásahy do soukromí."
+    "vysvetleni": "Zákon zasahuje do soukromí občanů a je v rozporu s právním státem, aby svůj majetek musel dokládat někdo, kdo není podezřelý z trestného činu. Mít velký majetek není samo o sobě nijak podezřelé a nesmí zakládat důvod pro zásahy do soukromí. Senát schválil pozměňovací návrh, který zákon zpřísnil. Sněmovna poté zákon schválila ve znění schváleném Senátem."
   },
   {
     "slug": "zakaz-kozesinovych-farem",
@@ -57,7 +57,7 @@
   },
   {
     "slug": "pohrebnictvi",
-    "nazev": "Novela zákona o pohřebnictví (zákaz papírových rakví,…)",
+    "nazev": "Novela zákona o pohřebnictví (zákaz papírových rakví)",
     "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16761&O=11",
     "schuze": "7. schůze, 24. hlasování, 31.5.2017 122/11 - Návrh zákona, kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
     "poziceli": "PROTI",
@@ -93,7 +93,7 @@
     "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15994&O=10",
     "schuze": "24. schůze, 26. hlasování, 25.5.2016 263/10 - Návrh zákona o prodejní době v maloobchodě a velkoobchodě",
     "poziceli": "PROTI",
-    "vysvetleni": "Zákaz prodeje o státních svátcích výrazně zasahuje do svobody podnikání zcela diskriminačním způsobem, když pouze jednomu typu podniků stanovuje zákaz provozu v určené dny. Zákon zároveň omezuje smluvní volnost a svobodu zolit si zaměstnání, když opět diskriminačně zakazuje pouze jeden druh zaměstnání a zcela nelogicky umožňuje např. i v \"zakázaných dnech\" doplňovat sklad. Ze zákazníků zákon dělá svoje otroky, kteří se musí na dané dny předzásobit, přestože řada z nich by právě volného dne ráda využila k většímu nákupu."
+    "vysvetleni": "Zákaz prodeje o státních svátcích výrazně zasahuje do svobody podnikání zcela diskriminačním způsobem, když pouze jednomu typu podniků stanovuje zákaz provozu v určené dny. Zákon zároveň omezuje smluvní volnost a svobodu zolit si zaměstnání, když opět diskriminačně zakazuje pouze jeden druh zaměstnání a zcela nelogicky umožňuje např. i v \"zakázaných dnech\" doplňovat sklad. Ze zákazníků zákon dělá svoje otroky, kteří se musí na dané dny předzásobit, přestože řada z nich by právě volného dne ráda využila k většímu nákupu. Senát schválil pozměňovací návrh, jenže počet zakázaných dní zvedl ze tří na sedm. Sněmovna schválila zákon ve znění přijatém Senátem."
   },
   {
     "slug": "treti-sazba-dph",
@@ -110,14 +110,6 @@
     "schuze": "9. schůze, 14. hlasování, 16.8.2017 Návrh zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony",
     "poziceli": "PROTI",
     "vysvetleni": "Tmářská novela nezrovnoprávnňuje moderní technologie (aplikace s lokalizací pomocí GPS apod.) s taxametrem a zpřísňuje pokuty za nelegální taxislužbu a posiluje pravomoce obcí při stanovování podmínek pro výkon taxislužby."
-  },
-  {
-    "slug": "stavebni-zakon",
-    "nazev": "Novela stavebního zákona",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16810&O=11",
-    "schuze": "7. schůze, 61. hlasování, 7.6.2017 108/11 - Návrh zákona, kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PRO",
-    "vysvetleni": "Novela zjednodušuje povolovací řízení tím, že slučuje územní a stavební řízení a posuzování vlivu na životní prostředí. Omezuje dále vliv ekologických organizací a rozšiřuje možnost stavět domy svépomocí. Novela nezjednodušuje vyvlastnění pozemků."
   },
   {
     "slug": "prestupky",
@@ -138,18 +130,10 @@
   {
     "slug": "registr-smluv",
     "nazev": "Registr smluv",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15527&O=10",
-    "schuze": "13. schůze, 30. hlasování, 22.10.2015 126/10 - Návrh zákona o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv)",
-    "poziceli": "PRO",
-    "vysvetleni": "Zákon zavádí veřejným podnikům povinnost zveřejňovat smlouvy v registru, jinak jsou takové smlouvy od počátku neplatné."
-  },
-  {
-    "slug": "registr-smluv-novela",
-    "nazev": "Novela zákona o registru smluv (vyjmutí veřejných podniků)",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?O=11&S=&H=&G=16674&Sk=S",
-    "schuze": "6. schůze, 32. hlasování, 19.04.2017 79/11 - Návrh zákona, kterým se mění zákon č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), ve znění zákona č. 298/2016 Sb.",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15518&O=10",
+    "schuze": "13. schůze, 21. hlasování, 22.10.2015 - 126/10 - Návrh zákona o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), 1.pozměňovací návrh",
     "poziceli": "PROTI",
-    "vysvetleni": "Novela zákona o registru smluv vyjímá státní podniky, podniky ovládané kraji a obcemi, smlouvy dobrovolného svazku obcí, kolektivní smlouvy a dále byly schváleny výjimky pro Českou televizi, veřejné vysoké školy a dále z povinnosti zveřejňovat smlouvy v registru."
+    "vysvetleni": "Pozměňovací návrh, který vypustil neplatnost smluv, pokud nejsou uveřejněny v registru. Sněmovna schválila zákon ve znění schváleném Senátem."
   },
   {
     "slug": "danovy-balicek-2014",
@@ -162,18 +146,10 @@
   {
     "slug": "danovy-balicek-2017",
     "nazev": "Daňový balíček 2017",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16582&O=11",
-    "schuze": "5. schůze, 39. hlasování, 08.03.2017 53/11 - Návrh zákona, kterým se mění některé zákony v oblasti daní",
-    "poziceli": "PROTI",
-    "vysvetleni": "Novela zákona opět zvyšuje daňovou slevu na dítě, ale snižuje výdajové paušály živnostníků na polovinu."
-  },
-  {
-    "slug": "lesni-skolky",
-    "nazev": "Zákaz lesních školek",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=14632&O=9",
-    "schuze": "23. schůze, 37. hlasování, 24.07.2014 316/ 9 - Návrh zákona o poskytování služby péče o dítě v dětské skupině a o změně souvisejících zákonů",
-    "poziceli": "PROTI",
-    "vysvetleni": "Zákon uvaluje na lesní školky tak přísná pravidla (např. hygienická), že je prakticky ruší."
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16573&O=11",
+    "schuze": "5. schůze, 30. hlasování, 08.03.2017 - 53/11 - Návrh zákona, kterým se mění některé zákony v oblasti daní, 1.pozměňovací návrh",
+    "poziceli": "PRO",
+    "vysvetleni": "Pozměňovací návrh schválený Senátem, aby se DPH platilo pouze z pozemků, na kterých je stavba, nikoliv z přilehlých pozemků. Změkčuje zákon. Sněmovna setrvala na původním znění."
   },
   {
     "slug": "umele-oplodneni-svobodnych",
@@ -224,8 +200,8 @@
     "vysvetleni": "Příslušný paragraf povoluje konopí pouze pro léčivé účely, v omezeném množstí, a na lékařský předpis, tj. pacient je veden v registru podle kterého se sleduje vydané množství. Nejedná se o plošné povolení konzumace marihuany. I přesto povolení léčebného konopí umožňuje použít dosud nesmyslně zakazované léčivé přípravky, čímž rozšiřuje svobodu jednotlivce."
   },
   {
-    "slug": "prodej-o-svatcich",
-    "nazev": "Prodej o svátcích",
+    "slug": "prodej-o-svatcich-2013",
+    "nazev": "Prodej o svátcích 2013",
     "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13926&O=9",
     "schuze": "11. schůze, 49. hlasování, 26.06.2013 57/ 9 - Návrh senátního návrhu zákona senátora Františka Bublana a dalších o prodejní době v maloobchodě a velkoobchodě",
     "poziceli": "PROTI",
@@ -238,5 +214,45 @@
     "schuze": "6. schůze, 27. hlasování, 21.03.2013 50/ 9 - Návrh zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů",
     "poziceli": "PRO",
     "vysvetleni": "Mírně snižuje byrokracii posunutím hranice věku pro pravidelné povinné lékařské prohlídky ze 60 na 65 let."
+  },
+  {
+    "slug": "zakonik-prace",
+    "nazev": "Zákoník práce",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13756&O=9",
+    "schuze": "8. schůze, 13. hlasování, 25.04.2013 - 78/ 9 - Návrh zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů",
+    "poziceli": "PRO",
+    "vysvetleni": "Mírné uvolnění zákoníku práce. Sněmovna přijala zákon ve znění navrženém Senátem."
+  },
+  {
+    "slug": "loterie",
+    "nazev": "Loterie",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13883&O=9",
+    "schuze": "11. schůze, 25. hlasování, 20.06.2013 102/ 9 - Návrh zákona, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů",
+    "poziceli": "PRO",
+    "vysvetleni": "Snížení daní z té části základu daně, která byla použita jako dar Českému olympijskému výboru. Každé snížení daní je pozitivní, a i když v tomto případě jde o velmi úzce definovaný prostor pro snížení daní, hodnotíme jej kladně."
+  },
+  {
+    "slug": "elektronicke-recepty",
+    "nazev": "Léčiva",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17135&O=11",
+    "schuze": "11. schůze, 24. hlasování, 06.12.2017 191/11 - Návrh senátního návrhu zákona senátora Vladimíra Plačka a dalších senátorů, kterým se mění zákon č. 70/2013 Sb., kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zá",
+    "poziceli": "PROTI",
+    "vysvetleni": "Zdržování elektornizace zdravotnictví. Argumentace proti elektronickým receptům připomíná ochranu nedospělého průmyslu v zahraničním obchodu: \"ze strany starších lékařek a lékařů zaznívají stále silnější obavy z toho, že nejsou a nebudou chtít být na tuto změnu připraveni, přičemž daný stav hodlají vyřešit ukončením své lékařské praxe\". Odkládá povinnost předepisovat recepty elektronicky o dva roky, tj. do 1.1.2020. Zamítnuto v PS."
+  },
+  {
+    "slug": "danovy-rad",
+    "nazev": "Daňový řád (zamítnutí)",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17366&O=11",
+    "schuze": "258/11 - Návrh zákona, kterým se mění zákon č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, a další související zákony",
+    "poziceli": "PRO",
+    "vysvetleni": "Nařizuje bankám, platebním institucím, poskytovatelům platebních služeb malého rozsahu apod. na vyžádání správce daně poskytnout údaje o číslech účtů, jejich majitelích, stavech peněžních zůstatků, jejich pohybech a osobách, které peníze na účet vložily, a také o úvěrech. Tím prohlubuje zasahování státní moci do soukromí, kdy si správce daně může kdykoliv zjistit likviditu kohokoliv. Senát odhlasoval zamítnutí zákona, Sněmovna jej přehlasovala."
+  },
+  {
+    "slug": "stavebni-rizeni",
+    "nazev": "Stavební řízení",
+    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17455&O=11",
+    "schuze": "16. schůze, 16. hlasování, 18.07.2018 304/11 - Návrh zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony",
+    "poziceli": "PRO",
+    "vysvetleni": "Zjednoduššuje stavební řízení tím, že nevynucuje doručení oznámení o zahájení stavebního řízení všem účastníků zvlášť, pouze žadateli, obci a dotčeným orgánům, přičemž ostatním účastníkům se doručí veřejnou vyhláškou."
   }
 ]
