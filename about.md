@@ -12,7 +12,7 @@ Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých sená
 
 Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) - 777 157 142
 
-Výzkumný asistent: Jiří Kubíček
+Výzkumný asistent: Magdalena Šuterová, Jiří Kubíček
 
 Našli jste chybu? Dejte nám vědět.
 

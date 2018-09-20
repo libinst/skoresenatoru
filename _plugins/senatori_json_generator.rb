@@ -1,6 +1,6 @@
 require 'json'
 require 'fileutils'
-require '/Users/kubicek/workplace/li/_plugins/data_page_generator'
+require './_plugins/data_page_generator'
 
 module Jekyll
   class SenatoriJsonGenerator < Generator
