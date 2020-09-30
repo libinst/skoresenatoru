@@ -1,862 +1,1023 @@
 [
   {
     "jmeno": "Jaromír Štětina",
-    "strana": "BEZPP/TOP+STAN",
-    "_cpzh4": "https://www.senat.cz/senatori/index.php?lng=cz&ke_dni=30.1.2013&O=9&par_3=174",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
     "_cre1l": "5",
     "rank": "80%"
   },
   {
-    "jmeno": "Pavel Eybert",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=13",
-    "_cre1l": "21",
-    "rank": "52%"
+    "jmeno": "Tomio Okamura",
+    "strana": "BEZPP",
+    "_cpzh4": "3",
+    "_cre1l": "5",
+    "rank": "60%"
   },
   {
-    "jmeno": "Jaroslav Kubera",
+    "jmeno": "Jan Tecl",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=120",
-    "_cre1l": "32",
+    "_cpzh4": "7",
+    "_cre1l": "14",
+    "rank": "50%"
+  },
+  {
+    "jmeno": "Jitka Chalánková",
+    "strana": "BEZPP",
+    "_cpzh4": "7",
+    "_cre1l": "14",
+    "rank": "50%"
+  },
+  {
+    "jmeno": "Ladislav Faktor",
+    "strana": "BEZPP",
+    "_cpzh4": "7",
+    "_cre1l": "14",
+    "rank": "50%"
+  },
+  {
+    "jmeno": "Raduan Nwelati",
+    "strana": "ODS",
+    "_cpzh4": "7",
+    "_cre1l": "14",
     "rank": "50%"
   },
   {
     "jmeno": "Zdeněk Schwarz",
-    "strana": "BEZPP/ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=217",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
     "_cre1l": "8",
     "rank": "50%"
   },
   {
-    "jmeno": "Josef Řihák",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=215",
-    "_cre1l": "8",
-    "rank": "50%"
-  },
-  {
-    "jmeno": "Vladimír Dryml",
-    "strana": "SPO/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=223",
-    "_cre1l": "8",
-    "rank": "50%"
-  },
-  {
-    "jmeno": "Milan Pešák",
-    "strana": "BEZPP/ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=235",
-    "_cre1l": "21",
-    "rank": "48%"
-  },
-  {
-    "jmeno": "Petr Bratský",
+    "jmeno": "Jaroslav Kubera",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=236",
-    "_cre1l": "21",
-    "rank": "48%"
-  },
-  {
-    "jmeno": "Jiří Burian",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=277",
-    "_cre1l": "24",
+    "_cpzh4": "18",
+    "_cre1l": "39",
     "rank": "46%"
   },
   {
-    "jmeno": "Zdeněk Nytra",
-    "strana": "BEZPP/NK",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=307",
-    "_cre1l": "11",
-    "rank": "45%"
-  },
-  {
-    "jmeno": "Tomáš Grulich",
+    "jmeno": "Ladislav Chlupáč",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=193",
-    "_cre1l": "32",
-    "rank": "44%"
-  },
-  {
-    "jmeno": "Petr Guziana",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=230",
-    "_cre1l": "7",
+    "_cpzh4": "6",
+    "_cre1l": "14",
     "rank": "43%"
   },
   {
-    "jmeno": "Lumír Aschenbrenner",
-    "strana": "ODS+KČ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=275",
-    "_cre1l": "24",
-    "rank": "42%"
-  },
-  {
-    "jmeno": "Miloš Vystrčil",
-    "strana": "ODS/ODSSNKEDSsČRSTO",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=243",
-    "_cre1l": "32",
-    "rank": "41%"
-  },
-  {
-    "jmeno": "Tomio Okamura",
-    "strana": "BEZPP/NK",
-    "_cpzh4": "https://www.senat.cz/senatori/index.php?lng=cz&ke_dni=30.1.2013&O=9&par_3=263",
-    "_cre1l": "5",
-    "rank": "40%"
-  },
-  {
-    "jmeno": "Tomáš Jirsa",
+    "jmeno": "Martin Červíček",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=171",
-    "_cre1l": "32",
-    "rank": "38%"
-  },
-  {
-    "jmeno": "Hana Doupovcová",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=232",
-    "_cre1l": "8",
-    "rank": "38%"
+    "_cpzh4": "6",
+    "_cre1l": "14",
+    "rank": "43%"
   },
   {
     "jmeno": "Alena Gajdůšková",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=142",
+    "_cpzh4": "3",
     "_cre1l": "8",
     "rank": "38%"
   },
   {
-    "jmeno": "Jaroslav Sykáček",
+    "jmeno": "Josef Řihák",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=219",
+    "_cpzh4": "3",
     "_cre1l": "8",
     "rank": "38%"
   },
   {
-    "jmeno": "Jan Sobotka",
-    "strana": "BEZPP/STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=311",
-    "_cre1l": "3",
-    "rank": "33%"
+    "jmeno": "Marta Bayerová",
+    "strana": "KSČM",
+    "_cpzh4": "3",
+    "_cre1l": "8",
+    "rank": "38%"
   },
   {
-    "jmeno": "Ivo Valenta",
-    "strana": "BEZPP/SsČR",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=293",
-    "_cre1l": "24",
-    "rank": "33%"
-  },
-  {
-    "jmeno": "Veronika Vrecionová",
+    "jmeno": "Miroslav Škaloud",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=237",
+    "_cpzh4": "3",
+    "_cre1l": "8",
+    "rank": "38%"
+  },
+  {
+    "jmeno": "Tomáš Kladívko",
+    "strana": "ODS",
+    "_cpzh4": "3",
+    "_cre1l": "8",
+    "rank": "38%"
+  },
+  {
+    "jmeno": "Hana Žáková",
+    "strana": "BEZPP",
+    "_cpzh4": "5",
+    "_cre1l": "14",
+    "rank": "36%"
+  },
+  {
+    "jmeno": "Herbert Pavera",
+    "strana": "TOP 09",
+    "_cpzh4": "5",
+    "_cre1l": "14",
+    "rank": "36%"
+  },
+  {
+    "jmeno": "Marek Hilšer",
+    "strana": "MHS",
+    "_cpzh4": "5",
+    "_cre1l": "14",
+    "rank": "36%"
+  },
+  {
+    "jmeno": "Rostislav Koštial",
+    "strana": "ODS",
+    "_cpzh4": "5",
+    "_cre1l": "14",
+    "rank": "36%"
+  },
+  {
+    "jmeno": "Vladislav VIlímec",
+    "strana": "ODS",
+    "_cpzh4": "5",
+    "_cre1l": "14",
+    "rank": "36%"
+  },
+  {
+    "jmeno": "Milan Pešák",
+    "strana": "BEZPP",
+    "_cpzh4": "7",
     "_cre1l": "21",
     "rank": "33%"
   },
   {
-    "jmeno": "Jiří Oberfalzer",
+    "jmeno": "Pavel Eybert",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=172",
-    "_cre1l": "32",
-    "rank": "28%"
+    "_cpzh4": "7",
+    "_cre1l": "21",
+    "rank": "33%"
   },
   {
-    "jmeno": "Jaroslav Zeman",
+    "jmeno": "Přemysl Sobotka",
     "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=268",
-    "_cre1l": "32",
-    "rank": "28%"
+    "_cpzh4": "7",
+    "_cre1l": "21",
+    "rank": "33%"
   },
   {
-    "jmeno": "Michael Canov",
-    "strana": "SLK/STAN+SLK",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=300",
-    "_cre1l": "11",
-    "rank": "27%"
+    "jmeno": "Zdeněk Nytra",
+    "strana": "BEZPP",
+    "_cpzh4": "8",
+    "_cre1l": "25",
+    "rank": "32%"
   },
   {
-    "jmeno": "Luděk Jeništa",
-    "strana": "BEZPP/TOP+STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=259",
-    "_cre1l": "32",
-    "rank": "25%"
+    "jmeno": "Jan Sobotka",
+    "strana": "BEZPP",
+    "_cpzh4": "5",
+    "_cre1l": "17",
+    "rank": "29%"
   },
   {
-    "jmeno": "Zbyněk Linhart",
-    "strana": "BEZPP/STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=281",
-    "_cre1l": "24",
-    "rank": "25%"
+    "jmeno": "Jiří Drahoš",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
   },
   {
-    "jmeno": "Eliška Wagnerová",
-    "strana": "BEZPP/SZ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=267",
-    "_cre1l": "32",
-    "rank": "25%"
+    "jmeno": "Lukáš Wagenknecht",
+    "strana": "SEN 21",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
   },
   {
-    "jmeno": "Marcel Chládek",
+    "jmeno": "Michal Kortyš",
+    "strana": "ODS",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Miroslav Balatka",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Pavel Karpíšek",
+    "strana": "ODS",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Petr Guziana",
+    "strana": "BEZPP",
+    "_cpzh4": "2",
+    "_cre1l": "7",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Veronika Vrecionová",
+    "strana": "ODS",
+    "_cpzh4": "6",
+    "_cre1l": "21",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Zdeněk Hraba",
+    "strana": "STAN",
+    "_cpzh4": "4",
+    "_cre1l": "14",
+    "rank": "29%"
+  },
+  {
+    "jmeno": "Lumír Aschenbrenner",
+    "strana": "ODS",
+    "_cpzh4": "10",
+    "_cre1l": "38",
+    "rank": "26%"
+  },
+  {
+    "jmeno": "Tomáš Jirsa",
+    "strana": "ODS",
+    "_cpzh4": "12",
+    "_cre1l": "46",
+    "rank": "26%"
+  },
+  {
+    "jmeno": "Dagmar Zvěřinová",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=212",
-    "_cre1l": "8",
-    "rank": "25%"
-  },
-  {
-    "jmeno": "Karel Kapoun",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=220",
-    "_cre1l": "8",
-    "rank": "25%"
-  },
-  {
-    "jmeno": "Karel Korytář",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=66",
-    "_cre1l": "8",
-    "rank": "25%"
-  },
-  {
-    "jmeno": "Jiří Lajtoch",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=210",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
     "jmeno": "Eva Richtrová",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=229",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
-    "jmeno": "Pavel Trpák",
+    "jmeno": "Jiří Lajtoch",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=221",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
-    "jmeno": "Dagmar Zvěřinová",
+    "jmeno": "Karel Kapoun",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=225",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
-    "jmeno": "Tomáš Kladívko",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=216",
+    "jmeno": "Karel Korytář",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
-    "jmeno": "Miroslav Škaloud",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=156",
+    "jmeno": "Marcel Chládek",
+    "strana": "ČSSD",
+    "_cpzh4": "2",
     "_cre1l": "8",
     "rank": "25%"
   },
   {
-    "jmeno": "Přemysl Sobotka",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=34",
-    "_cre1l": "21",
-    "rank": "24%"
+    "jmeno": "Miloš Janeček",
+    "strana": "nezjištěno",
+    "_cpzh4": "2",
+    "_cre1l": "8",
+    "rank": "25%"
   },
   {
-    "jmeno": "Leopold Sulovský",
-    "strana": "BEZPP/Ostravak",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=270",
+    "jmeno": "David Smoljak",
+    "strana": "STAN",
+    "_cpzh4": "3",
+    "_cre1l": "13",
+    "rank": "23%"
+  },
+  {
+    "jmeno": "Pavel Fischer",
+    "strana": "BEZPP",
+    "_cpzh4": "3",
+    "_cre1l": "14",
+    "rank": "21%"
+  },
+  {
+    "jmeno": "Jiří Burian",
+    "strana": "ODS",
+    "_cpzh4": "8",
+    "_cre1l": "38",
+    "rank": "21%"
+  },
+  {
+    "jmeno": "Michael Canov",
+    "strana": "SLK",
+    "_cpzh4": "5",
+    "_cre1l": "25",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Tomáš Czernin",
+    "strana": "TOP 09",
+    "_cpzh4": "5",
+    "_cre1l": "25",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Jiří Oberfalzer",
+    "strana": "ODS",
+    "_cpzh4": "9",
+    "_cre1l": "46",
+    "rank": "20%"
+  },
+  {
+    "jmeno": "Tomáš Grulich",
+    "strana": "ODS",
+    "_cpzh4": "6",
     "_cre1l": "32",
     "rank": "19%"
   },
   {
-    "jmeno": "Daniela Filipiová",
-    "strana": "ODS",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=118",
-    "_cre1l": "32",
-    "rank": "19%"
-  },
-  {
-    "jmeno": "Ladislav Václavec",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=305",
-    "_cre1l": "11",
+    "jmeno": "Ivo Valenta",
+    "strana": "BEZPP",
+    "_cpzh4": "7",
+    "_cre1l": "38",
     "rank": "18%"
   },
   {
-    "jmeno": "Jiří Vosecký",
-    "strana": "SLK",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=282",
-    "_cre1l": "24",
+    "jmeno": "Miloš Vystrčil",
+    "strana": "ODS",
+    "_cpzh4": "8",
+    "_cre1l": "46",
     "rank": "17%"
+  },
+  {
+    "jmeno": "Tomáš Goláň",
+    "strana": "BEZPP",
+    "_cpzh4": "2",
+    "_cre1l": "15",
+    "rank": "13%"
+  },
+  {
+    "jmeno": "Hana Doupovcová",
+    "strana": "ČSSD",
+    "_cpzh4": "1",
+    "_cre1l": "8",
+    "rank": "13%"
+  },
+  {
+    "jmeno": "Jaroslav Sykáček",
+    "strana": "ČSSD",
+    "_cpzh4": "1",
+    "_cre1l": "8",
+    "rank": "13%"
   },
   {
     "jmeno": "Jiří Bis",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=213",
+    "_cpzh4": "1",
     "_cre1l": "8",
     "rank": "13%"
   },
   {
-    "jmeno": "Marta Bayerová",
-    "strana": "KSČM",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=226",
+    "jmeno": "Miroslav Krejča",
+    "strana": "BEZPP",
+    "_cpzh4": "1",
     "_cre1l": "8",
     "rank": "13%"
   },
   {
-    "jmeno": "Miloš Janeček",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=228",
-    "_cre1l": "8",
-    "rank": "13%"
+    "jmeno": "Zbyněk Linhart",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
+    "_cre1l": "38",
+    "rank": "11%"
   },
   {
-    "jmeno": "Václav Chaloupek",
-    "strana": "OPAT",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=294",
-    "_cre1l": "11",
+    "jmeno": "Daniela Filipiová",
+    "strana": "ODS",
+    "_cpzh4": "3",
+    "_cre1l": "32",
     "rank": "9%"
-  },
-  {
-    "jmeno": "Patrik Kunčar",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=272",
-    "_cre1l": "27",
-    "rank": "7%"
   },
   {
     "jmeno": "Jan Horník",
     "strana": "STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=169",
-    "_cre1l": "32",
-    "rank": "6%"
+    "_cpzh4": "4",
+    "_cre1l": "46",
+    "rank": "9%"
   },
   {
-    "jmeno": "Jiří Šesták",
-    "strana": "HOPB/STAN+HOPB",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=271",
-    "_cre1l": "32",
-    "rank": "3%"
+    "jmeno": "Leopold Sulovský",
+    "strana": "BEZPP",
+    "_cpzh4": "4",
+    "_cre1l": "46",
+    "rank": "9%"
   },
   {
-    "jmeno": "Renata Chmelová",
-    "strana": "BEZPP/KDU+Pir+DPD+LES",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=297",
-    "_cre1l": "11",
-    "rank": "0%"
+    "jmeno": "Václav Chaloupek",
+    "strana": "OPAT",
+    "_cpzh4": "2",
+    "_cre1l": "25",
+    "rank": "8%"
   },
   {
-    "jmeno": "Jan Veleba",
-    "strana": "SPO/NK",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=266",
-    "_cre1l": "32",
-    "rank": "0%"
+    "jmeno": "Mikuláš Bek",
+    "strana": "BEZPP",
+    "_cpzh4": "1",
+    "_cre1l": "14",
+    "rank": "7%"
   },
   {
-    "jmeno": "Tomáš Czernin",
-    "strana": "TOP 09/TOP+STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=301",
-    "_cre1l": "11",
-    "rank": "0%"
+    "jmeno": "Jaroslav Zeman",
+    "strana": "ODS",
+    "_cpzh4": "3",
+    "_cre1l": "46",
+    "rank": "7%"
   },
   {
-    "jmeno": "Miroslav Krejča",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=214",
-    "_cre1l": "8",
-    "rank": "0%"
+    "jmeno": "Petr Bratský",
+    "strana": "ODS",
+    "_cpzh4": "1",
+    "_cre1l": "21",
+    "rank": "5%"
   },
   {
     "jmeno": "Miroslav Antl",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=224",
-    "_cre1l": "32",
-    "rank": "-6%"
+    "strana": "BEZPP",
+    "_cpzh4": "2",
+    "_cre1l": "46",
+    "rank": "4%"
+  },
+  {
+    "jmeno": "Petr Orel",
+    "strana": "SZ",
+    "_cpzh4": "1",
+    "_cre1l": "25",
+    "rank": "4%"
   },
   {
     "jmeno": "Petr Šilar",
     "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=241",
-    "_cre1l": "32",
-    "rank": "-6%"
-  },
-  {
-    "jmeno": "Zdeněk Papoušek",
-    "strana": "BEZPP/KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=288",
-    "_cre1l": "24",
-    "rank": "-8%"
-  },
-  {
-    "jmeno": "Jiří Cieńciała",
-    "strana": "BEZPP/\"OSN\"",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=308",
-    "_cre1l": "11",
-    "rank": "-9%"
-  },
-  {
-    "jmeno": "Petr Holeček",
-    "strana": "BEZPP/STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=299",
-    "_cre1l": "11",
-    "rank": "-9%"
-  },
-  {
-    "jmeno": "Jan Žaloudík",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=244",
-    "_cre1l": "32",
-    "rank": "-9%"
+    "_cpzh4": "1",
+    "_cre1l": "46",
+    "rank": "2%"
   },
   {
     "jmeno": "Jaroslav Palas",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=247",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
     "_cre1l": "21",
-    "rank": "-10%"
+    "rank": "0%"
   },
   {
-    "jmeno": "Jozef Regec",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=242",
-    "_cre1l": "21",
-    "rank": "-10%"
-  },
-  {
-    "jmeno": "Jiří Čunek",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=207",
-    "_cre1l": "32",
-    "rank": "-13%"
-  },
-  {
-    "jmeno": "Radek Sušil",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=231",
-    "_cre1l": "30",
-    "rank": "-13%"
-  },
-  {
-    "jmeno": "František Čuba",
-    "strana": "SPO",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=292",
-    "_cre1l": "22",
-    "rank": "-14%"
-  },
-  {
-    "jmeno": "Ivana Cabrnochová",
-    "strana": "SZ/SZ+ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=273",
-    "_cre1l": "13",
-    "rank": "-15%"
-  },
-  {
-    "jmeno": "Radko Martínek",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=261",
-    "_cre1l": "32",
-    "rank": "-16%"
-  },
-  {
-    "jmeno": "Václav Homolka",
-    "strana": "KSČM",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=209",
-    "_cre1l": "32",
-    "rank": "-16%"
-  },
-  {
-    "jmeno": "Jiří Dušek",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=303",
-    "_cre1l": "11",
-    "rank": "-18%"
-  },
-  {
-    "jmeno": "Jaroslav Větrovský",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=295",
-    "_cre1l": "11",
-    "rank": "-18%"
-  },
-  {
-    "jmeno": "Zdeněk Brož",
-    "strana": "BEZPP/KDU+NV",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=255",
-    "_cre1l": "32",
-    "rank": "-19%"
-  },
-  {
-    "jmeno": "Libor Michálek",
-    "strana": "BEZPP/Pir+SZ+KDU",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=269",
-    "_cre1l": "32",
-    "rank": "-19%"
-  },
-  {
-    "jmeno": "Jiří Dienstbier",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=253",
-    "_cre1l": "32",
-    "rank": "-19%"
+    "jmeno": "Jiří Vosecký",
+    "strana": "SLK",
+    "_cpzh4": "0",
+    "_cre1l": "38",
+    "rank": "0%"
   },
   {
     "jmeno": "Miloš Malý",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=251",
+    "_cpzh4": "0",
     "_cre1l": "21",
-    "rank": "-19%"
+    "rank": "0%"
   },
   {
-    "jmeno": "Jaroslav Doubrava",
-    "strana": "S.cz",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=92",
+    "jmeno": "Pavel Trpák",
+    "strana": "ČSSD",
+    "_cpzh4": "0",
+    "_cre1l": "8",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Petr Holeček",
+    "strana": "BEZPP",
+    "_cpzh4": "0",
+    "_cre1l": "25",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Přemysl Rabas",
+    "strana": "SEN 21",
+    "_cpzh4": "0",
+    "_cre1l": "14",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Vladimír Dryml",
+    "strana": "SPO",
+    "_cpzh4": "0",
+    "_cre1l": "8",
+    "rank": "0%"
+  },
+  {
+    "jmeno": "Radek Sušil",
+    "strana": "ČSSD",
+    "_cpzh4": "-1",
+    "_cre1l": "44",
+    "rank": "-2%"
+  },
+  {
+    "jmeno": "Zdeněk Papoušek",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "38",
+    "rank": "-3%"
+  },
+  {
+    "jmeno": "Eliška Wagnerová",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
     "_cre1l": "32",
-    "rank": "-22%"
+    "rank": "-3%"
   },
   {
-    "jmeno": "Zuzana Baudyšová",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=279",
-    "_cre1l": "24",
-    "rank": "-25%"
+    "jmeno": "Luděk Jeništa",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "32",
+    "rank": "-3%"
+  },
+  {
+    "jmeno": "Jozef Regec",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "21",
+    "rank": "-5%"
+  },
+  {
+    "jmeno": "Jan Žaloudík",
+    "strana": "BEZPP",
+    "_cpzh4": "-3",
+    "_cre1l": "46",
+    "rank": "-7%"
+  },
+  {
+    "jmeno": "Patrik Kunčar",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-3",
+    "_cre1l": "41",
+    "rank": "-7%"
   },
   {
     "jmeno": "Václav Láska",
-    "strana": "SEN 21/KDUČSLSZ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=278",
-    "_cre1l": "24",
-    "rank": "-25%"
-  },
-  {
-    "jmeno": "Jiří Hlavatý",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=283",
-    "_cre1l": "20",
-    "rank": "-25%"
-  },
-  {
-    "jmeno": "Anna Hubáčková",
-    "strana": "BEZPP/KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=310",
-    "_cre1l": "11",
-    "rank": "-27%"
+    "strana": "SEN 21",
+    "_cpzh4": "-3",
+    "_cre1l": "38",
+    "rank": "-8%"
   },
   {
     "jmeno": "Jiří Růžička",
-    "strana": "BEZPP/TOP+STAN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=298",
-    "_cre1l": "11",
-    "rank": "-27%"
+    "strana": "BEZPP",
+    "_cpzh4": "-2",
+    "_cre1l": "25",
+    "rank": "-8%"
   },
   {
-    "jmeno": "Ladislav Kos",
-    "strana": "HPP 11/KDUSZ+HPP11+Pir",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=296",
-    "_cre1l": "11",
-    "rank": "-27%"
-  },
-  {
-    "jmeno": "Jaromíra Vítková",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=302",
-    "_cre1l": "11",
-    "rank": "-27%"
-  },
-  {
-    "jmeno": "Petr Orel",
-    "strana": "SZ/KDUČSLSZ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=306",
-    "_cre1l": "11",
-    "rank": "-27%"
-  },
-  {
-    "jmeno": "Miluše Horská",
-    "strana": "BEZPP/KDU-ČSL+nestran.",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=240",
-    "_cre1l": "32",
-    "rank": "-28%"
-  },
-  {
-    "jmeno": "Lubomír Franc",
+    "jmeno": "Radko Martínek",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=258",
+    "_cpzh4": "-3",
     "_cre1l": "32",
-    "rank": "-28%"
-  },
-  {
-    "jmeno": "Jaromír Strnad",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=239",
-    "_cre1l": "32",
-    "rank": "-28%"
-  },
-  {
-    "jmeno": "Petr Vícha",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=206",
-    "_cre1l": "32",
-    "rank": "-28%"
+    "rank": "-9%"
   },
   {
     "jmeno": "Antonín Maštalíř",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=249",
+    "_cpzh4": "-2",
     "_cre1l": "21",
-    "rank": "-29%"
-  },
-  {
-    "jmeno": "Dagmar Terelmešová",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=234",
-    "_cre1l": "21",
-    "rank": "-29%"
+    "rank": "-10%"
   },
   {
     "jmeno": "Martin Tesařík",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=246",
+    "_cpzh4": "-2",
     "_cre1l": "21",
-    "rank": "-29%"
+    "rank": "-10%"
+  },
+  {
+    "jmeno": "Emilie Třísková",
+    "strana": "ČSSD",
+    "_cpzh4": "-4",
+    "_cre1l": "38",
+    "rank": "-11%"
+  },
+  {
+    "jmeno": "Jiří Čunek",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-5",
+    "_cre1l": "46",
+    "rank": "-11%"
+  },
+  {
+    "jmeno": "Petr Vícha",
+    "strana": "ČSSD",
+    "_cpzh4": "-5",
+    "_cre1l": "46",
+    "rank": "-11%"
+  },
+  {
+    "jmeno": "Jaroslav Větrovský",
+    "strana": "BEZPP",
+    "_cpzh4": "-3",
+    "_cre1l": "25",
+    "rank": "-12%"
+  },
+  {
+    "jmeno": "Jiří Cieńciała",
+    "strana": "BEZPP",
+    "_cpzh4": "-3",
+    "_cre1l": "25",
+    "rank": "-12%"
+  },
+  {
+    "jmeno": "Ladislav Kos",
+    "strana": "HPP 11",
+    "_cpzh4": "-3",
+    "_cre1l": "25",
+    "rank": "-12%"
+  },
+  {
+    "jmeno": "Jiří Šesták",
+    "strana": "\"HOPB\"",
+    "_cpzh4": "-4",
+    "_cre1l": "32",
+    "rank": "-13%"
+  },
+  {
+    "jmeno": "Pavel Lebeda",
+    "strana": "BEZPP",
+    "_cpzh4": "-1",
+    "_cre1l": "8",
+    "rank": "-13%"
+  },
+  {
+    "jmeno": "Josef Táborský",
+    "strana": "ČSSD",
+    "_cpzh4": "-3",
+    "_cre1l": "21",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Miroslav Adámek",
+    "strana": "BEZPP",
+    "_cpzh4": "-2",
+    "_cre1l": "14",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Petr Gawlas",
+    "strana": "ČSSD",
+    "_cpzh4": "-3",
+    "_cre1l": "21",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Zdeněk Besta",
+    "strana": "ČSSD",
+    "_cpzh4": "-3",
+    "_cre1l": "21",
+    "rank": "-14%"
+  },
+  {
+    "jmeno": "Jaromír Strnad",
+    "strana": "ČSSD",
+    "_cpzh4": "-7",
+    "_cre1l": "46",
+    "rank": "-15%"
+  },
+  {
+    "jmeno": "Miroslav Nenutil",
+    "strana": "ČSSD",
+    "_cpzh4": "-7",
+    "_cre1l": "46",
+    "rank": "-15%"
+  },
+  {
+    "jmeno": "František Bublan",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "32",
+    "rank": "-16%"
+  },
+  {
+    "jmeno": "František Bradáč",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "38",
+    "rank": "-16%"
   },
   {
     "jmeno": "Jaroslav Malý",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=285",
-    "_cre1l": "24",
-    "rank": "-29%"
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "38",
+    "rank": "-16%"
+  },
+  {
+    "jmeno": "Alena Šromová",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-7",
+    "_cre1l": "38",
+    "rank": "-18%"
+  },
+  {
+    "jmeno": "Václav Hampl",
+    "strana": "BEZPP",
+    "_cpzh4": "-7",
+    "_cre1l": "38",
+    "rank": "-18%"
+  },
+  {
+    "jmeno": "Jan Veleba",
+    "strana": "SPO",
+    "_cpzh4": "-6",
+    "_cre1l": "32",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Zdeněk Škromach",
+    "strana": "ČSSD",
+    "_cpzh4": "-4",
+    "_cre1l": "21",
+    "rank": "-19%"
+  },
+  {
+    "jmeno": "Anna Hubáčková",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "25",
+    "rank": "-20%"
   },
   {
     "jmeno": "Jan Hajda",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=201",
+    "_cpzh4": "-6",
     "_cre1l": "30",
-    "rank": "-30%"
+    "rank": "-20%"
+  },
+  {
+    "jmeno": "Renata Chmelová",
+    "strana": "BEZPP",
+    "_cpzh4": "-5",
+    "_cre1l": "25",
+    "rank": "-20%"
+  },
+  {
+    "jmeno": "Jitka Seitlová",
+    "strana": "BEZPP",
+    "_cpzh4": "-8",
+    "_cre1l": "38",
+    "rank": "-21%"
+  },
+  {
+    "jmeno": "Jaromír Jermář",
+    "strana": "ČSSD",
+    "_cpzh4": "-7",
+    "_cre1l": "32",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Lubomír Franc",
+    "strana": "ČSSD",
+    "_cpzh4": "-7",
+    "_cre1l": "32",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Zdeněk Brož",
+    "strana": "BEZPP",
+    "_cpzh4": "-7",
+    "_cre1l": "32",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "Alena Dernerová",
+    "strana": "BEZPP",
+    "_cpzh4": "-10",
+    "_cre1l": "45",
+    "rank": "-22%"
+  },
+  {
+    "jmeno": "František Čuba",
+    "strana": "SPO",
+    "_cpzh4": "-5",
+    "_cre1l": "22",
+    "rank": "-23%"
+  },
+  {
+    "jmeno": "Jiří Carbol",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-9",
+    "_cre1l": "38",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Karel Kratochvíle",
+    "strana": "ČSSD",
+    "_cpzh4": "-9",
+    "_cre1l": "38",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Pavel Štohl",
+    "strana": "BEZPP",
+    "_cpzh4": "-9",
+    "_cre1l": "38",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Dagmar Terelmešová",
+    "strana": "ČSSD",
+    "_cpzh4": "-5",
+    "_cre1l": "21",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Jaromíra Vítková",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-6",
+    "_cre1l": "25",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Jiří Dušek",
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "25",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Ladislav Václavec",
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "25",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Zuzana Baudyšová",
+    "strana": "BEZPP",
+    "_cpzh4": "-6",
+    "_cre1l": "25",
+    "rank": "-24%"
+  },
+  {
+    "jmeno": "Ivo Bárek",
+    "strana": "ČSSD",
+    "_cpzh4": "-12",
+    "_cre1l": "46",
+    "rank": "-26%"
+  },
+  {
+    "jmeno": "Jiří Dienstbier",
+    "strana": "ČSSD",
+    "_cpzh4": "-12",
+    "_cre1l": "46",
+    "rank": "-26%"
+  },
+  {
+    "jmeno": "Milan Štěch",
+    "strana": "ČSSD",
+    "_cpzh4": "-12",
+    "_cre1l": "46",
+    "rank": "-26%"
   },
   {
     "jmeno": "Jan Látka",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=260",
+    "_cpzh4": "-9",
     "_cre1l": "32",
+    "rank": "-28%"
+  },
+  {
+    "jmeno": "Vladimír Plaček",
+    "strana": "ČSSD",
+    "_cpzh4": "-9",
+    "_cre1l": "32",
+    "rank": "-28%"
+  },
+  {
+    "jmeno": "Miluše Horská",
+    "strana": "BEZPP",
+    "_cpzh4": "-13",
+    "_cre1l": "46",
+    "rank": "-28%"
+  },
+  {
+    "jmeno": "Ivana Cabrnochová",
+    "strana": "SZ",
+    "_cpzh4": "-4",
+    "_cre1l": "13",
     "rank": "-31%"
   },
   {
     "jmeno": "Božena Sekaninová",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=203",
+    "_cpzh4": "-10",
     "_cre1l": "32",
     "rank": "-31%"
   },
   {
-    "jmeno": "Jitka Seitlová",
-    "strana": "BEZPP/KDU-ČSL+SZ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=63",
-    "_cre1l": "24",
-    "rank": "-33%"
-  },
-  {
-    "jmeno": "Zdeněk Besta",
+    "jmeno": "Hassan Mezian",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=248",
-    "_cre1l": "21",
-    "rank": "-33%"
-  },
-  {
-    "jmeno": "Zdeněk Škromach",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=252",
-    "_cre1l": "21",
-    "rank": "-33%"
-  },
-  {
-    "jmeno": "Eva Syková",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=265",
+    "_cpzh4": "-10",
     "_cre1l": "32",
-    "rank": "-34%"
-  },
-  {
-    "jmeno": "Miroslav Nenutil",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=211",
-    "_cre1l": "32",
-    "rank": "-34%"
-  },
-  {
-    "jmeno": "Vladimír Plaček",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=264",
-    "_cre1l": "32",
-    "rank": "-34%"
-  },
-  {
-    "jmeno": "Milan Štěch",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=15",
-    "_cre1l": "32",
-    "rank": "-34%"
-  },
-  {
-    "jmeno": "Lumír Kantor",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=304",
-    "_cre1l": "11",
-    "rank": "-36%"
-  },
-  {
-    "jmeno": "Zdeňka Hamousová",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=274",
-    "_cre1l": "24",
-    "rank": "-38%"
-  },
-  {
-    "jmeno": "Ivo Bárek",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=139",
-    "_cre1l": "32",
-    "rank": "-38%"
-  },
-  {
-    "jmeno": "Jaromír Jermář",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=196",
-    "_cre1l": "32",
-    "rank": "-38%"
-  },
-  {
-    "jmeno": "Pavel Lebeda",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=1.10.2014&O=9&par_3=222",
-    "_cre1l": "8",
-    "rank": "-38%"
-  },
-  {
-    "jmeno": "Peter Koliba",
-    "strana": "BEZPP/ANO 2011",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=291",
-    "_cre1l": "24",
-    "rank": "-42%"
-  },
-  {
-    "jmeno": "Petr Gawlas",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=250",
-    "_cre1l": "21",
-    "rank": "-43%"
+    "rank": "-31%"
   },
   {
     "jmeno": "Milada Emmerová",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=257",
+    "_cpzh4": "-10",
     "_cre1l": "32",
-    "rank": "-44%"
-  },
-  {
-    "jmeno": "Emilie Třísková",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=284",
-    "_cre1l": "24",
-    "rank": "-46%"
-  },
-  {
-    "jmeno": "Jiří Carbol",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=290",
-    "_cre1l": "24",
-    "rank": "-46%"
+    "rank": "-31%"
   },
   {
     "jmeno": "Zdeněk Berka",
     "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=254",
+    "_cpzh4": "-10",
     "_cre1l": "32",
-    "rank": "-47%"
+    "rank": "-31%"
   },
   {
-    "jmeno": "Václav Hampl",
-    "strana": "BEZPP/KDU-ČSL+SZ",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=280",
-    "_cre1l": "24",
-    "rank": "-50%"
-  },
-  {
-    "jmeno": "Hassan Mezian",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=262",
-    "_cre1l": "32",
-    "rank": "-50%"
-  },
-  {
-    "jmeno": "Josef Táborský",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=238",
-    "_cre1l": "21",
-    "rank": "-52%"
-  },
-  {
-    "jmeno": "František Bublan",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=256",
-    "_cre1l": "32",
-    "rank": "-53%"
-  },
-  {
-    "jmeno": "Alena Šromová",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=289",
-    "_cre1l": "24",
-    "rank": "-54%"
-  },
-  {
-    "jmeno": "Alena Dernerová",
-    "strana": "BEZPP/SD-SN",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=233",
-    "_cre1l": "31",
-    "rank": "-55%"
-  },
-  {
-    "jmeno": "Pavel Štohl",
-    "strana": "BEZPP/ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=287",
-    "_cre1l": "24",
-    "rank": "-58%"
-  },
-  {
-    "jmeno": "František Bradáč",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=286",
-    "_cre1l": "24",
-    "rank": "-58%"
-  },
-  {
-    "jmeno": "Stanislav Juránek",
-    "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=245",
-    "_cre1l": "21",
-    "rank": "-62%"
-  },
-  {
-    "jmeno": "Karel Kratochvíle",
-    "strana": "ČSSD",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=276",
-    "_cre1l": "24",
-    "rank": "-67%"
+    "jmeno": "Lumír Kantor",
+    "strana": "BEZPP",
+    "_cpzh4": "-8",
+    "_cre1l": "25",
+    "rank": "-32%"
   },
   {
     "jmeno": "Šárka Jelínková",
     "strana": "KDU-ČSL",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=309",
-    "_cre1l": "11",
-    "rank": "-82%"
+    "_cpzh4": "-8",
+    "_cre1l": "25",
+    "rank": "-32%"
   },
   {
-    "jmeno": "Tomáš Goláň",
-    "strana": "BEZPP/SEN 21",
-    "_cpzh4": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=312",
+    "jmeno": "Stanislav Juránek",
+    "strana": "KDU-ČSL",
+    "_cpzh4": "-7",
+    "_cre1l": "21",
+    "rank": "-33%"
+  },
+  {
+    "jmeno": "Peter Koliba",
+    "strana": "BEZPP",
+    "_cpzh4": "-13",
+    "_cre1l": "38",
+    "rank": "-34%"
+  },
+  {
+    "jmeno": "Eva Syková",
+    "strana": "BEZPP",
+    "_cpzh4": "-11",
+    "_cre1l": "32",
+    "rank": "-34%"
+  },
+  {
+    "jmeno": "Jiří Hlavatý",
+    "strana": "BEZPP",
+    "_cpzh4": "-7",
+    "_cre1l": "20",
+    "rank": "-35%"
+  },
+  {
+    "jmeno": "Jaroslav Doubrava",
+    "strana": "S.cz",
+    "_cpzh4": "-17",
+    "_cre1l": "46",
+    "rank": "-37%"
+  },
+  {
+    "jmeno": "Václav Homolka",
+    "strana": "KSČM",
+    "_cpzh4": "-12",
+    "_cre1l": "32",
+    "rank": "-38%"
+  },
+  {
+    "jmeno": "Libor Michálek",
+    "strana": "BEZPP",
+    "_cpzh4": "-13",
+    "_cre1l": "32",
+    "rank": "-41%"
+  },
+  {
+    "jmeno": "Zdeňka Hamousová",
+    "strana": "BEZPP",
+    "_cpzh4": "-16",
+    "_cre1l": "38",
+    "rank": "-42%"
+  },
+  {
+    "jmeno": "Hynek Hanza",
+    "strana": "ODS",
+    "_cpzh4": "-1",
     "_cre1l": "1",
     "rank": "-100%"
   }

@@ -44,5 +44,5 @@ Našli jste chybu? Dejte nám vědět.
 
 ---
 
-<a href="https://www.libinst.cz/"><img src="/img/libinst_logo_big.jpg" style="max-width:150px" class="img-responsive center-block"></a>
+<a href="https://www.libinst.cz/"><img src="/img/logo_liberalni-institut-1989.png" style="max-width:150px" class="img-responsive center-block"></a>
 ---

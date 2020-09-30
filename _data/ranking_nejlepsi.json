@@ -1,72 +1,72 @@
 [
   {
-    "jmeno": "Pavel Eybert",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=13",
-    "imageurl": "https://www.senat.cz/images/senatori/eybertp_295.jpg",
-    "procent": "52%"
-  },
-  {
     "jmeno": "Jaroslav Kubera",
     "strana": "ODS",
     "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=120",
     "imageurl": "https://www.senat.cz/images/senatori/kuberaj_295.jpg",
-    "procent": "50%"
-  },
-  {
-    "jmeno": "Milan Pešák",
-    "strana": "BEZPP/ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=235",
-    "imageurl": "https://www.senat.cz/images/senatori/pesakm_295.jpg",
-    "procent": "48%"
-  },
-  {
-    "jmeno": "Petr Bratský",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=236",
-    "imageurl": "https://www.senat.cz/images/senatori/bratskyp_295.jpg",
-    "procent": "48%"
-  },
-  {
-    "jmeno": "Jiří Burian",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=277",
-    "imageurl": "https://www.senat.cz/images/senatori/burianj_295.jpg",
     "procent": "46%"
   },
   {
-    "jmeno": "Zdeněk Nytra",
-    "strana": "BEZPP/NK",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=307",
-    "imageurl": "https://www.senat.cz/images/senatori/nytraz_295.jpg",
-    "procent": "45%"
+    "jmeno": "Milan Pešák",
+    "strana": "ODS",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=235",
+    "imageurl": "https://www.senat.cz/images/senatori/pesakm_295.jpg",
+    "procent": "33%"
   },
   {
-    "jmeno": "Tomáš Grulich",
+    "jmeno": "Pavel Eybert",
     "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=193",
-    "imageurl": "https://www.senat.cz/images/senatori/grulicht_295.jpg",
-    "procent": "44%"
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=13",
+    "imageurl": "https://www.senat.cz/images/senatori/eybertp_295.jpg",
+    "procent": "33%"
+  },
+  {
+    "jmeno": "Přemysl Sobotka",
+    "strana": "ODS",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=34",
+    "imageurl": "https://www.senat.cz/images/senatori/sobotkap_295.jpg",
+    "procent": "33%"
+  },
+  {
+    "jmeno": "Zdeněk Nytra",
+    "strana": "NK / ODS",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=307",
+    "imageurl": "https://www.senat.cz/images/senatori/nytraz_295.jpg",
+    "procent": "32%"
+  },
+  {
+    "jmeno": "Jan Sobotka",
+    "strana": "STAN",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=311",
+    "imageurl": "https://www.senat.cz/images/senatori/sobotkaj_295.jpg",
+    "procent": "29%"
+  },
+  {
+    "jmeno": "Veronika Vrecionová",
+    "strana": "ODS",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=237",
+    "imageurl": "https://www.senat.cz/images/senatori/vrecionovav_295.jpg",
+    "procent": "29%"
   },
   {
     "jmeno": "Lumír Aschenbrenner",
     "strana": "ODS",
     "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=275",
     "imageurl": "https://www.senat.cz/images/senatori/aschenbrennerl_295.jpg",
-    "procent": "42%"
-  },
-  {
-    "jmeno": "Miloš Vystrčil",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=243",
-    "imageurl": "https://www.senat.cz/images/senatori/vystrcilm_295.jpg",
-    "procent": "41%"
+    "procent": "26%"
   },
   {
     "jmeno": "Tomáš Jirsa",
     "strana": "ODS",
     "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=171",
     "imageurl": "https://www.senat.cz/images/senatori/jirsat_295.jpg",
-    "procent": "38%"
+    "procent": "26%"
+  },
+  {
+    "jmeno": "Jiří Burian",
+    "strana": "ODS",
+    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=277",
+    "imageurl": "https://www.senat.cz/images/senatori/burianj_295.jpg",
+    "procent": "21%"
   }
 ]
