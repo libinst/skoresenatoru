@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Hlasování - Covid: export</title>
+
+  <meta name="author" content="Liberalni institut" />
+
+  <link rel="icon" href="https://i2.wp.com/libinst.cz/wp-content/uploads/2020/03/cropped-logo_li-1.png?fit=32%2C32&amp;ssl=1" sizes="32x32" />
+  <link rel="icon" href="https://i2.wp.com/libinst.cz/wp-content/uploads/2020/03/cropped-logo_li-1.png?fit=192%2C192&amp;ssl=1" sizes="192x192" />
+  <link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/libinst.cz/wp-content/uploads/2016/12/cropped-libinst.jpg?fit=180%2C180" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Hlasování - Covid: export" />
+  
+
+   
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://www.skoresenatoru.cz/hlasovani/covid-export/" />
+  <link rel="canonical" href="http://www.skoresenatoru.cz/hlasovani/covid-export/" />
+  
+
+  
+  <meta property="og:image" content="http://www.skoresenatoru.cz/img/logo_li.png" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@libinstcz" />
+  <meta name="twitter:creator" content="@libinstcz" />
+
+  
+  <meta name="twitter:title" content="Hlasování - Covid: export" />
+  
+
+  
+
+  
+  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/logo_li.png" />
+  
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
+      
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    jQuery.getJSON('/senatori.json', function(data) {
+      $("#senator-search").autocomplete({
+        source: data,
+        minLength: 2,
+        select: function(event, ui){
+          // console.log(ui.item.url)
+          // redirect to url
+          window.location = ui.item.url
+        }
+      });
+    });
+    </script>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <div class="col-sm-3 col-md-3">
+        <form class="navbar-form" role="search" action="https://cse.google.com/cse">
+          <input type="hidden" name="cx" value="006352263766031622043:ygat1wey7ys">
+          <div class="input-group">
+            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
+          </div>
+        </form>
+      </div>
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+
+
+
+
+
+
+
+
+
+
+<a href="/">TOP10</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+
+
+
+
+
+<a href="/celkove-poradi">Celkové pořadí</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+
+
+
+
+
+<a href="/hlasovani">Hlasování</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+
+
+
+
+
+<a href="/o-projektu">O projektu</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://www.skoresenatoru.cz ">
+	      <img class="avatar-img" src="/img/logo_li.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <div class="intro-header"></div>
+
+<div role="main" class="container">
+  <h1>Covid: export</h1>
+
+<a href="https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=18836&O=12">20. schůze, 55. hlasování, 17.04.2020 - 240/12 - Návrh zákona, kterým se mění zákon č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů, ve znění pozdějších předpisů, a zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisůschválit</a>
+
+<h2>Pozice LI: PROTI</h2>
+<blockquote>
+<p>Vládní návrh na rozšíření státní podpory exportu během pandemie v podobě záruk za závazky vývozců, a výrobních a obchodních podniků. Nejde o dobrý způsob koronavirové kompenzace, více v naší studii o vládních koronavirových opatřeních.</p>
+</blockquote>
+
+<h2>Jak hlasovali?</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Senátor</th>
+      <th>Strana</th>
+      <th>Hlasoval</th>
+    </tr>
+  </thead>
+  <tbody>
+  
+    <tr><td><a class="page-link" href="/senatori/milan-stech/">Milan Štěch</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/rndr.-jitka-seitlova/">RNDr. Jitka Seitlová</a></td><td>KDUČSLSZ</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jaroslav-doubrava/">Jaroslav Doubrava</a></td><td>S.cz</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-arch.-daniela-filipiova/">Ing. arch. Daniela Filipiová</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jaroslav-kubera/">Jaroslav Kubera</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-ivo-barek/">Ing. Ivo Bárek</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jan-hornik/">Ing. Jan Horník</a></td><td>STAN</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-tomas-jirsa/">Ing. Tomáš Jirsa</a></td><td>ODS</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jiri-oberfalzer/">Jiří Oberfalzer</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/phdr.-tomas-grulich/">PhDr. Tomáš Grulich</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/phdr.-jaromir-jermar/">PhDr. Jaromír Jermář</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jan-hajda/">Ing. Jan Hajda</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/bozena-sekaninova/">Božena Sekaninová</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-petr-vicha/">Ing. Petr Vícha</a></td><td>ČSSD</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jiri-cunek/">Jiří Čunek</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/paeddr.-vaclav-homolka/">PaedDr. Václav Homolka</a></td><td>KSČM</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-miroslav-nenutil/">Mgr. Miroslav Nenutil</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/judr.-miroslav-antl/">JUDr. Miroslav Antl</a></td><td>ČSSD</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-radek-susil/">MUDr. Radek Sušil</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jaromir-strnad/">Ing. Jaromír Strnad</a></td><td>ČSSD</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-miluse-horska/">Mgr. Miluše Horská</a></td><td>KDU-ČSL+Nestran</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-petr-silar/">Ing. Petr Šilar</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/rndr.-milos-vystrcil/">RNDr. Miloš Vystrčil</a></td><td>ODSSNKEDSsČRSTO</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-mudr.-jan-zaloudik-csc./">prof. MUDr. Jan Žaloudík CSc.</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jiri-dienstbier/">Mgr. Jiří Dienstbier</a></td><td>ČSSD</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-zdenek-berka/">Ing. Zdeněk Berka</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-bc.-zdenek-broz/">Mgr. Bc. Zdeněk Brož</a></td><td>KDU+NV</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-frantisek-bublan/">Mgr. František Bublan</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.mudr.-milada-emmerova--csc./">Doc.MUDr. Milada Emmerová  CSc.</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/bc.-lubomir-franc/">Bc. Lubomír Franc</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-ludek-jenista/">Mgr. Luděk Jeništa</a></td><td>TOP+STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jan-latka/">Jan Látka</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-radko-martinek/">Mgr. Radko Martínek</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-hassan-mezian/">MUDr. Hassan Mezian</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-mgr.-vladimir-placek-mba/">MUDr. Mgr. Vladimír Plaček MBA</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-mudr.-eva-sykova-drsc./">prof. MUDr. Eva Syková DrSc.</a></td><td>ČSSD</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jan-veleba/">Ing. Jan Veleba</a></td><td>NK</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/judr.-eliska-wagnerova--ph.d./">JUDr. Eliška Wagnerová  Ph.D.</a></td><td>SZ</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jaroslav-zeman/">Jaroslav Zeman</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-libor-michalek-mpa/">Mgr. Libor Michálek MPA</a></td><td>PirSZKDU</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-leopold-sulovsky/">Ing. Leopold Sulovský</a></td><td>Ostravak</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jiri-sestak-ph.d./">Mgr. Jiří Šesták Ph.D.</a></td><td>STANHOPB</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-bc.-patrik-kuncar/">Ing. Bc. Patrik Kunčar</a></td><td>KDU-ČSL</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-zdenka-hamousova/">Mgr. Zdeňka Hamousová</a></td><td>ANO 2011</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-lumir-aschenbrenner/">Ing. Lumír Aschenbrenner</a></td><td>ODS+KČ</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-karel-kratochvile/">Ing. Karel Kratochvíle</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jiri-burian/">Ing. Jiří Burian</a></td><td>ODS</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-vaclav-laska/">Mgr. Václav Láska</a></td><td>KDUČSLSZ</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-zuzana-baudysova/">Ing. Zuzana Baudyšová</a></td><td>ANO 2011</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-rndr.-vaclav-hampl-drsc./">prof. RNDr. Václav Hampl DrSc.</a></td><td>KDUČSLSZ</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-zbynek-linhart/">Ing. Zbyněk Linhart</a></td><td>STAN</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/jiri-vosecky/">Jiří Vosecký</a></td><td>SLK</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jiri-hlavaty/">Ing. Jiří Hlavatý</a></td><td>ANO 2011</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/emilie-triskova/">Emilie Třísková</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-mudr.-jaroslav-maly-csc./">prof. MUDr. Jaroslav Malý CSc.</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-frantisek-bradac/">Ing. František Bradáč</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-pavel-stohl/">Ing. Pavel Štohl</a></td><td>ČSSD</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/phdr.-zdenek-papousek/">PhDr. Zdeněk Papoušek</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-alena-sromova/">MUDr. Alena Šromová</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jiri-carbol/">Ing. Jiří Carbol</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.-mudr.-peter-koliba-csc./">doc. MUDr. Peter Koliba CSc.</a></td><td>ANO 2011</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.-ing.-frantisek-cuba-csc./">doc. Ing. František Čuba CSc.</a></td><td>SPO</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ivo-valenta/">Ivo Valenta</a></td><td>SsČR</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-vaclav-chaloupek/">Mgr. Václav Chaloupek</a></td><td>OPAT</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jaroslav-vetrovsky/">Mgr. Jaroslav Větrovský</a></td><td>ANO 2011</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-ladislav-kos/">Ing. Ladislav Kos</a></td><td>KDUSZ+HPP11+Pir</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/renata-chmelova/">Renata Chmelová</a></td><td>KDU+Pir+DPD+LES</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jiri-ruzicka/">Mgr. Jiří Růžička</a></td><td>TOP+STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/petr-holecek/">Petr Holeček</a></td><td>STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-michael-canov/">Ing. Michael Canov</a></td><td>STAN+SLK</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-tomas-czernin/">Ing. Tomáš Czernin</a></td><td>TOP+STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jaromira-vitkova/">Ing. Jaromíra Vítková</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jiri-dusek-ph.d./">Mgr. Jiří Dušek Ph.D.</a></td><td>ANO 2011</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-lumir-kantor-ph.d./">MUDr. Lumír Kantor Ph.D.</a></td><td>KDU-ČSL</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-ladislav-vaclavec/">MUDr. Ladislav Václavec</a></td><td>ANO 2011</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/petr-orel/">Petr Orel</a></td><td>KDUČSLSZ</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-zdenek-nytra/">Ing. Zdeněk Nytra</a></td><td>NK</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.-ing.-jiri-cienciala-csc./">doc. Ing. Jiří Cieńciała CSc.</a></td><td>&quot;OSN&quot;</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-sarka-jelinkova/">Mgr. Šárka Jelínková</a></td><td>KDU-ČSL</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-bc.-anna-hubackova/">Ing. Bc. Anna Hubáčková</a></td><td>KDU-ČSL</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-alena-dernerova/">MUDr. Alena Dernerová</a></td><td>SD-SN</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jan-sobotka/">Ing. Jan Sobotka</a></td><td>STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-tomas-golan/">Ing. Tomáš Goláň</a></td><td>SEN 21</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-ing.-jiri-drahos-drsc./">prof. Ing. Jiří Drahoš DrSc.</a></td><td>KDU+Z+STAN+TOP</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-miroslav-balatka/">Ing. Miroslav Balatka</a></td><td>STAN</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mvdr.-premysl-rabas/">MVDr. Přemysl Rabas</a></td><td>SEN 21</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-mgr.-pavel-karpisek/">Ing. Mgr. Pavel Karpíšek</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-vladislav-vilimec/">Ing. Vladislav Vilímec</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/judr.-ladislav-faktor/">JUDr. Ladislav Faktor</a></td><td>NK</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/pavel-fischer/">Pavel Fischer</a></td><td>NK</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-lukas-wagenknecht/">Ing. Lukáš Wagenknecht</a></td><td>Piráti</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-bc.-marek-hilser-ph.d./">MUDr. Bc. Marek Hilšer Ph.D.</a></td><td>MHS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-ladislav-chlupac/">Mgr. Ladislav Chlupáč</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-raduan-nwelati/">MUDr. Raduan Nwelati</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/judr.-ing.-zdenek-hraba-ph.d./">JUDr. Ing. Zdeněk Hraba Ph.D.</a></td><td>STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jan-tecl-mba/">Mgr. Jan Tecl MBA</a></td><td> ODS+STAN+STO</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-martin-cervicek/">Mgr. Martin Červíček</a></td><td>ODS</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/michal-kortys/">Michal Kortyš</a></td><td>ODS</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/hana-zakova/">Hana Žáková</a></td><td>STAN</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/rostislav-kostial/">Rostislav Koštial</a></td><td>ODS</td><td>zdržuje se</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.-phdr.-mikulas-bek-ph.d./">doc. PhDr. Mikuláš Bek Ph.D.</a></td><td>ZelODSSTANTOP09</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-jitka-chalankova/">MUDr. Jitka Chalánková</a></td><td>NK</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-miroslav-adamek/">Mgr. Miroslav Adámek</a></td><td>ANO 2011</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-herbert-pavera/">Mgr. Herbert Pavera</a></td><td>ODS+STAN+TOP 09</td><td>PRO</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/david-smoljak/">David Smoljak</a></td><td>STAN</td><td>neúčast</td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/bc.-hynek-hanza/">Bc. Hynek Hanza</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-ondrej-feber/">Ing. Ondřej Feber</a></td><td>ANO</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/prof.-dr.-ing.-miroslav-plevny/">prof. Dr. Ing. Miroslav Plevný</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-ivo-tresl/">MUDr. Ivo Trešl</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-bc.-tomas-fiala-mba/">MUDr. Bc. Tomáš Fiala MBA</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-jaroslav-chalupsky/">Ing. Jaroslav Chalupský</a></td><td>Svobodní</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/petr-stepanek/">Petr Štěpánek</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/miroslava-nemcova/">Miroslava Němcová</a></td><td>ODS+STAN+TOP 09</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-adela-sipova/">Mgr. Adéla Šípová</a></td><td>Piráti</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-pavel-karnik/">Mgr. Pavel Kárník</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/judr.-jan-holasek-ll.m./">JUDr. Jan Holásek LL.M.</a></td><td>HDK+TOP+SE+Z+LE</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-jan-grulich/">Mgr. Jan Grulich</a></td><td>TOP 09+LES</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/ing.-josef-klement/">Ing. Josef Klement</a></td><td>KDU-ČSL</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mgr.-tomas-tretina/">Mgr. Tomáš Třetina</a></td><td>ODS+STAN+TOP 09</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-karel-zitterbart-ph.d./">MUDr. Karel Zitterbart Ph.D.</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/mudr.-roman-kraus-mba/">MUDr. Roman Kraus MBA</a></td><td>ODS+TOP 09</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/marek-ostadal/">Marek Ošťádal</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/rndr.-helena-pesatova/">RNDr. Helena Pešatová</a></td><td>STAN</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/doc.-mudr.-ondrej-simetka-ph.d./">doc. MUDr. Ondřej Šimetka Ph.D.</a></td><td>ODS</td><td></td></tr>
+  
+    <tr><td><a class="page-link" href="/senatori/josef-bazala/">Josef Bazala</a></td><td>KDU-ČSL</td><td></td></tr>
+  
+  </tbody>
+</table>
+
+
+  <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <!--- Share on Twitter -->
+    <a href="https://twitter.com/intent/tweet?text=Hlasov%C3%A1n%C3%AD+-+Covid%3A+export+http://www.skoresenatoru.cz/hlasovani/covid-export/"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+  <!--- Share on Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/hlasovani/covid-export/"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+
+
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          <li>
+            <a href="https://www.facebook.com/liberalni.institut" title="Facebook">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Facebook</span>
+            </a>
+          </li>
+          
+          
+		  
+          <li>
+            <a href="https://twitter.com/libinstcz" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:info@libinst.cz" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+      
+      
+      
+        </ul>
+        <p class="copyright text-muted">
+		  Liberalni institut
+		  &nbsp;&bull;&nbsp;
+		  2022
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-106799201-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>
